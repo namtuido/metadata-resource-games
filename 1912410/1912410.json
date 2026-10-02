@@ -2,6 +2,30 @@
   "_lastChecked": 1790815095,
   "_history": [
     {
+      "buildId": "99999999",
+      "branch": "public",
+      "timeUpdated": 1790915057,
+      "firstSeen": 1790915057,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": null,
+          "download": null
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": null,
+          "download": null
+        },
+        "1912411": {
+          "gid": "1012784868868940449",
+          "size": 10106430473,
+          "download": 9711971648
+        }
+      },
+      "_source": "local-test"
+    },
+    {
       "buildId": "25647713",
       "branch": "public",
       "timeUpdated": 1790871916,
