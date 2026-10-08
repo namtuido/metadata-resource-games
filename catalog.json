@@ -1,0 +1,2925 @@
+[
+  {
+    "id": "game-1672970",
+    "appid": 1672970,
+    "name": "Minecraft Dungeons",
+    "developer": "Mojang Studios",
+    "publisher": "Xbox Game Studios",
+    "installdir": "MinecraftDungeons",
+    "launch_exes": [
+      "Dungeons.exe"
+    ],
+    "build_id": "10005697",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1672970/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10005697",
+        "branch": "public",
+        "label": "Public - Build 10005697 (11/30/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1672971"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "9775766",
+        "branch": "public",
+        "label": "Public - Build 9775766 (10/25/2022)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1672971"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
+    "id": "game-1912410",
+    "appid": 1912410,
+    "name": "Minecraft Dungeons II",
+    "developer": "Mojang Studios",
+    "publisher": "Xbox Game Studios",
+    "installdir": "Minecraft Dungeons II",
+    "launch_exes": [
+      "Dungeons.exe"
+    ],
+    "build_id": "25647713",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1912410/47d3b04112a86b5ddebb28252d4fa8e51671bfea/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25647713",
+        "branch": "public",
+        "label": "Public - Build 25647713 (10/01/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1912411"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "25041023",
+        "branch": "public",
+        "label": "Public - Build 25041023 (09/29/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1912411"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
+    "id": "game-2050650",
+    "appid": 2050650,
+    "name": "Resident Evil 4",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "RESIDENT EVIL 4  BIOHAZARD RE4",
+    "launch_exes": [
+      "re4.exe"
+    ],
+    "build_id": "22377325",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22377325",
+        "branch": "public",
+        "label": "Public - Build 22377325 (03/31/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "2050651",
+          "2050652",
+          "2050653",
+          "2050654",
+          "2050655",
+          "2109300",
+          "2109301",
+          "2109303",
+          "2109304",
+          "2109305",
+          "2109306",
+          "2109307",
+          "2109308",
+          "2109309",
+          "2109310",
+          "2109311",
+          "2109312",
+          "2109313",
+          "2109314",
+          "2109315",
+          "2109316",
+          "2109317",
+          "2197320",
+          "2197321",
+          "2197322",
+          "2197323",
+          "2197324",
+          "2197325",
+          "2197326",
+          "2197327",
+          "2197328"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
+    "id": "game-2229850",
+    "appid": 2229850,
+    "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™",
+    "developer": "Westwood Pacific",
+    "publisher": "Electronic Arts",
+    "installdir": "Command & Conquer Red Alert II",
+    "launch_exes": [
+      "Ra2.exe",
+      "RA2MD.exe",
+      "FinalAlert2\\FinalAlert2YR.exe",
+      "FinalAlert2YR.exe"
+    ],
+    "build_id": "15918130",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2229850/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2229850/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "15918130",
+        "branch": "public",
+        "label": "Public - Build 15918130 (02/27/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2229851",
+          "2229852",
+          "2229853",
+          "2229854",
+          "2229855",
+          "2229856"
+        ],
+        "languages": [
+          {
+            "id": 2229852,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "depot"
+          },
+          {
+            "id": 2229853,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 2229854,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 2229855,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 2229856,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 2229852,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "depot"
+      },
+      {
+        "id": 2229853,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 2229854,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 2229855,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 2229856,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 2229852,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "depot"
+      },
+      {
+        "id": 2229853,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 2229854,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 2229855,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 2229856,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      }
+    ]
+  },
+  {
+    "id": "game-2288340",
+    "appid": 2288340,
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "developer": "Bandai Namco Aces Inc.",
+    "publisher": "Bandai Namco Entertainment Inc.",
+    "installdir": "ACE COMBAT 8",
+    "launch_exes": [
+      "start_protected_game.exe",
+      "ACZero\\acz.exe",
+      "acz.exe",
+      "Game\\Binaries\\Win64\\AceCombat8.exe",
+      "AceCombat8.exe",
+      "01.bat",
+      "02.bat",
+      "ACZero\\aczTest.exe",
+      "aczTest.exe"
+    ],
+    "build_id": "25201480",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2288340/a1fb5685d2c140309d5549af1ddc725a7114d889/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2288340/6d3732a3c2138438423a53aab958335c4c215f41/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25201480",
+        "branch": "public",
+        "label": "Public - Build 25201480 (09/09/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2288341",
+          "3635880"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
+    "id": "game-2358720",
+    "appid": 2358720,
+    "name": "Black Myth: Wukong",
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "installdir": "BlackMythWukong",
+    "launch_exes": [
+      "b1.exe"
+    ],
+    "build_id": "21393610",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21393610",
+        "branch": "public",
+        "label": "Public - Build 21393610 (01/06/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "229006",
+          "2358721",
+          "2672611"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
+    "id": "game-3321460",
+    "appid": 3321460,
+    "name": "Crimson Desert Enhanced",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "installdir": "Crimson Desert",
+    "launch_exes": [
+      "bin64/CrimsonDesert.exe",
+      "CrimsonDesert.exe",
+      "CrimsonDesert_Steam.app"
+    ],
+    "build_id": "25477059",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3321460/85f762166594b84330761c11d3106182634c882c/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3321460/2a9754975cf3bbf08f89fd82d0e2400505a8f4b8/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25477059",
+        "branch": "public",
+        "label": "Public - Build 25477059 (10/01/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "3321463",
+          "3321464",
+          "3321465",
+          "3321466",
+          "3321467",
+          "228989"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321463,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3321464,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3321465,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3321466,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25474236",
+        "branch": "public",
+        "label": "Public - Build 25474236 (09/23/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "3321463",
+          "3321464",
+          "3321465",
+          "3321466",
+          "3321467",
+          "228989"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321463,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3321464,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3321465,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3321466,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25381195",
+        "branch": "public",
+        "label": "Public - Build 25381195 (09/18/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "3321463",
+          "3321464",
+          "3321465",
+          "3321466",
+          "3321467"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321463,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3321464,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3321465,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3321466,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25246367",
+        "branch": "public",
+        "label": "Public - Build 25246367 (09/11/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "3321463",
+          "3321464",
+          "3321465",
+          "3321466",
+          "3321467"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321463,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3321464,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3321465,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3321466,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25116796",
+        "branch": "public",
+        "label": "Public - Build 25116796 (09/04/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "3321463",
+          "3321464",
+          "3321465",
+          "3321466",
+          "3321467"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321463,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3321464,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3321465,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3321466,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "24613230",
+        "branch": "public",
+        "label": "Public - Build 24613230 (08/07/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "228989",
+          "3321467"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "24365908",
+        "branch": "public",
+        "label": "Public - Build 24365908 (07/24/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "228989",
+          "3321467"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "24236217",
+        "branch": "public",
+        "label": "Public - Build 24236217 (07/16/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3321461",
+          "3321462",
+          "228989",
+          "3321467"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      },
+      {
+        "id": 3321463,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3321464,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3321465,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3321466,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3321467,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      },
+      {
+        "id": 3321463,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3321464,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3321465,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3321466,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3321467,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      }
+    ]
+  },
+  {
+    "id": "game-3768760",
+    "appid": 3768760,
+    "name": "007 First Light",
+    "developer": "IO Interactive A/S",
+    "publisher": "IO Interactive A/S",
+    "installdir": "007 First Light",
+    "launch_exes": [
+      "Retail/007FirstLight.exe",
+      "007FirstLight.exe"
+    ],
+    "build_id": "25626700",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25626700",
+        "branch": "public",
+        "label": "Public - Build 25626700 (10/01/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "25484924",
+        "branch": "public",
+        "label": "Public - Build 25484924 (09/23/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "25323150",
+        "branch": "public",
+        "label": "Public - Build 25323150 (09/17/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "25248708",
+        "branch": "public",
+        "label": "Public - Build 25248708 (09/15/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "24835386",
+        "branch": "public",
+        "label": "Public - Build 24835386 (08/28/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "24298527",
+        "branch": "public",
+        "label": "Public - Build 24298527 (07/20/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "23909702",
+        "branch": "public",
+        "label": "Public - Build 23909702 (06/25/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "23685521",
+        "branch": "public",
+        "label": "Public - Build 23685521 (06/11/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "23640712",
+        "branch": "public",
+        "label": "Public - Build 23640712 (06/09/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "23531465",
+        "branch": "public",
+        "label": "Public - Build 23531465 (06/03/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "23502903",
+        "branch": "public",
+        "label": "Public - Build 23502903 (06/01/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "23430993",
+        "branch": "public",
+        "label": "Public - Build 23430993 (05/27/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "23388781",
+        "branch": "public",
+        "label": "Public - Build 23388781 (05/25/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
+    "id": "game-4078430",
+    "appid": 4078430,
+    "name": "STAR WARS: Galactic Racer™",
+    "developer": "Fuse Games",
+    "publisher": "Secret Mode",
+    "installdir": "STAR WARS Galactic Racer",
+    "launch_exes": [
+      "Launcher.exe",
+      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe",
+      "EpicOnlineServicesInstaller.exe"
+    ],
+    "build_id": "25801363",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4078430/16514821db6559e75c9067285fee5dd198492aee/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25801363",
+        "branch": "public",
+        "label": "Public - Build 25801363 (10/06/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "4078431"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
+    "id": "game-4080220",
+    "appid": 4080220,
+    "name": "EA SPORTS FC™ 27",
+    "developer": "EA CANADA",
+    "publisher": "Electronic Arts",
+    "installdir": "EA SPORTS FC 27",
+    "launch_exes": [
+      "steam2ea://launchgame/4080220?platform=steam&theme=fc27",
+      "4080220?platform=steam&theme=fc27"
+    ],
+    "build_id": "25726320",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4080220/81210d536b70c14e4cf9725f3f03d82bf64e5e25/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4080220/d2f529c51923a4e407658d8084fc66a87c4891b0/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25726320",
+        "branch": "public",
+        "label": "Public - Build 25726320 (10/05/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3340991",
+          "3893181",
+          "4080221",
+          "4080223",
+          "4080224",
+          "4080225",
+          "4080226",
+          "4080227",
+          "4080228",
+          "4080229",
+          "4080261",
+          "4080262",
+          "4080263",
+          "4080264",
+          "4080265",
+          "4080266",
+          "4080267",
+          "4080268",
+          "4080269",
+          "4160760",
+          "4160761",
+          "4160762",
+          "4160763",
+          "4160764"
+        ],
+        "languages": [
+          {
+            "id": 4080223,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 4080224,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "depot"
+          },
+          {
+            "id": 4080226,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 4080227,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080228,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 4080229,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080261,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080262,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080263,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080264,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080265,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080266,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080267,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 4080268,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 4080269,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 4160760,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 4160761,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 4160762,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 4160763,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 4160764,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25582620",
+        "branch": "public",
+        "label": "Public - Build 25582620 (10/02/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3340991",
+          "3893181",
+          "4080221",
+          "4080223",
+          "4080224",
+          "4080225",
+          "4080226",
+          "4080227",
+          "4080228",
+          "4080229",
+          "4080261",
+          "4080262",
+          "4080263",
+          "4080264",
+          "4080265",
+          "4080266",
+          "4080267",
+          "4080268",
+          "4080269",
+          "4160760",
+          "4160761",
+          "4160762",
+          "4160763",
+          "4160764"
+        ],
+        "languages": [
+          {
+            "id": 4080223,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 4080224,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "depot"
+          },
+          {
+            "id": 4080226,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 4080227,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080228,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 4080229,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080261,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080262,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080263,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080264,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080265,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080266,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080267,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 4080268,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 4080269,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 4160760,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 4160761,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 4160762,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 4160763,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 4160764,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25562691",
+        "branch": "public",
+        "label": "Public - Build 25562691 (09/29/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3340991",
+          "3893181",
+          "4080221",
+          "4080223",
+          "4080224",
+          "4080225",
+          "4080226",
+          "4080227",
+          "4080228",
+          "4080229",
+          "4080261",
+          "4080262",
+          "4080263",
+          "4080264",
+          "4080265",
+          "4080266",
+          "4080267",
+          "4080268",
+          "4080269",
+          "4160760",
+          "4160761",
+          "4160762",
+          "4160763",
+          "4160764"
+        ],
+        "languages": [
+          {
+            "id": 4080223,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 4080224,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "depot"
+          },
+          {
+            "id": 4080226,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 4080227,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080228,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 4080229,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080261,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080262,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080263,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080264,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080265,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080266,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080267,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 4080268,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 4080269,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 4160760,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 4160761,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 4160762,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 4160763,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 4160764,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25417797",
+        "branch": "public",
+        "label": "Public - Build 25417797 (09/20/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3340991",
+          "3893181",
+          "4080221",
+          "4080223",
+          "4080224",
+          "4080225",
+          "4080226",
+          "4080227",
+          "4080228",
+          "4080229",
+          "4080261",
+          "4080262",
+          "4080263",
+          "4080264",
+          "4080265",
+          "4080266",
+          "4080267",
+          "4080268",
+          "4080269",
+          "4160760",
+          "4160761",
+          "4160762",
+          "4160763",
+          "4160764"
+        ],
+        "languages": [
+          {
+            "id": 4080223,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 4080224,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "depot"
+          },
+          {
+            "id": 4080226,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 4080227,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080228,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 4080229,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080261,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080262,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080263,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080264,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080265,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080266,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080267,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 4080268,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 4080269,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 4160760,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 4160761,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 4160762,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 4160763,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 4160764,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25171808",
+        "branch": "public",
+        "label": "Public - Build 25171808 (09/12/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3340991",
+          "3893181",
+          "4080221",
+          "4080223",
+          "4080224",
+          "4080225",
+          "4080226",
+          "4080227",
+          "4080228",
+          "4080229",
+          "4080261",
+          "4080262",
+          "4080263",
+          "4080264",
+          "4080265",
+          "4080266",
+          "4080267",
+          "4080268",
+          "4080269",
+          "4160760",
+          "4160761",
+          "4160762",
+          "4160763",
+          "4160764"
+        ],
+        "languages": [
+          {
+            "id": 4080223,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 4080224,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "depot"
+          },
+          {
+            "id": 4080226,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 4080227,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080228,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 4080229,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080261,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080262,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080263,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080264,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080265,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080266,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080267,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 4080268,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 4080269,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 4160760,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 4160761,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 4160762,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 4160763,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 4160764,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "25094438",
+        "branch": "local",
+        "label": "Build 25094438 (09/03/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3340991",
+          "3893181",
+          "4080221",
+          "4080223",
+          "4080224",
+          "4080225",
+          "4080226",
+          "4080227",
+          "4080228",
+          "4080229",
+          "4080261",
+          "4080262",
+          "4080263",
+          "4080264",
+          "4080265",
+          "4080266",
+          "4080267",
+          "4080268",
+          "4080269",
+          "4160760",
+          "4160761",
+          "4160762",
+          "4160763",
+          "4160764"
+        ],
+        "languages": [
+          {
+            "id": 4080223,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 4080224,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "depot"
+          },
+          {
+            "id": 4080226,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 4080227,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080228,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 4080229,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080261,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080262,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080263,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 4080264,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080265,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 4080266,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 4080267,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 4080268,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 4080269,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 4160760,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 4160761,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 4160762,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 4160763,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 4160764,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 4080223,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 4080224,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 4080225,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "depot"
+      },
+      {
+        "id": 4080226,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 4080227,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 4080228,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 4080229,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 4080261,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080262,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080263,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 4080264,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080265,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080266,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 4080267,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 4080268,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 4080269,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 4160760,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 4160761,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 4160762,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 4160763,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 4160764,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 4080223,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 4080224,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 4080225,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "depot"
+      },
+      {
+        "id": 4080226,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 4080227,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 4080228,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 4080229,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 4080261,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080262,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080263,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 4080264,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080265,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 4080266,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 4080267,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 4080268,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 4080269,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 4160760,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 4160761,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 4160762,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 4160763,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 4160764,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ]
+  },
+  {
+    "id": "game-817130",
+    "appid": 817130,
+    "name": "WWE 2K19",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "installdir": "WWE 2K19",
+    "launch_exes": [
+      "WWE2K19_x64.exe"
+    ],
+    "build_id": "3467910",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/817130/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/817130/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "3467910",
+        "branch": "public",
+        "label": "Public - Build 3467910 (01/18/2019)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228987",
+          "228990",
+          "817131"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "3363474",
+        "branch": "public",
+        "label": "Public - Build 3363474 (12/04/2018)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228987",
+          "228990",
+          "817131"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "3258727",
+        "branch": "public",
+        "label": "Public - Build 3258727 (10/30/2018)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228987",
+          "228990",
+          "817131"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "3167511",
+        "branch": "public",
+        "label": "Public - Build 3167511 (09/29/2018)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228987",
+          "228990",
+          "817131"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  }
+]
