@@ -14,6 +14,12 @@ from pathlib import Path
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
+sys.path.insert(0, str(Path(r"E:\0xshinky")))
+try:
+    import vault
+except Exception:
+    vault = None
+
 _LANG_LABELS = {
     "english":    "English",
     "german":     "Deutsch (German)",
@@ -126,6 +132,7 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         depot_base = int(appid_str) + 1 if appid_str.isdigit() else 0
 
     # 4. Languages — STRICTLY from depots
+    history = data.get("_history", [])
     lang_depots = {}
     if isinstance(depots_raw, dict):
         for did_str, dinfo in depots_raw.items():
@@ -134,30 +141,44 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
                 if lang:
                     lang_depots[str(lang).lower()] = int(did_str)
 
-    default_base_lang = "english"
-    base_langs = [default_base_lang] if default_base_lang not in lang_depots else []
-    language_names = list(dict.fromkeys([*base_langs, *lang_depots.keys()]))
-
+    has_companion_lang_depots = len(lang_depots) > 0
     languages = []
-    for lang in language_names:
-        did = int(lang_depots.get(lang, 0) or 0)
+
+    # Luôn tạo mục Default (id: 0, source: 'base') đại diện cho game gốc không kèm gói ngôn ngữ phụ
+    languages.append({
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": True,
+    })
+
+    for lang, did in lang_depots.items():
+        if lang == "english":
+            # Nếu depot english không hề có manifest trong bất kỳ build nào thì bỏ qua (vì Default đã bao trùm)
+            has_any = any(str(did) in h.get("manifests", {}) for h in history if isinstance(h, dict))
+            if not has_any:
+                continue
         lbl = _LANG_LABELS.get(lang, lang.capitalize())
         languages.append({
             "id": did,
             "key": f"lang:{lang}",
             "lang": lang,
             "label": lbl,
-            "source": "depot" if did else "base",
+            "source": "depot",
         })
-
-    if not languages:
-        languages = [{"id": 0, "key": "lang:english", "lang": "english", "label": "English", "source": "base"}]
 
     # 5. Metadata Vault Check
     vault_file = repo_dir / appid_str / "metadata"
     has_vault = vault_file.is_file() and vault_file.stat().st_size > 64
+    vault_data = None
+    if has_vault and vault:
+        try:
+            vault_data = vault.load_vault(str(vault_file))
+        except Exception:
+            pass
 
-    history = data.get("_history", [])
     branches = depots_raw.get("branches", {}) if isinstance(depots_raw, dict) else {}
     versions = []
     recommended_build_index = 0
@@ -180,7 +201,20 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
             mfsts = h.get("manifests", {})
             manifest_depot_ids = [str(k) for k in mfsts.keys()] if isinstance(mfsts, dict) else []
 
-            is_ready = has_vault or (idx == 0)
+            is_ready = False
+            if vault_data:
+                base_gid = mfsts.get(str(depot_base), {}).get("gid")
+                if base_gid:
+                    has_key = (depot_base in vault_data.get("keys", {})) or (str(depot_base) in vault_data.get("keys", {}))
+                    combo = f"{depot_base}_{base_gid}"
+                    has_manifest = combo in vault_data.get("manifests", {})
+                    is_ready = bool(has_key and has_manifest)
+                else:
+                    is_ready = (idx == 0)
+            elif has_vault:
+                is_ready = bool(mfsts) or (idx == 0)
+            else:
+                is_ready = (idx == 0)
 
             if manifest_depot_ids:
                 base_available = (str(depot_base) in manifest_depot_ids) or not depot_base
@@ -193,7 +227,7 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
                 build_languages = list(languages)
 
             if not build_languages:
-                build_languages = [{"id": 0, "key": "lang:english", "lang": "english", "label": "English", "source": "base"}]
+                build_languages = list(languages)
 
             soon_suffix = "" if is_ready else " · Sắp có mặt (Update soon)"
             label_prefix = "Public - " if (idx == 0 or branch == "public") else ""
@@ -247,6 +281,7 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         "launch_exes": exes,
         "build_id": build_id,
         "has_metadata": has_vault,
+        "depot_base": depot_base,
         "poster_url": poster_url,
         "header_url": header_url,
         "platforms": platforms,

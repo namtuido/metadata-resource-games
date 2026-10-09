@@ -14,6 +14,7 @@
     ],
     "build_id": "12772551",
     "has_metadata": true,
+    "depot_base": 1293831,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
     "platforms": [
@@ -23,7 +24,7 @@
       {
         "id": "12772551",
         "branch": "public",
-        "label": "Public - Build 12772551 (11/29/2023)",
+        "label": "Public - Build 12772551 (11/30/2023)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -36,10 +37,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -47,19 +49,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -78,6 +82,7 @@
     ],
     "build_id": "21856128",
     "has_metadata": true,
+    "depot_base": 1551361,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
     "platforms": [
@@ -100,10 +105,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -111,19 +117,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -139,6 +147,7 @@
     ],
     "build_id": "10005697",
     "has_metadata": true,
+    "depot_base": 1672971,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1672970/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
     "platforms": [
@@ -157,10 +166,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -176,10 +186,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -187,19 +198,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -215,6 +228,7 @@
     ],
     "build_id": "25647713",
     "has_metadata": true,
+    "depot_base": 1912411,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1912410/47d3b04112a86b5ddebb28252d4fa8e51671bfea/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/library_header.jpg",
     "platforms": [
@@ -235,10 +249,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -256,10 +271,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -267,19 +283,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -295,6 +313,7 @@
     ],
     "build_id": "22377325",
     "has_metadata": true,
+    "depot_base": 2050651,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
     "platforms": [
@@ -344,10 +363,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -355,19 +375,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -381,10 +403,12 @@
     "launch_exes": [
       "Ra2.exe",
       "RA2MD.exe",
-      "FinalAlert2\\FinalAlert2YR.exe"
+      "FinalAlert2\\FinalAlert2YR.exe",
+      "FinalAlert2YR.exe"
     ],
     "build_id": "15918130",
     "has_metadata": true,
+    "depot_base": 2229851,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2229850/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2229850/library_header.jpg",
     "platforms": [
@@ -407,6 +431,14 @@
           "2229856"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 2229852,
             "key": "lang:english",
@@ -447,6 +479,14 @@
     ],
     "languages": [
       {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
         "id": 2229852,
         "key": "lang:english",
         "lang": "english",
@@ -483,6 +523,14 @@
       }
     ],
     "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
       {
         "id": 2229852,
         "key": "lang:english",
@@ -530,13 +578,17 @@
     "launch_exes": [
       "start_protected_game.exe",
       "ACZero\\acz.exe",
+      "acz.exe",
       "Game\\Binaries\\Win64\\AceCombat8.exe",
+      "AceCombat8.exe",
       "01.bat",
       "02.bat",
-      "ACZero\\aczTest.exe"
+      "ACZero\\aczTest.exe",
+      "aczTest.exe"
     ],
     "build_id": "25201480",
     "has_metadata": true,
+    "depot_base": 2288341,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2288340/a1fb5685d2c140309d5549af1ddc725a7114d889/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2288340/6d3732a3c2138438423a53aab958335c4c215f41/library_header.jpg",
     "platforms": [
@@ -558,10 +610,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -569,19 +622,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -597,6 +652,7 @@
     ],
     "build_id": "21393610",
     "has_metadata": true,
+    "depot_base": 2358721,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_header.jpg",
     "platforms": [
@@ -619,10 +675,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -630,19 +687,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -661,6 +720,7 @@
     ],
     "build_id": "25588841",
     "has_metadata": true,
+    "depot_base": 2483191,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2483190/711e39803402def82a90e1f31578c64744f952f3/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2483190/9f07297252126692448208dc3e9d00fbcd690759/library_header.jpg",
     "platforms": [
@@ -670,7 +730,7 @@
       {
         "id": "25588841",
         "branch": "public",
-        "label": "Public - Build 25588841 (09/28/2026)",
+        "label": "Public - Build 25588841 (09/29/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -681,10 +741,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -692,19 +753,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -721,6 +784,7 @@
     ],
     "build_id": "23976016",
     "has_metadata": true,
+    "depot_base": 2947441,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2947440/0712ff9970f602f1099816cf607ab659566befb0/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2947440/56a0dd2091779f73bd65fff8641e11a6ff9ff08f/library_header.jpg",
     "platforms": [
@@ -742,10 +806,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -753,19 +818,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -781,6 +848,7 @@
     ],
     "build_id": "24716659",
     "has_metadata": true,
+    "depot_base": 3159331,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3159330/bdab6ed673aea5877d76e8c99c696ced92cf0d12/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3159330/96208a85442b335f2a8b8c8c89c7dcad41f1c7fa/library_header.jpg",
     "platforms": [
@@ -805,6 +873,14 @@
           "3159339"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 3159333,
             "key": "lang:french",
@@ -861,6 +937,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 3159333,
             "key": "lang:french",
             "lang": "french",
@@ -900,7 +984,7 @@
       {
         "id": "23475575",
         "branch": "public",
-        "label": "Public - Build 23475575 (05/29/2026)",
+        "label": "Public - Build 23475575 (05/30/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -915,6 +999,14 @@
           "3159339"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 3159333,
             "key": "lang:french",
@@ -971,6 +1063,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 3159333,
             "key": "lang:french",
             "lang": "french",
@@ -1010,6 +1110,14 @@
     ],
     "languages": [
       {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
         "id": 3159333,
         "key": "lang:french",
         "lang": "french",
@@ -1047,11 +1155,12 @@
     ],
     "all_languages": [
       {
-        "id": 3159332,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "depot"
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       },
       {
         "id": 3159333,
@@ -1105,10 +1214,12 @@
     "publisher": "Ubisoft",
     "installdir": "Anno 117 - Pax Romana",
     "launch_exes": [
-      "Bin\\Win64\\Anno117.exe"
+      "Bin\\Win64\\Anno117.exe",
+      "Anno117.exe"
     ],
     "build_id": "24988830",
     "has_metadata": true,
+    "depot_base": 3274581,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3274580/1f132300f5a3f394f34ced6ca0cb017d1f1abe14/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3274580/88dbcce1c7630e2d4334fa25e835968e57e0ebfe/library_header.jpg",
     "platforms": [
@@ -1132,17 +1243,18 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
       {
         "id": "24632735",
         "branch": "public",
-        "label": "Public - Build 24632735 (08/08/2026)",
+        "label": "Public - Build 24632735 (08/09/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1156,10 +1268,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -1167,19 +1280,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -1197,6 +1312,7 @@
     ],
     "build_id": "25477059",
     "has_metadata": true,
+    "depot_base": 3321461,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3321460/85f762166594b84330761c11d3106182634c882c/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3321460/2a9754975cf3bbf08f89fd82d0e2400505a8f4b8/library_header.jpg",
     "platforms": [
@@ -1206,7 +1322,7 @@
       {
         "id": "25477059",
         "branch": "public",
-        "label": "Public - Build 25477059 (09/30/2026)",
+        "label": "Public - Build 25477059 (10/01/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -1222,10 +1338,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321463,
@@ -1267,7 +1384,7 @@
       {
         "id": "25474236",
         "branch": "public",
-        "label": "Public - Build 25474236 (09/22/2026)",
+        "label": "Public - Build 25474236 (09/23/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1283,10 +1400,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321463,
@@ -1328,8 +1446,8 @@
       {
         "id": "25381195",
         "branch": "public",
-        "label": "Public - Build 25381195 (09/18/2026)",
-        "is_ready": true,
+        "label": "Public - Build 25381195 (09/18/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
         "is_recommended": false,
         "manifest_depots": [
           "3321461",
@@ -1343,10 +1461,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321463,
@@ -1388,8 +1507,8 @@
       {
         "id": "25246367",
         "branch": "public",
-        "label": "Public - Build 25246367 (09/11/2026)",
-        "is_ready": true,
+        "label": "Public - Build 25246367 (09/11/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
         "is_recommended": false,
         "manifest_depots": [
           "3321461",
@@ -1403,10 +1522,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321463,
@@ -1448,8 +1568,8 @@
       {
         "id": "25116796",
         "branch": "public",
-        "label": "Public - Build 25116796 (09/04/2026)",
-        "is_ready": true,
+        "label": "Public - Build 25116796 (09/04/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
         "is_recommended": false,
         "manifest_depots": [
           "3321461",
@@ -1463,10 +1583,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321463,
@@ -1520,10 +1641,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321467,
@@ -1549,10 +1671,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321467,
@@ -1578,10 +1701,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           },
           {
             "id": 3321467,
@@ -1596,10 +1720,11 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       },
       {
         "id": 3321463,
@@ -1640,10 +1765,11 @@
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       },
       {
         "id": 3321463,
@@ -1694,6 +1820,7 @@
     ],
     "build_id": "24833802",
     "has_metadata": true,
+    "depot_base": 3751951,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/library_header.jpg",
     "platforms": [
@@ -1719,6 +1846,14 @@
           "3751959"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 3751953,
             "key": "lang:french",
@@ -1790,6 +1925,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 3751953,
             "key": "lang:french",
             "lang": "french",
@@ -1859,6 +2002,14 @@
           "3751959"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 3751953,
             "key": "lang:french",
@@ -1930,6 +2081,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 3751953,
             "key": "lang:french",
             "lang": "french",
@@ -2000,6 +2159,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 3751953,
             "key": "lang:french",
             "lang": "french",
@@ -2053,6 +2220,14 @@
     ],
     "languages": [
       {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
         "id": 3751953,
         "key": "lang:french",
         "lang": "french",
@@ -2104,11 +2279,12 @@
     ],
     "all_languages": [
       {
-        "id": 3751952,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "depot"
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       },
       {
         "id": 3751953,
@@ -2174,6 +2350,7 @@
     ],
     "build_id": "25626700",
     "has_metadata": true,
+    "depot_base": 3768761,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/library_header.jpg",
     "platforms": [
@@ -2193,10 +2370,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2213,10 +2391,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2233,10 +2412,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2253,10 +2433,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2273,10 +2454,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2293,10 +2475,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2313,10 +2496,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2333,10 +2517,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2353,17 +2538,18 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
       {
         "id": "23531465",
         "branch": "public",
-        "label": "Public - Build 23531465 (06/02/2026)",
+        "label": "Public - Build 23531465 (06/03/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -2373,10 +2559,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2393,10 +2580,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -2413,17 +2601,18 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
       {
         "id": "23388781",
         "branch": "public",
-        "label": "Public - Build 23388781 (05/24/2026)",
+        "label": "Public - Build 23388781 (05/25/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -2433,10 +2622,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -2444,19 +2634,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -2469,10 +2661,12 @@
     "installdir": "STAR WARS Galactic Racer",
     "launch_exes": [
       "Launcher.exe",
-      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe"
+      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe",
+      "EpicOnlineServicesInstaller.exe"
     ],
     "build_id": "25801363",
     "has_metadata": true,
+    "depot_base": 4078431,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4078430/16514821db6559e75c9067285fee5dd198492aee/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/library_header.jpg",
     "platforms": [
@@ -2494,10 +2688,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -2505,19 +2700,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   },
@@ -2534,6 +2731,7 @@
     ],
     "build_id": "25726320",
     "has_metadata": true,
+    "depot_base": 4080221,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4080220/81210d536b70c14e4cf9725f3f03d82bf64e5e25/library_capsule.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4080220/d2f529c51923a4e407658d8084fc66a87c4891b0/library_header.jpg",
     "platforms": [
@@ -2575,6 +2773,14 @@
           "4160764"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 4080223,
             "key": "lang:swedish",
@@ -2759,6 +2965,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 4080223,
             "key": "lang:swedish",
             "lang": "swedish",
@@ -2941,6 +3155,14 @@
           "4160764"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 4080223,
             "key": "lang:swedish",
@@ -3125,6 +3347,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 4080223,
             "key": "lang:swedish",
             "lang": "swedish",
@@ -3276,7 +3506,7 @@
       {
         "id": "25171808",
         "branch": "public",
-        "label": "Public - Build 25171808 (09/11/2026)",
+        "label": "Public - Build 25171808 (09/12/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -3307,6 +3537,14 @@
           "4160764"
         ],
         "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
           {
             "id": 4080223,
             "key": "lang:swedish",
@@ -3491,6 +3729,14 @@
         ],
         "languages": [
           {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
             "id": 4080223,
             "key": "lang:swedish",
             "lang": "swedish",
@@ -3642,6 +3888,14 @@
     ],
     "languages": [
       {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
         "id": 4080223,
         "key": "lang:swedish",
         "lang": "swedish",
@@ -3790,6 +4044,14 @@
       }
     ],
     "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
       {
         "id": 4080223,
         "key": "lang:swedish",
@@ -3951,6 +4213,7 @@
     ],
     "build_id": "3467910",
     "has_metadata": true,
+    "depot_base": 817131,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/817130/library_600x900.jpg",
     "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/817130/header.jpg",
     "platforms": [
@@ -3960,7 +4223,7 @@
       {
         "id": "3467910",
         "branch": "public",
-        "label": "Public - Build 3467910 (01/17/2019)",
+        "label": "Public - Build 3467910 (01/18/2019)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -3971,10 +4234,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -3992,10 +4256,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -4013,10 +4278,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       },
@@ -4034,10 +4300,11 @@
         "languages": [
           {
             "id": 0,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
-            "source": "base"
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
           }
         ]
       }
@@ -4045,19 +4312,21 @@
     "languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ],
     "all_languages": [
       {
         "id": 0,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
-        "source": "base"
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
       }
     ]
   }
