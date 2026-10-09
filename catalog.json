@@ -709,6 +709,67 @@
     ]
   },
   {
+    "id": "game-2947440",
+    "appid": 2947440,
+    "name": "SILENT HILL f",
+    "developer": "NeoBards Entertainment Ltd.",
+    "publisher": "KONAMI",
+    "installdir": "SILENT HILL f",
+    "launch_exes": [
+      "SHf.exe",
+      "SHf_BonusContent.exe"
+    ],
+    "build_id": "23976016",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2947440/0712ff9970f602f1099816cf607ab659566befb0/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2947440/56a0dd2091779f73bd65fff8641e11a6ff9ff08f/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "23976016",
+        "branch": "public",
+        "label": "Public - Build 23976016 (07/23/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2947441",
+          "3282721"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
     "id": "game-3159330",
     "appid": 3159330,
     "name": "Assassin's Creed Shadows",
