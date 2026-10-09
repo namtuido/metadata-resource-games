@@ -1,5 +1,69 @@
 [
   {
+    "id": "game-1293830",
+    "appid": 1293830,
+    "name": "Forza Horizon 4",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "installdir": "ForzaHorizon4",
+    "launch_exes": [
+      "ForzaHorizon4.exe",
+      "forza_x64_profile.exe",
+      "forza_x64_release.exe",
+      "forza_x64_release_final.exe"
+    ],
+    "build_id": "12772551",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "12772551",
+        "branch": "public",
+        "label": "Public - Build 12772551 (11/29/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1293831",
+          "1443091",
+          "1443092"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
     "id": "game-1672970",
     "appid": 1672970,
     "name": "Minecraft Dungeons",
