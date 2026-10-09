@@ -64,6 +64,70 @@
     ]
   },
   {
+    "id": "game-1551360",
+    "appid": 1551360,
+    "name": "Forza Horizon 5",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "installdir": "ForzaHorizon5",
+    "launch_exes": [
+      "ForzaHorizon5.exe",
+      "forza_x64_profile.exe",
+      "forza_x64_release.exe",
+      "forza_x64_release_final.exe"
+    ],
+    "build_id": "21856128",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21856128",
+        "branch": "public",
+        "label": "Public - Build 21856128 (02/17/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1551361",
+          "1613280",
+          "1613281"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
     "id": "game-1672970",
     "appid": 1672970,
     "name": "Minecraft Dungeons",
