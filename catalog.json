@@ -253,8 +253,7 @@
     "launch_exes": [
       "Ra2.exe",
       "RA2MD.exe",
-      "FinalAlert2\\FinalAlert2YR.exe",
-      "FinalAlert2YR.exe"
+      "FinalAlert2\\FinalAlert2YR.exe"
     ],
     "build_id": "15918130",
     "has_metadata": true,
@@ -403,13 +402,10 @@
     "launch_exes": [
       "start_protected_game.exe",
       "ACZero\\acz.exe",
-      "acz.exe",
       "Game\\Binaries\\Win64\\AceCombat8.exe",
-      "AceCombat8.exe",
       "01.bat",
       "02.bat",
-      "ACZero\\aczTest.exe",
-      "aczTest.exe"
+      "ACZero\\aczTest.exe"
     ],
     "build_id": "25201480",
     "has_metadata": true,
@@ -523,6 +519,68 @@
     ]
   },
   {
+    "id": "game-2483190",
+    "appid": 2483190,
+    "name": "Forza Horizon 6",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "installdir": "ForzaHorizon6",
+    "launch_exes": [
+      "forzahorizon6.exe",
+      "forza_x64_profile.exe",
+      "forza_x64_release.exe",
+      "forza_x64_release_final.exe"
+    ],
+    "build_id": "25588841",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2483190/711e39803402def82a90e1f31578c64744f952f3/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2483190/9f07297252126692448208dc3e9d00fbcd690759/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25588841",
+        "branch": "public",
+        "label": "Public - Build 25588841 (09/28/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2483191"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
     "id": "game-3321460",
     "appid": 3321460,
     "name": "Crimson Desert Enhanced",
@@ -545,7 +603,7 @@
       {
         "id": "25477059",
         "branch": "public",
-        "label": "Public - Build 25477059 (10/01/2026)",
+        "label": "Public - Build 25477059 (09/30/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -606,7 +664,7 @@
       {
         "id": "25474236",
         "branch": "public",
-        "label": "Public - Build 25474236 (09/23/2026)",
+        "label": "Public - Build 25474236 (09/22/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1223,7 +1281,7 @@
       {
         "id": "23531465",
         "branch": "public",
-        "label": "Public - Build 23531465 (06/03/2026)",
+        "label": "Public - Build 23531465 (06/02/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1283,7 +1341,7 @@
       {
         "id": "23388781",
         "branch": "public",
-        "label": "Public - Build 23388781 (05/25/2026)",
+        "label": "Public - Build 23388781 (05/24/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1329,8 +1387,7 @@
     "installdir": "STAR WARS Galactic Racer",
     "launch_exes": [
       "Launcher.exe",
-      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe",
-      "EpicOnlineServicesInstaller.exe"
+      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe"
     ],
     "build_id": "25801363",
     "has_metadata": true,
@@ -2137,7 +2194,7 @@
       {
         "id": "25171808",
         "branch": "public",
-        "label": "Public - Build 25171808 (09/12/2026)",
+        "label": "Public - Build 25171808 (09/11/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -2821,7 +2878,7 @@
       {
         "id": "3467910",
         "branch": "public",
-        "label": "Public - Build 3467910 (01/18/2019)",
+        "label": "Public - Build 3467910 (01/17/2019)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
