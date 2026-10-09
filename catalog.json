@@ -1098,6 +1098,92 @@
     ]
   },
   {
+    "id": "game-3274580",
+    "appid": 3274580,
+    "name": "Anno 117: Pax Romana",
+    "developer": "Ubisoft Mainz",
+    "publisher": "Ubisoft",
+    "installdir": "Anno 117 - Pax Romana",
+    "launch_exes": [
+      "Bin\\Win64\\Anno117.exe"
+    ],
+    "build_id": "24988830",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3274580/1f132300f5a3f394f34ced6ca0cb017d1f1abe14/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3274580/88dbcce1c7630e2d4334fa25e835968e57e0ebfe/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24988830",
+        "branch": "public",
+        "label": "Public - Build 24988830 (08/28/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1716751",
+          "3274581",
+          "3274582",
+          "3274583",
+          "3274584",
+          "3274585"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      },
+      {
+        "id": "24632735",
+        "branch": "public",
+        "label": "Public - Build 24632735 (08/08/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1716751",
+          "3274581",
+          "3274582",
+          "3274583",
+          "3274584",
+          "3274585"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English",
+            "source": "base"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "base"
+      }
+    ]
+  },
+  {
     "id": "game-3321460",
     "appid": 3321460,
     "name": "Crimson Desert Enhanced",
