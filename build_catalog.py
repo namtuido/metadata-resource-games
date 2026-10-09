@@ -141,25 +141,34 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
                 if lang:
                     lang_depots[str(lang).lower()] = int(did_str)
 
-    has_companion_lang_depots = len(lang_depots) > 0
-    languages = []
+    eng_did = lang_depots.get("english")
+    has_real_eng_depot = False
+    if eng_did:
+        has_real_eng_depot = any(str(eng_did) in h.get("manifests", {}) for h in history if isinstance(h, dict))
 
-    # Luôn tạo mục Default (id: 0, source: 'base') đại diện cho game gốc không kèm gói ngôn ngữ phụ
-    languages.append({
-        "id": 0,
-        "key": "lang:default",
-        "lang": "default",
-        "label": "Default",
-        "source": "base",
-        "is_default": True,
-    })
+    languages = []
+    if has_real_eng_depot:
+        languages.append({
+            "id": eng_did,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": True,
+        })
+    else:
+        languages.append({
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": True,
+        })
 
     for lang, did in lang_depots.items():
         if lang == "english":
-            # Nếu depot english không hề có manifest trong bất kỳ build nào thì bỏ qua (vì Default đã bao trùm)
-            has_any = any(str(did) in h.get("manifests", {}) for h in history if isinstance(h, dict))
-            if not has_any:
-                continue
+            continue
         lbl = _LANG_LABELS.get(lang, lang.capitalize())
         languages.append({
             "id": did,

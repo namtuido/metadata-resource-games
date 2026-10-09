@@ -432,19 +432,12 @@
         ],
         "languages": [
           {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
-            "is_default": true
-          },
-          {
             "id": 2229852,
             "key": "lang:english",
             "lang": "english",
-            "label": "English",
-            "source": "depot"
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
           },
           {
             "id": 2229853,
@@ -479,19 +472,12 @@
     ],
     "languages": [
       {
-        "id": 0,
-        "key": "lang:default",
-        "lang": "default",
-        "label": "Default",
-        "source": "base",
-        "is_default": true
-      },
-      {
         "id": 2229852,
         "key": "lang:english",
         "lang": "english",
-        "label": "English",
-        "source": "depot"
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
       },
       {
         "id": 2229853,
@@ -524,19 +510,12 @@
     ],
     "all_languages": [
       {
-        "id": 0,
-        "key": "lang:default",
-        "lang": "default",
-        "label": "Default",
-        "source": "base",
-        "is_default": true
-      },
-      {
         "id": 2229852,
         "key": "lang:english",
         "lang": "english",
-        "label": "English",
-        "source": "depot"
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
       },
       {
         "id": 2229853,
@@ -2774,11 +2753,11 @@
         ],
         "languages": [
           {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
             "is_default": true
           },
           {
@@ -2793,13 +2772,6 @@
             "key": "lang:german",
             "lang": "german",
             "label": "Deutsch (German)",
-            "source": "depot"
-          },
-          {
-            "id": 4080225,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
             "source": "depot"
           },
           {
@@ -2965,11 +2937,11 @@
         ],
         "languages": [
           {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
             "is_default": true
           },
           {
@@ -2984,13 +2956,6 @@
             "key": "lang:german",
             "lang": "german",
             "label": "Deutsch (German)",
-            "source": "depot"
-          },
-          {
-            "id": 4080225,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
             "source": "depot"
           },
           {
@@ -3156,11 +3121,11 @@
         ],
         "languages": [
           {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
             "is_default": true
           },
           {
@@ -3175,13 +3140,6 @@
             "key": "lang:german",
             "lang": "german",
             "label": "Deutsch (German)",
-            "source": "depot"
-          },
-          {
-            "id": 4080225,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
             "source": "depot"
           },
           {
@@ -3347,11 +3305,11 @@
         ],
         "languages": [
           {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
             "is_default": true
           },
           {
@@ -3366,13 +3324,6 @@
             "key": "lang:german",
             "lang": "german",
             "label": "Deutsch (German)",
-            "source": "depot"
-          },
-          {
-            "id": 4080225,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
             "source": "depot"
           },
           {
@@ -3538,11 +3489,11 @@
         ],
         "languages": [
           {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
             "is_default": true
           },
           {
@@ -3557,13 +3508,6 @@
             "key": "lang:german",
             "lang": "german",
             "label": "Deutsch (German)",
-            "source": "depot"
-          },
-          {
-            "id": 4080225,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
             "source": "depot"
           },
           {
@@ -3729,11 +3673,11 @@
         ],
         "languages": [
           {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
+            "id": 4080225,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
             "is_default": true
           },
           {
@@ -3748,13 +3692,6 @@
             "key": "lang:german",
             "lang": "german",
             "label": "Deutsch (German)",
-            "source": "depot"
-          },
-          {
-            "id": 4080225,
-            "key": "lang:english",
-            "lang": "english",
-            "label": "English",
             "source": "depot"
           },
           {
@@ -3888,11 +3825,11 @@
     ],
     "languages": [
       {
-        "id": 0,
-        "key": "lang:default",
-        "lang": "default",
-        "label": "Default",
-        "source": "base",
+        "id": 4080225,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
         "is_default": true
       },
       {
@@ -3907,13 +3844,6 @@
         "key": "lang:german",
         "lang": "german",
         "label": "Deutsch (German)",
-        "source": "depot"
-      },
-      {
-        "id": 4080225,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
         "source": "depot"
       },
       {
@@ -4045,11 +3975,11 @@
     ],
     "all_languages": [
       {
-        "id": 0,
-        "key": "lang:default",
-        "lang": "default",
-        "label": "Default",
-        "source": "base",
+        "id": 4080225,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
         "is_default": true
       },
       {
@@ -4064,13 +3994,6 @@
         "key": "lang:german",
         "lang": "german",
         "label": "Deutsch (German)",
-        "source": "depot"
-      },
-      {
-        "id": 4080225,
-        "key": "lang:english",
-        "lang": "english",
-        "label": "English",
         "source": "depot"
       },
       {
