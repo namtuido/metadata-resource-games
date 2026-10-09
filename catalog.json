@@ -1683,6 +1683,485 @@
     ]
   },
   {
+    "id": "game-3751950",
+    "appid": 3751950,
+    "name": "Assassin's Creed Black Flag Resynced",
+    "developer": "Ubisoft Singapore",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed Black Flag Resynced",
+    "launch_exes": [
+      "ACBlackFlag.exe"
+    ],
+    "build_id": "24833802",
+    "has_metadata": true,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24833802",
+        "branch": "public",
+        "label": "Public - Build 24833802 (08/20/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "1716751",
+          "3751951",
+          "3751953",
+          "3751954",
+          "3751955",
+          "3751956",
+          "3751957",
+          "3751958",
+          "3751959"
+        ],
+        "languages": [
+          {
+            "id": 3751953,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3751954,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751955,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3751956,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3751957,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751958,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3751959,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "24424450",
+        "branch": "public",
+        "label": "Public - Build 24424450 (07/28/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "1716751",
+          "3751951",
+          "3751953",
+          "3751954",
+          "3751955",
+          "3751956",
+          "3751957",
+          "3751958",
+          "3751959"
+        ],
+        "languages": [
+          {
+            "id": 3751953,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3751954,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751955,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3751956,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3751957,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751958,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3751959,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "24326718",
+        "branch": "public",
+        "label": "Public - Build 24326718 (07/22/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "1716751",
+          "3751951",
+          "3751953",
+          "3751954",
+          "3751955",
+          "3751956",
+          "3751957",
+          "3751958",
+          "3751959"
+        ],
+        "languages": [
+          {
+            "id": 3751953,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3751954,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751955,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3751956,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3751957,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751958,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3751959,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "24213434",
+        "branch": "public",
+        "label": "Public - Build 24213434 (07/15/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "1716751",
+          "3751951",
+          "3751953",
+          "3751954",
+          "3751955",
+          "3751956",
+          "3751957",
+          "3751958",
+          "3751959"
+        ],
+        "languages": [
+          {
+            "id": 3751953,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3751954,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751955,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3751956,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3751957,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751958,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3751959,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "23813305",
+        "branch": "public",
+        "label": "Public - Build 23813305 (06/19/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "1716751",
+          "3751951",
+          "3751953",
+          "3751954",
+          "3751955",
+          "3751956",
+          "3751957",
+          "3751958",
+          "3751959"
+        ],
+        "languages": [
+          {
+            "id": 3751953,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3751954,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751955,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3751956,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3751957,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3751958,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3751959,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 3751953,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3751954,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3751955,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3751956,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3751957,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3751958,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3751959,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 3751952,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English",
+        "source": "depot"
+      },
+      {
+        "id": 3751953,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3751954,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3751955,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3751956,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3751957,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3751958,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3751959,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ]
+  },
+  {
     "id": "game-3768760",
     "appid": 3768760,
     "name": "007 First Light",
