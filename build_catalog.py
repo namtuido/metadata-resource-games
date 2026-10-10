@@ -187,9 +187,11 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         if lang == "english":
             continue
         lbl = _LANG_LABELS.get(lang, lang.capitalize())
-        # Append localized title only for standalone game editions (depot size > 5 GB)
+        # Append localized title only for standalone game editions: depot ngôn ngữ > 5 GB VÀ to cỡ base depot
+        # (cả game). Gói ngôn ngữ bổ sung kể cả 5-6 GB (vd EA FC 26) KHÔNG phải bản độc lập.
         d_sz = int(depots_raw.get(str(did), {}).get("manifests", {}).get("public", {}).get("size") or 0)
-        if d_sz > 5_000_000_000:
+        base_sz = int(depots_raw.get(str(depot_base), {}).get("manifests", {}).get("public", {}).get("size") or 0)
+        if d_sz > 5_000_000_000 and (not base_sz or d_sz >= base_sz * 0.5):
             loc_name = common.get("name_localized", {}).get(lang, "")
             if loc_name and loc_name != common.get("name"):
                 lbl = f"{lbl} ({loc_name})"
