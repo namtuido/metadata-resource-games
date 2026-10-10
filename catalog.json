@@ -394,6 +394,72 @@
     ]
   },
   {
+    "id": "game-2124490",
+    "appid": 2124490,
+    "name": "SILENT HILL 2",
+    "developer": "Bloober Team SA",
+    "publisher": "KONAMI",
+    "installdir": "SILENT HILL 2",
+    "launch_exes": [
+      "SHProto.exe",
+      "SHProto\\Binaries\\Win64\\SHProto.exe",
+      "RecordPSO.bat"
+    ],
+    "build_id": "17080069",
+    "has_metadata": true,
+    "depot_base": 2124491,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124490/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124490/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17080069",
+        "branch": "public",
+        "label": "Public - Build 17080069 (01/21/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2124491",
+          "2951541"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ]
+  },
+  {
     "id": "game-2229850",
     "appid": 2229850,
     "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™",
