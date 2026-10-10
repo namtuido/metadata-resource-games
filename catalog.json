@@ -537,6 +537,77 @@
     "release_ts": 1728360060
   },
   {
+    "id": "game-2161700",
+    "appid": 2161700,
+    "name": "Persona 3 Reload",
+    "developer": "ATLUS",
+    "publisher": "SEGA",
+    "installdir": "P3R",
+    "launch_exes": [
+      "P3R/Binaries/Win64/P3R.exe",
+      "P3R.exe",
+      "Artbook/P3R_Artbook/Binaries/Win64/P3R_Artbook.exe",
+      "P3R_Artbook.exe",
+      "Soundtrack\\P3R_Soundtrack\\Binaries\\Win64\\P3R_Soundtrack.exe"
+    ],
+    "build_id": "22672075",
+    "has_metadata": true,
+    "depot_base": 2161701,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22672075",
+        "branch": "public",
+        "label": "Public - Build 22672075 (04/07/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228989",
+          "228990",
+          "2161701",
+          "2517301",
+          "2517311"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "release_ts": 1706850000
+  },
+  {
     "id": "game-2229850",
     "appid": 2229850,
     "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™",
