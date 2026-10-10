@@ -24,7 +24,7 @@
       {
         "id": "12772551",
         "branch": "public",
-        "label": "Public - Build 12772551 (11/30/2023)",
+        "label": "Public - Build 12772551 (11/29/2023)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -403,8 +403,7 @@
     "launch_exes": [
       "Ra2.exe",
       "RA2MD.exe",
-      "FinalAlert2\\FinalAlert2YR.exe",
-      "FinalAlert2YR.exe"
+      "FinalAlert2\\FinalAlert2YR.exe"
     ],
     "build_id": "15918130",
     "has_metadata": true,
@@ -557,13 +556,10 @@
     "launch_exes": [
       "start_protected_game.exe",
       "ACZero\\acz.exe",
-      "acz.exe",
       "Game\\Binaries\\Win64\\AceCombat8.exe",
-      "AceCombat8.exe",
       "01.bat",
       "02.bat",
-      "ACZero\\aczTest.exe",
-      "aczTest.exe"
+      "ACZero\\aczTest.exe"
     ],
     "build_id": "25201480",
     "has_metadata": true,
@@ -709,7 +705,7 @@
       {
         "id": "25588841",
         "branch": "public",
-        "label": "Public - Build 25588841 (09/29/2026)",
+        "label": "Public - Build 25588841 (09/28/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -963,7 +959,7 @@
       {
         "id": "23475575",
         "branch": "public",
-        "label": "Public - Build 23475575 (05/30/2026)",
+        "label": "Public - Build 23475575 (05/29/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1193,8 +1189,7 @@
     "publisher": "Ubisoft",
     "installdir": "Anno 117 - Pax Romana",
     "launch_exes": [
-      "Bin\\Win64\\Anno117.exe",
-      "Anno117.exe"
+      "Bin\\Win64\\Anno117.exe"
     ],
     "build_id": "24988830",
     "has_metadata": true,
@@ -1233,7 +1228,7 @@
       {
         "id": "24632735",
         "branch": "public",
-        "label": "Public - Build 24632735 (08/09/2026)",
+        "label": "Public - Build 24632735 (08/08/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1301,7 +1296,7 @@
       {
         "id": "25477059",
         "branch": "public",
-        "label": "Public - Build 25477059 (10/01/2026)",
+        "label": "Public - Build 25477059 (09/30/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -1363,7 +1358,7 @@
       {
         "id": "25474236",
         "branch": "public",
-        "label": "Public - Build 25474236 (09/23/2026)",
+        "label": "Public - Build 25474236 (09/22/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -1425,8 +1420,8 @@
       {
         "id": "25381195",
         "branch": "public",
-        "label": "Public - Build 25381195 (09/18/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 25381195 (09/18/2026)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "3321461",
@@ -1486,8 +1481,8 @@
       {
         "id": "25246367",
         "branch": "public",
-        "label": "Public - Build 25246367 (09/11/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 25246367 (09/11/2026)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "3321461",
@@ -1547,8 +1542,8 @@
       {
         "id": "25116796",
         "branch": "public",
-        "label": "Public - Build 25116796 (09/04/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 25116796 (09/04/2026)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "3321461",
@@ -2802,7 +2797,7 @@
       {
         "id": "23531465",
         "branch": "public",
-        "label": "Public - Build 23531465 (06/03/2026)",
+        "label": "Public - Build 23531465 (06/02/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -2865,7 +2860,7 @@
       {
         "id": "23388781",
         "branch": "public",
-        "label": "Public - Build 23388781 (05/25/2026)",
+        "label": "Public - Build 23388781 (05/24/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -2914,8 +2909,7 @@
     "installdir": "STAR WARS Galactic Racer",
     "launch_exes": [
       "Launcher.exe",
-      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe",
-      "EpicOnlineServicesInstaller.exe"
+      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe"
     ],
     "build_id": "25801363",
     "has_metadata": true,
@@ -3731,7 +3725,7 @@
       {
         "id": "25171808",
         "branch": "public",
-        "label": "Public - Build 25171808 (09/12/2026)",
+        "label": "Public - Build 25171808 (09/11/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -4420,7 +4414,7 @@
       {
         "id": "3467910",
         "branch": "public",
-        "label": "Public - Build 3467910 (01/18/2019)",
+        "label": "Public - Build 3467910 (01/17/2019)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
