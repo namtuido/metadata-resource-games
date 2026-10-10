@@ -8,7 +8,9 @@ from __future__ import annotations
 import os
 import sys
 import json
+import time
 import datetime
+import subprocess
 from pathlib import Path
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -318,10 +320,57 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         "versions": versions,
         "languages": versions[0]["languages"] if (versions and "languages" in versions[0]) else languages,
         "all_languages": languages,
-        # Ngày phát hành Steam (unix). App tự tính badge NEW từ đây, nên không cần sửa tay khi thêm game mới.
-        "release_ts": _as_int(common.get("steam_release_date")),
-        # Muốn ghim NEW cho 1 game bất kể ngày phát hành: thêm "is_new": true vào "common" trong {appid}.json
+        # added_ts (thời điểm game được thêm vào repo) do build_catalog() điền sau khi parse.
+        # App tính badge NEW từ added_ts, KHÔNG dùng ngày phát hành Steam.
+        # Muốn ghim NEW cho 1 game bất kể ngày thêm: thêm "is_new": true vào "common" trong {appid}.json
         **({"pin_new": True} if common.get("is_new") is True else {}),
+    }
+
+
+def _git(repo_dir: Path, *args: str) -> subprocess.CompletedProcess | None:
+    try:
+        return subprocess.run(
+            ["git", "-C", str(repo_dir), *args],
+            capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=60,
+        )
+    except Exception:
+        return None
+
+
+def _git_usable(repo_dir: Path) -> bool:
+    """git có history đầy đủ? Shallow clone (checkout mặc định của Actions) làm mọi thư mục
+    trông như vừa được thêm ở commit biên -> sai hết, nên coi như không dùng được."""
+    r = _git(repo_dir, "rev-parse", "--is-shallow-repository")
+    if not r or r.returncode != 0:
+        return False
+    if r.stdout.strip() == "true":
+        print("  [!] Repo là shallow clone -> bỏ qua git log (workflow cần fetch-depth: 0)")
+        return False
+    return True
+
+
+def _git_added_ts(repo_dir: Path, appid_str: str) -> int:
+    """Unix time của commit ĐẦU TIÊN thêm file vào thư mục game (0 nếu không xác định được)."""
+    r = _git(repo_dir, "log", "--diff-filter=A", "--format=%ct", "--", f"{appid_str}/")
+    if not r or r.returncode != 0:
+        return 0
+    stamps = [int(x) for x in r.stdout.split() if x.isdigit()]
+    return min(stamps) if stamps else 0
+
+
+def _load_previous_added(out_file: Path) -> tuple[bool, dict[int, int]]:
+    """Đọc catalog.json cũ để GIỮ NGUYÊN added_ts đã ghi (không đổi khi squash history, build lại...)."""
+    if not out_file.is_file():
+        return False, {}
+    try:
+        prev = json.loads(out_file.read_text(encoding="utf-8"))
+    except Exception:
+        return False, {}
+    if not isinstance(prev, list):
+        return False, {}
+    return True, {
+        _as_int(g.get("appid")): _as_int(g.get("added_ts"))
+        for g in prev if isinstance(g, dict)
     }
 
 
@@ -329,6 +378,11 @@ def build_catalog(repo_dir: Path | None = None) -> list[dict]:
     """Quét tất cả thư mục appid và tạo danh sách catalog."""
     if repo_dir is None:
         repo_dir = Path(__file__).resolve().parent
+
+    out_file = repo_dir / "catalog.json"
+    had_prev, prev_added = _load_previous_added(out_file)
+    use_git = _git_usable(repo_dir)
+    now = int(time.time())
 
     print(f"[*] Quét metadata trong: {repo_dir}")
     games = []
@@ -343,13 +397,22 @@ def build_catalog(repo_dir: Path | None = None) -> list[dict]:
         try:
             data = json.loads(json_file.read_text(encoding="utf-8"))
             info = _parse_game_info_from_json(data, aid, repo_dir)
+
+            # added_ts: ưu tiên giá trị đã ghi trong catalog.json cũ (ổn định) -> commit đầu tiên của
+            # thư mục trong git -> game chưa có trong catalog cũ mà không có git thì coi là vừa thêm -> 0.
+            added = prev_added.get(info["appid"], 0)
+            if not added and use_git:
+                added = _git_added_ts(repo_dir, aid)
+            if not added and had_prev and info["appid"] not in prev_added:
+                added = now
+            info["added_ts"] = added
+
             games.append(info)
             vault_status = "[+ Vault]" if info["has_metadata"] else "[No Vault]"
             print(f"  -> [{aid}] {info['name']} {vault_status} ({len(info['versions'])} builds)")
         except Exception as e:
             print(f"  [!] Lỗi khi nạp {aid}: {e}")
 
-    out_file = repo_dir / "catalog.json"
     out_file.write_text(json.dumps(games, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"\n[OK] Đã xuất {len(games)} game vào: {out_file} ({out_file.stat().st_size:,} bytes)")
     return games
