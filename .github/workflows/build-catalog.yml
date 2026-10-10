@@ -1,11 +1,13 @@
 name: Auto Build Catalog
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - '[0-9]*/**'
+      - 'build_catalog.py'
 
 permissions:
   contents: write
