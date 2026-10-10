@@ -66,7 +66,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1615312080
+    "added_ts": 1791546713
   },
   {
     "id": "game-1551360",
@@ -135,7 +135,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1636433880
+    "added_ts": 1791550712
   },
   {
     "id": "game-1636440",
@@ -206,7 +206,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1790222465
+    "added_ts": 1791628686
   },
   {
     "id": "game-1672970",
@@ -288,7 +288,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1632323100
+    "added_ts": 1790995788
   },
   {
     "id": "game-1912410",
@@ -374,7 +374,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1790668793
+    "added_ts": 1790914878
   },
   {
     "id": "game-2050650",
@@ -467,7 +467,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1679630400
+    "added_ts": 1791479923
   },
   {
     "id": "game-2124490",
@@ -534,7 +534,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1728360060
+    "added_ts": 1791627130
   },
   {
     "id": "game-2161700",
@@ -605,7 +605,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1706850000
+    "added_ts": 1791631339
   },
   {
     "id": "game-2229850",
@@ -759,7 +759,7 @@
         "source": "depot"
       }
     ],
-    "release_ts": 1709837400
+    "added_ts": 1790783502
   },
   {
     "id": "game-2288340",
@@ -829,7 +829,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1790891997
+    "added_ts": 1791482324
   },
   {
     "id": "game-2358720",
@@ -895,7 +895,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1724119108
+    "added_ts": 1791481198
   },
   {
     "id": "game-2483190",
@@ -962,7 +962,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1779162621
+    "added_ts": 1791512846
   },
   {
     "id": "game-2947440",
@@ -1028,7 +1028,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1758772825
+    "added_ts": 1791552813
   },
   {
     "id": "game-3159330",
@@ -1399,7 +1399,7 @@
         "source": "depot"
       }
     ],
-    "release_ts": 1742430660
+    "added_ts": 1791516549
   },
   {
     "id": "game-3274580",
@@ -1491,7 +1491,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1762988334
+    "added_ts": 1791555167
   },
   {
     "id": "game-3321460",
@@ -2002,7 +2002,7 @@
         "source": "depot"
       }
     ],
-    "release_ts": 1773957000
+    "added_ts": 1790832311
   },
   {
     "id": "game-3405690",
@@ -2510,7 +2510,7 @@
         "source": "depot"
       }
     ],
-    "release_ts": 1758841140
+    "added_ts": 1791629710
   },
   {
     "id": "game-3751950",
@@ -3040,7 +3040,7 @@
         "source": "depot"
       }
     ],
-    "release_ts": 1783605518
+    "added_ts": 1791556197
   },
   {
     "id": "game-3764200",
@@ -3322,7 +3322,7 @@
         "source": "depot"
       }
     ],
-    "release_ts": 1772168361
+    "added_ts": 1791569847
   },
   {
     "id": "game-3768760",
@@ -3638,7 +3638,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1779804300
+    "added_ts": 1791355440
   },
   {
     "id": "game-4078430",
@@ -3704,7 +3704,7 @@
         "is_default": true
       }
     ],
-    "release_ts": 1791277107
+    "added_ts": 1791471416
   },
   {
     "id": "game-4080220",
@@ -5132,7 +5132,7 @@
         "source": "depot"
       }
     ],
-    "release_ts": 1790290775
+    "added_ts": 1791191494
   },
   {
     "id": "game-817130",
@@ -5262,6 +5262,6 @@
         "is_default": true
       }
     ],
-    "release_ts": 1539057600
+    "added_ts": 1791431541
   }
 ]
