@@ -1204,6 +1204,71 @@
     "added_ts": 1791512846
   },
   {
+    "id": "game-2527500",
+    "appid": 2527500,
+    "name": "MiSide",
+    "developer": "AIHASTO",
+    "publisher": "IndieArk",
+    "installdir": "MiSide",
+    "launch_exes": [
+      "MiSideFull.exe"
+    ],
+    "build_id": "19029065",
+    "has_metadata": true,
+    "depot_base": 2527501,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2527500/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2527500/a62ac6e644c27d4faad6eccf4100a4ee60113986/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "19029065",
+        "branch": "public",
+        "label": "Public - Build 19029065 (09/26/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2527501",
+          "3404451",
+          "3404452"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791641988
+  },
+  {
     "id": "game-2947440",
     "appid": 2947440,
     "name": "SILENT HILL f",
