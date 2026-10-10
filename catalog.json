@@ -136,6 +136,76 @@
     ]
   },
   {
+    "id": "game-1636440",
+    "appid": 1636440,
+    "name": "SILENT HILL: Townfall",
+    "developer": "Screen Burn",
+    "publisher": "KONAMI",
+    "installdir": "Townfall",
+    "launch_exes": [
+      "Townfall.exe",
+      "BonusApp/Townfall_BonusContent.exe",
+      "Townfall_BonusContent.exe"
+    ],
+    "build_id": "25697972",
+    "has_metadata": true,
+    "depot_base": 1636441,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1636440/cdad5ea5a7f19f1394a6393416c83720664ecf81/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1636440/2beefa06d535e3bf0bae567c64d2f64905a35653/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25697972",
+        "branch": "public",
+        "label": "Public - Build 25697972 (10/02/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228989",
+          "228990",
+          "229007",
+          "1636441",
+          "4126670",
+          "4235620",
+          "4663210"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ]
+  },
+  {
     "id": "game-1672970",
     "appid": 1672970,
     "name": "Minecraft Dungeons",
