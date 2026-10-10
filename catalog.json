@@ -2360,10 +2360,10 @@
             "is_default": true
           },
           {
-            "id": 3764204,
+            "id": 3764202,
             "key": "lang:japanese",
             "lang": "japanese",
-            "label": "日本語 (Japanese)",
+            "label": "日本語 (Japanese) (BIOHAZARD requiem)",
             "source": "depot"
           }
         ]
@@ -2398,10 +2398,10 @@
             "is_default": true
           },
           {
-            "id": 3764204,
+            "id": 3764202,
             "key": "lang:japanese",
             "lang": "japanese",
-            "label": "日本語 (Japanese)",
+            "label": "日本語 (Japanese) (BIOHAZARD requiem)",
             "source": "depot"
           }
         ]
@@ -2436,10 +2436,10 @@
             "is_default": true
           },
           {
-            "id": 3764204,
+            "id": 3764202,
             "key": "lang:japanese",
             "lang": "japanese",
-            "label": "日本語 (Japanese)",
+            "label": "日本語 (Japanese) (BIOHAZARD requiem)",
             "source": "depot"
           }
         ]
@@ -2474,10 +2474,10 @@
             "is_default": true
           },
           {
-            "id": 3764204,
+            "id": 3764202,
             "key": "lang:japanese",
             "lang": "japanese",
-            "label": "日本語 (Japanese)",
+            "label": "日本語 (Japanese) (BIOHAZARD requiem)",
             "source": "depot"
           }
         ]
@@ -2512,10 +2512,10 @@
             "is_default": true
           },
           {
-            "id": 3764204,
+            "id": 3764202,
             "key": "lang:japanese",
             "lang": "japanese",
-            "label": "日本語 (Japanese)",
+            "label": "日本語 (Japanese) (BIOHAZARD requiem)",
             "source": "depot"
           }
         ]
@@ -2546,6 +2546,13 @@
             "label": "Default",
             "source": "base",
             "is_default": true
+          },
+          {
+            "id": 3764202,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese) (BIOHAZARD requiem)",
+            "source": "depot"
           }
         ]
       }
@@ -2560,10 +2567,10 @@
         "is_default": true
       },
       {
-        "id": 3764204,
+        "id": 3764202,
         "key": "lang:japanese",
         "lang": "japanese",
-        "label": "日本語 (Japanese)",
+        "label": "日本語 (Japanese) (BIOHAZARD requiem)",
         "source": "depot"
       }
     ],
@@ -2577,10 +2584,10 @@
         "is_default": true
       },
       {
-        "id": 3764204,
+        "id": 3764202,
         "key": "lang:japanese",
         "lang": "japanese",
-        "label": "日本語 (Japanese)",
+        "label": "日本語 (Japanese) (BIOHAZARD requiem)",
         "source": "depot"
       }
     ]

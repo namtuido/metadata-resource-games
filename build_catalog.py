@@ -139,7 +139,15 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
             if did_str.isdigit() and isinstance(dinfo, dict):
                 lang = dinfo.get("config", {}).get("language")
                 if lang:
-                    lang_depots[str(lang).lower()] = int(did_str)
+                    l_key = str(lang).lower()
+                    cur_did = lang_depots.get(l_key)
+                    if cur_did:
+                        cur_sz = int(depots_raw.get(str(cur_did), {}).get("manifests", {}).get("public", {}).get("size") or 0)
+                        new_sz = int(dinfo.get("manifests", {}).get("public", {}).get("size") or 0)
+                        if new_sz > cur_sz:
+                            lang_depots[l_key] = int(did_str)
+                    else:
+                        lang_depots[l_key] = int(did_str)
 
     eng_did = lang_depots.get("english")
     has_real_eng_depot = False
@@ -170,6 +178,12 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         if lang == "english":
             continue
         lbl = _LANG_LABELS.get(lang, lang.capitalize())
+        # Append localized title only for standalone game editions (depot size > 5 GB)
+        d_sz = int(depots_raw.get(str(did), {}).get("manifests", {}).get("public", {}).get("size") or 0)
+        if d_sz > 5_000_000_000:
+            loc_name = common.get("name_localized", {}).get(lang, "")
+            if loc_name and loc_name != common.get("name"):
+                lbl = f"{lbl} ({loc_name})"
         languages.append({
             "id": did,
             "key": f"lang:{lang}",
