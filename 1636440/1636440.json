@@ -1,0 +1,500 @@
+{
+  "_lastChecked": 1791627885,
+  "_history": [
+    {
+      "buildId": "25697972",
+      "branch": "public",
+      "timeUpdated": 1790972120,
+      "firstSeen": 1791628612,
+      "manifests": {
+        "228988": {
+          "gid": "6645201662696499616",
+          "size": 29212173,
+          "download": 22411856
+        },
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "229007": {
+          "gid": "4477590687906973371",
+          "size": 117381405,
+          "download": 118846656
+        },
+        "1636441": {
+          "gid": "7858560538903071442",
+          "size": 75869487712,
+          "download": 57720829424
+        },
+        "4126670": {
+          "gid": "3039425646210736632",
+          "size": 31457241,
+          "download": 23598864
+        },
+        "4235620": {
+          "gid": "1453085193393980489",
+          "size": 62368873,
+          "download": 52661248
+        },
+        "4663210": {
+          "gid": "879371378507688417",
+          "size": 3012953716,
+          "download": 1179259040
+        }
+      }
+    }
+  ],
+  "_change_number": 39678418,
+  "_missing_token": false,
+  "_sha": "48aba892ab026269e3bc972a5afcc9cb48ffd8d1",
+  "_size": 9736,
+  "appid": "1636440",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Screen Burn",
+        "type": "developer"
+      },
+      "1": {
+        "name": "KONAMI",
+        "type": "publisher"
+      },
+      "2": {
+        "name": " Annapurna Interactive",
+        "type": "publisher"
+      },
+      "3": {
+        "name": "SILENT HILL",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_65": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_78": "1"
+    },
+    "clienticon": "5ea8dc90c1e2f25b539dfe3b4749713f96b1a6e2",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "content_descriptors": {
+      "0": "1",
+      "1": "2",
+      "2": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "1",
+      "1": "2",
+      "2": "5"
+    },
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "gameid": "1636440",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg"
+    },
+    "icon": "5ea8dc90c1e2f25b539dfe3b4749713f96b1a6e2",
+    "languages": {
+      "brazilian": "1",
+      "english": "1",
+      "french": "1",
+      "german": "1",
+      "italian": "1",
+      "japanese": "1",
+      "koreana": "1",
+      "latam": "1",
+      "polish": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "tchinese": "1"
+    },
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "94.71229776975625",
+        "pinned_position": "BottomLeft",
+        "width_pct": "100"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "cdad5ea5a7f19f1394a6393416c83720664ecf81/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "cdad5ea5a7f19f1394a6393416c83720664ecf81/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "2beefa06d535e3bf0bae567c64d2f64905a35653/library_header.jpg"
+        },
+        "image2x": {
+          "english": "2beefa06d535e3bf0bae567c64d2f64905a35653/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "ba12dc2318482d99bb6d7cd161ba18d268955f09/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "ba12dc2318482d99bb6d7cd161ba18d268955f09/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "ba12dc2318482d99bb6d7cd161ba18d268955f09/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "e7707c4b68d78ae206884e7dc44a9f7124e06108/logo.png"
+        },
+        "image2x": {
+          "english": "e7707c4b68d78ae206884e7dc44a9f7124e06108/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "94.71229776975625",
+          "pinned_position": "BottomLeft",
+          "width_pct": "100"
+        }
+      }
+    },
+    "name": "SILENT HILL: Townfall",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "67",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "f0dfc016ffde1f3001a60e106bc0c2063fefd695/capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "1",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-11.0-2RC",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "0",
+        "supported_input": "other"
+      },
+      "steam_machine_compatibility": "1",
+      "steam_machine_tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamMachine_TestResult_UnsupportedGraphicsPerformance"
+        }
+      },
+      "steamos_compatibility": "2",
+      "steamos_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamOS_TestResult_GameStartupFunctional"
+        },
+        "1": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_DisplayOutputHasNonblockingIssues"
+        }
+      },
+      "test_timestamp": "1787318931",
+      "tested_build_id": "24263879",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+        }
+      }
+    },
+    "steam_release_date": "1790222465",
+    "store_asset_mtime": "1789969365",
+    "store_tags": {
+      "0": "21",
+      "1": "1667",
+      "10": "5186",
+      "11": "4182",
+      "12": "4667",
+      "13": "6691",
+      "14": "4145",
+      "15": "1742",
+      "16": "1687",
+      "17": "44868",
+      "18": "6971",
+      "19": "1663",
+      "2": "19",
+      "3": "1721",
+      "4": "3839",
+      "5": "3978",
+      "6": "3834",
+      "7": "4106",
+      "8": "4191",
+      "9": "4166"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "Townfall",
+    "launch": {
+      "1": {
+        "config": {
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "executable": "Townfall.exe",
+        "type": "default"
+      },
+      "2": {
+        "arguments": "-clearPSODriverCache -logPSO",
+        "config": {
+          "betakey": "local",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Run townfall with pso generation enabled.",
+        "description_loc": {
+          "english": "Run townfall with pso generation enabled."
+        },
+        "executable": "Townfall.exe"
+      },
+      "3": {
+        "config": {
+          "osarch": "64",
+          "oslist": "windows",
+          "ownsdlc": "4663210"
+        },
+        "description": "SILENT HILL: Townfall - Bonus Application",
+        "description_loc": {
+          "english": "SILENT HILL: Townfall - Bonus Application"
+        },
+        "executable": "BonusApp/Townfall_BonusContent.exe"
+      }
+    },
+    "steamconfigurator3rdpartynative": "65532",
+    "steamcontrollertemplateindex": "3",
+    "steamdecktouchscreen": "1"
+  },
+  "depots": {
+    "1636441": {
+      "manifests": {
+        "local": {
+          "download": "61327807696",
+          "gid": "4414572937642724539",
+          "size": "83321613513"
+        },
+        "public": {
+          "download": "57720829424",
+          "gid": "7858560538903071442",
+          "size": "75869487712"
+        }
+      }
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "229007": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "4126670": {
+      "dlcappid": "4126670",
+      "manifests": {
+        "local": {
+          "download": "30412432",
+          "gid": "5507334120939377112",
+          "size": "38811067"
+        },
+        "public": {
+          "download": "23598864",
+          "gid": "3039425646210736632",
+          "size": "31457241"
+        }
+      }
+    },
+    "4235620": {
+      "dlcappid": "4235620",
+      "manifests": {
+        "local": {
+          "download": "52941248",
+          "gid": "8725146334562933651",
+          "size": "63623609"
+        },
+        "public": {
+          "download": "52661248",
+          "gid": "1453085193393980489",
+          "size": "62368873"
+        }
+      }
+    },
+    "4663210": {
+      "dlcappid": "4663210",
+      "manifests": {
+        "local": {
+          "download": "1129835888",
+          "gid": "7832104099173718255",
+          "size": "2872926593"
+        },
+        "public": {
+          "download": "1179259040",
+          "gid": "879371378507688417",
+          "size": "3012953716"
+        }
+      }
+    },
+    "baselanguages": "brazilian,english,french,german,italian,japanese,koreana,latam,polish,russian,schinese,spanish,tchinese",
+    "branches": {
+      "local": {
+        "buildid": "25686375",
+        "description": "Local Content Server",
+        "lcsrequired": "1",
+        "timebuildupdated": "1790974752",
+        "timeupdated": "1790974752"
+      },
+      "public": {
+        "buildid": "25697972",
+        "timebuildupdated": "1791041333",
+        "timeupdated": "1791442570"
+      }
+    },
+    "privatebranches": "1"
+  },
+  "extended": {
+    "deckresolutionoverride": "Native",
+    "developer": "Screen Burn",
+    "homepage": "https://www.konami.com/games/silenthill/townfall/",
+    "listofdlc": "4126670,4235620,4663210",
+    "publisher": "KONAMI"
+  },
+  "ufs": {
+    "maxnumfiles": "30",
+    "quota": "100000000",
+    "savefiles": {
+      "0": {
+        "path": "Townfall/Saved/SaveGames",
+        "pattern": "SaveGame.sav",
+        "root": "WinAppDataLocal"
+      },
+      "1": {
+        "path": "Townfall/Saved/SaveGames",
+        "pattern": "SaveGameSlot*.sav",
+        "root": "WinAppDataLocal"
+      },
+      "2": {
+        "path": "Townfall/Saved/SaveGames",
+        "pattern": "ProfileData.sav",
+        "root": "WinAppDataLocal"
+      }
+    }
+  }
+}
