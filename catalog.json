@@ -1798,6 +1798,72 @@
     "added_ts": 1791516549
   },
   {
+    "id": "game-322170",
+    "appid": 322170,
+    "name": "Geometry Dash",
+    "developer": "RobTop Games",
+    "publisher": "RobTop Games",
+    "installdir": "Geometry Dash",
+    "launch_exes": [
+      "GeometryDash.exe",
+      "Geometry Dash.app"
+    ],
+    "build_id": "21578706",
+    "has_metadata": true,
+    "depot_base": 322171,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/322170/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/322170/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21578706",
+        "branch": "public",
+        "label": "Public - Build 21578706 (01/21/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "322171",
+          "322172"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791647757
+  },
+  {
     "id": "game-3274580",
     "appid": 3274580,
     "name": "Anno 117: Pax Romana",
