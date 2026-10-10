@@ -470,6 +470,98 @@
     "added_ts": 1791479923
   },
   {
+    "id": "game-2054970",
+    "appid": 2054970,
+    "name": "Dragon's Dogma 2",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "Dragons Dogma 2",
+    "launch_exes": [
+      "DD2.exe"
+    ],
+    "build_id": "25290080",
+    "has_metadata": true,
+    "depot_base": 2054971,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25290080",
+        "branch": "public",
+        "label": "Public - Build 25290080 (09/14/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "2054971",
+          "2054972",
+          "2054973",
+          "2054974",
+          "2581000",
+          "2593170",
+          "2593180",
+          "2593190",
+          "2593200",
+          "2593210",
+          "2593220",
+          "2593230",
+          "2593240",
+          "2593250",
+          "2593260",
+          "2593270",
+          "2593280",
+          "2593290",
+          "2694820",
+          "2694830",
+          "2694840",
+          "2694850",
+          "2757060",
+          "2757080",
+          "2757090",
+          "2757120",
+          "2757130",
+          "2757140",
+          "2757170",
+          "3350021"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791647137
+  },
+  {
     "id": "game-2058180",
     "appid": 2058180,
     "name": "Judgment",
