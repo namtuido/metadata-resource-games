@@ -1919,6 +1919,513 @@
     ]
   },
   {
+    "id": "game-3405690",
+    "appid": 3405690,
+    "name": "EA SPORTS FC™ 26",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "installdir": "FC 26",
+    "launch_exes": [
+      "steam2ea://launchgame/3405690?platform=steam&theme=fc26",
+      "3405690?platform=steam&theme=fc26",
+      "link2ea://launchgame/3405690?platform=steam&theme=fc26"
+    ],
+    "build_id": "24476534",
+    "has_metadata": true,
+    "depot_base": 3405691,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3405690/3e62e7456809a5cf182104711ed7465762d3b5fb/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3405690/59dd1b410c7cf42932c4056301d1f8db8b96bacc/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24476534",
+        "branch": "public",
+        "label": "Public - Build 24476534 (07/30/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3340991",
+          "3405691",
+          "3405692",
+          "3405693",
+          "3405694",
+          "3405695",
+          "3405696",
+          "3405697",
+          "3405698",
+          "3405699",
+          "3405701",
+          "3405702",
+          "3405703",
+          "3405704",
+          "3405705",
+          "3405706",
+          "3405707",
+          "3405708",
+          "3405709",
+          "3405711",
+          "3405712",
+          "3405713",
+          "3405714",
+          "3893181"
+        ],
+        "languages": [
+          {
+            "id": 3405692,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 3405693,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3405694,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3405695,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3405696,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 3405697,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3405698,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 3405699,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 3405701,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 3405702,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3405703,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 3405704,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 3405705,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 3405706,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 3405707,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 3405708,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 3405709,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 3405711,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 3405712,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 3405713,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3405714,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 3405692,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 3405693,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3405694,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3405695,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3405696,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 3405697,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3405698,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405699,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405701,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3405702,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405703,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405704,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3405705,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 3405706,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 3405707,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 3405708,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 3405709,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 3405711,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 3405712,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 3405713,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3405714,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 3405692,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 3405693,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3405694,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3405695,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3405696,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 3405697,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3405698,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405699,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405701,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3405702,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405703,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 3405704,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3405705,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 3405706,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 3405707,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 3405708,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 3405709,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 3405711,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 3405712,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 3405713,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3405714,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      }
+    ]
+  },
+  {
     "id": "game-3751950",
     "appid": 3751950,
     "name": "Assassin's Creed Black Flag Resynced",
