@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # cần full history để build_catalog.py biết game được thêm vào repo lúc nào
 
       - name: Set up Python
         uses: actions/setup-python@v5
