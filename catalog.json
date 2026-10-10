@@ -65,7 +65,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1615312080
   },
   {
     "id": "game-1551360",
@@ -133,7 +134,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1636433880
   },
   {
     "id": "game-1636440",
@@ -203,7 +205,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1790222465
   },
   {
     "id": "game-1672970",
@@ -284,7 +287,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1632323100
   },
   {
     "id": "game-1912410",
@@ -369,7 +373,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1790668793
   },
   {
     "id": "game-2050650",
@@ -461,7 +466,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1679630400
   },
   {
     "id": "game-2124490",
@@ -527,7 +533,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1728360060
   },
   {
     "id": "game-2229850",
@@ -680,7 +687,8 @@
         "label": "한국어 (Korean)",
         "source": "depot"
       }
-    ]
+    ],
+    "release_ts": 1709837400
   },
   {
     "id": "game-2288340",
@@ -749,7 +757,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1790891997
   },
   {
     "id": "game-2358720",
@@ -814,7 +823,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1724119108
   },
   {
     "id": "game-2483190",
@@ -880,7 +890,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1779162621
   },
   {
     "id": "game-2947440",
@@ -945,7 +956,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1758772825
   },
   {
     "id": "game-3159330",
@@ -1315,7 +1327,8 @@
         "label": "日本語 (Japanese)",
         "source": "depot"
       }
-    ]
+    ],
+    "release_ts": 1742430660
   },
   {
     "id": "game-3274580",
@@ -1406,7 +1419,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1762988334
   },
   {
     "id": "game-3321460",
@@ -1916,7 +1930,8 @@
         "label": "Português (Brazilian)",
         "source": "depot"
       }
-    ]
+    ],
+    "release_ts": 1773957000
   },
   {
     "id": "game-3405690",
@@ -2423,7 +2438,8 @@
         "label": "Español Latinoamérica (LATAM)",
         "source": "depot"
       }
-    ]
+    ],
+    "release_ts": 1758841140
   },
   {
     "id": "game-3751950",
@@ -2952,7 +2968,8 @@
         "label": "简体中文 (Simplified Chinese)",
         "source": "depot"
       }
-    ]
+    ],
+    "release_ts": 1783605518
   },
   {
     "id": "game-3764200",
@@ -3233,7 +3250,8 @@
         "label": "日本語 (Japanese) (BIOHAZARD requiem)",
         "source": "depot"
       }
-    ]
+    ],
+    "release_ts": 1772168361
   },
   {
     "id": "game-3768760",
@@ -3548,7 +3566,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1779804300
   },
   {
     "id": "game-4078430",
@@ -3613,7 +3632,8 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1791277107
   },
   {
     "id": "game-4080220",
@@ -5040,7 +5060,8 @@
         "label": "Español Latinoamérica (LATAM)",
         "source": "depot"
       }
-    ]
+    ],
+    "release_ts": 1790290775
   },
   {
     "id": "game-817130",
@@ -5169,6 +5190,7 @@
         "source": "base",
         "is_default": true
       }
-    ]
+    ],
+    "release_ts": 1539057600
   }
 ]
