@@ -94,6 +94,27 @@
   "_missing_token": false,
   "_sha": "c7d5b2be54325fb465d3bdccb2272b6d9c01f1ed",
   "_size": 11230,
+  "_depot_policy": {
+    "editions": {
+      "default": "ww",
+      "groups": {
+        "ww": {
+          "depots": [
+            1196591,
+            1196593,
+            1731080
+          ]
+        },
+        "jpd": {
+          "depots": [
+            1196592,
+            1196594,
+            1196595
+          ]
+        }
+      }
+    }
+  },
   "appid": "1196590",
   "common": {
     "associations": {
