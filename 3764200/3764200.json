@@ -764,6 +764,9 @@
       "sharedinstall": "1"
     },
     "3764201": {
+      "config": {
+        "oslist": "windows"
+      },
       "manifests": {
         "public": {
           "download": "78360773568",
@@ -773,6 +776,10 @@
       }
     },
     "3764202": {
+      "config": {
+        "oslist": "windows",
+        "language": "japanese"
+      },
       "manifests": {
         "public": {
           "download": "78415401440",
@@ -782,6 +789,9 @@
       }
     },
     "3764203": {
+      "config": {
+        "oslist": "windows"
+      },
       "manifests": {
         "public": {
           "download": "3119534720",
@@ -791,6 +801,10 @@
       }
     },
     "3764204": {
+      "config": {
+        "oslist": "windows",
+        "language": "japanese"
+      },
       "manifests": {
         "public": {
           "download": "3206584128",
