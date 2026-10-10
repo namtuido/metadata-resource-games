@@ -46,6 +46,13 @@ _LANG_LABELS = {
 }
 
 
+def _as_int(v) -> int:
+    try:
+        return int(v or 0)
+    except Exception:
+        return 0
+
+
 def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> dict:
     """Trích xuất thông tin chuẩn của game từ file JSON metadata."""
     common = data.get("common", {})
@@ -311,6 +318,10 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         "versions": versions,
         "languages": versions[0]["languages"] if (versions and "languages" in versions[0]) else languages,
         "all_languages": languages,
+        # Ngày phát hành Steam (unix). App tự tính badge NEW từ đây, nên không cần sửa tay khi thêm game mới.
+        "release_ts": _as_int(common.get("steam_release_date")),
+        # Muốn ghim NEW cho 1 game bất kể ngày phát hành: thêm "is_new": true vào "common" trong {appid}.json
+        **({"pin_new": True} if common.get("is_new") is True else {}),
     }
 
 
