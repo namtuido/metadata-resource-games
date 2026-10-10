@@ -1,5 +1,82 @@
 [
   {
+    "id": "game-1196590",
+    "appid": 1196590,
+    "name": "Resident Evil Village",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "Resident Evil Village BIOHAZARD VILLAGE",
+    "launch_exes": [
+      "re8.exe"
+    ],
+    "build_id": "22373341",
+    "has_metadata": true,
+    "depot_base": 1196591,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22373341",
+        "branch": "public",
+        "label": "Public - Build 22373341 (03/17/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1196591",
+          "1196592",
+          "1196593",
+          "1196594",
+          "1196595",
+          "1456360",
+          "1456361",
+          "1456362",
+          "1456363",
+          "1608281",
+          "1608282",
+          "1608283",
+          "1731080",
+          "1731081"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791655683
+  },
+  {
     "id": "game-1293830",
     "appid": 1293830,
     "name": "Forza Horizon 4",
