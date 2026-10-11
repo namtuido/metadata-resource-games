@@ -1438,6 +1438,298 @@
     "added_ts": 1791641988
   },
   {
+    "id": "game-292030",
+    "appid": 292030,
+    "name": "The Witcher 3: Wild Hunt — Remastered",
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT RED",
+    "installdir": "The Witcher 3",
+    "launch_exes": [
+      "redprelauncher.exe"
+    ],
+    "build_id": "25773555",
+    "has_metadata": true,
+    "depot_base": 292032,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/dd1c19c4e41b120ddfa35734cc31f79254c25082/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/3be8f52eca710d14954e19a69e4e4432c0fa06c1/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25773555",
+        "branch": "public",
+        "label": "Public - Build 25773555 (10/07/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228984",
+          "228985",
+          "228988",
+          "228990",
+          "292031",
+          "292032",
+          "292033",
+          "292034",
+          "292035",
+          "292036",
+          "292037",
+          "292038",
+          "292039",
+          "292040",
+          "292041",
+          "292042",
+          "292043",
+          "292044",
+          "292045",
+          "292046",
+          "292047",
+          "292048",
+          "292049",
+          "310611",
+          "310612",
+          "310613",
+          "310614",
+          "310615",
+          "310616",
+          "310617",
+          "310618",
+          "310619",
+          "370000",
+          "370001",
+          "370002",
+          "370003",
+          "370007",
+          "370008",
+          "370009",
+          "373950",
+          "373951",
+          "373952",
+          "373953",
+          "373954",
+          "373955",
+          "376390",
+          "376391",
+          "378640",
+          "378641",
+          "378642",
+          "378643",
+          "378644",
+          "378645",
+          "378646",
+          "378647",
+          "378648",
+          "378649",
+          "1229321",
+          "1229322",
+          "1233281",
+          "1233282",
+          "1233341",
+          "1233342"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 292035,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 292037,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 292038,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 292039,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 292040,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 292041,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 370007,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 370008,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 292035,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 292037,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 292038,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 292039,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 292040,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 292041,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 370007,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 370008,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 292035,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 292037,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 292038,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 292039,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 292040,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 292041,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 370007,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 370008,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ],
+    "added_ts": 1791684193
+  },
+  {
     "id": "game-2947440",
     "appid": 2947440,
     "name": "SILENT HILL f",
