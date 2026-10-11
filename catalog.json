@@ -101,7 +101,7 @@
       {
         "id": "12772551",
         "branch": "public",
-        "label": "Public - Build 12772551 (11/29/2023)",
+        "label": "Public - Build 12772551 (11/30/2023)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -238,7 +238,7 @@
       {
         "id": "25697972",
         "branch": "public",
-        "label": "Public - Build 25697972 (10/02/2026)",
+        "label": "Public - Build 25697972 (10/03/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -646,7 +646,8 @@
     "publisher": "SEGA",
     "installdir": "Judgment",
     "launch_exes": [
-      "runtime\\media\\startup.exe"
+      "runtime\\media\\startup.exe",
+      "startup.exe"
     ],
     "build_id": "10792091",
     "has_metadata": true,
@@ -956,7 +957,8 @@
       "P3R.exe",
       "Artbook/P3R_Artbook/Binaries/Win64/P3R_Artbook.exe",
       "P3R_Artbook.exe",
-      "Soundtrack\\P3R_Soundtrack\\Binaries\\Win64\\P3R_Soundtrack.exe"
+      "Soundtrack\\P3R_Soundtrack\\Binaries\\Win64\\P3R_Soundtrack.exe",
+      "P3R_Soundtrack.exe"
     ],
     "build_id": "22672075",
     "has_metadata": true,
@@ -1025,7 +1027,8 @@
     "launch_exes": [
       "Ra2.exe",
       "RA2MD.exe",
-      "FinalAlert2\\FinalAlert2YR.exe"
+      "FinalAlert2\\FinalAlert2YR.exe",
+      "FinalAlert2YR.exe"
     ],
     "build_id": "15918130",
     "has_metadata": true,
@@ -1179,10 +1182,13 @@
     "launch_exes": [
       "start_protected_game.exe",
       "ACZero\\acz.exe",
+      "acz.exe",
       "Game\\Binaries\\Win64\\AceCombat8.exe",
+      "AceCombat8.exe",
       "01.bat",
       "02.bat",
-      "ACZero\\aczTest.exe"
+      "ACZero\\aczTest.exe",
+      "aczTest.exe"
     ],
     "build_id": "25201480",
     "has_metadata": true,
@@ -1330,7 +1336,7 @@
       {
         "id": "25588841",
         "branch": "public",
-        "label": "Public - Build 25588841 (09/28/2026)",
+        "label": "Public - Build 25588841 (09/29/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -2037,7 +2043,7 @@
       {
         "id": "23475575",
         "branch": "public",
-        "label": "Public - Build 23475575 (05/29/2026)",
+        "label": "Public - Build 23475575 (05/30/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -2334,7 +2340,8 @@
     "publisher": "Ubisoft",
     "installdir": "Anno 117 - Pax Romana",
     "launch_exes": [
-      "Bin\\Win64\\Anno117.exe"
+      "Bin\\Win64\\Anno117.exe",
+      "Anno117.exe"
     ],
     "build_id": "24988830",
     "has_metadata": true,
@@ -2373,7 +2380,7 @@
       {
         "id": "24632735",
         "branch": "public",
-        "label": "Public - Build 24632735 (08/08/2026)",
+        "label": "Public - Build 24632735 (08/09/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -2442,7 +2449,7 @@
       {
         "id": "25477059",
         "branch": "public",
-        "label": "Public - Build 25477059 (09/30/2026)",
+        "label": "Public - Build 25477059 (10/01/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -2504,7 +2511,7 @@
       {
         "id": "25474236",
         "branch": "public",
-        "label": "Public - Build 25474236 (09/22/2026)",
+        "label": "Public - Build 25474236 (09/23/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -4461,7 +4468,7 @@
       {
         "id": "23531465",
         "branch": "public",
-        "label": "Public - Build 23531465 (06/02/2026)",
+        "label": "Public - Build 23531465 (06/03/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -4524,7 +4531,7 @@
       {
         "id": "23388781",
         "branch": "public",
-        "label": "Public - Build 23388781 (05/24/2026)",
+        "label": "Public - Build 23388781 (05/25/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -4574,7 +4581,8 @@
     "installdir": "STAR WARS Galactic Racer",
     "launch_exes": [
       "Launcher.exe",
-      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe"
+      "EpicOnlineServices\\EpicOnlineServicesInstaller.exe",
+      "EpicOnlineServicesInstaller.exe"
     ],
     "build_id": "25801363",
     "has_metadata": true,
@@ -5391,7 +5399,7 @@
       {
         "id": "25171808",
         "branch": "public",
-        "label": "Public - Build 25171808 (09/11/2026)",
+        "label": "Public - Build 25171808 (09/12/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -7076,6 +7084,158 @@
     "added_ts": 1791693585
   },
   {
+    "id": "game-809890",
+    "appid": 809890,
+    "name": "Shining Resonance Refrain",
+    "developer": "SEGA",
+    "publisher": "SEGA",
+    "installdir": "ShiningResonanceRefrain",
+    "launch_exes": [
+      "game.exe"
+    ],
+    "build_id": "2929280",
+    "has_metadata": true,
+    "depot_base": 809891,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/809890/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/809890/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "2929280",
+        "branch": "public",
+        "label": "Public - Build 2929280 (07/09/2018)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "809891",
+          "809892",
+          "809893",
+          "809894",
+          "809895",
+          "809896"
+        ],
+        "languages": [
+          {
+            "id": 809893,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 809892,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 809894,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 809895,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 809896,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 809893,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 809892,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 809894,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 809895,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 809896,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 809893,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 809892,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 809894,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 809895,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 809896,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ],
+    "added_ts": 0
+  },
+  {
     "id": "game-817130",
     "appid": 817130,
     "name": "WWE 2K19",
@@ -7097,7 +7257,7 @@
       {
         "id": "3467910",
         "branch": "public",
-        "label": "Public - Build 3467910 (01/17/2019)",
+        "label": "Public - Build 3467910 (01/18/2019)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
