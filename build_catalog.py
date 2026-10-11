@@ -232,9 +232,42 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         except Exception:
             pass
 
+    # ready_builds.json — plaintext index of buildIds confirmed ready by vault check.
+    # Written locally (when vault.py is available) and read by CI (when vault.py is not available).
+    ready_builds_file = repo_dir / appid_str / "ready_builds.json"
+
     branches = depots_raw.get("branches", {}) if isinstance(depots_raw, dict) else {}
     versions = []
     recommended_build_index = 0
+
+    # Collect ready buildIds using vault (when available), then write ready_builds.json
+    if vault_data:
+        ready_build_ids: list[str] = []
+        for idx_pre, h in enumerate(history if isinstance(history, list) else []):
+            bid_pre = str(h.get("buildId") or h.get("build_id") or "").strip()
+            if not bid_pre:
+                continue
+            mfsts_pre = h.get("manifests", {})
+            base_gid_pre = mfsts_pre.get(str(depot_base), {}).get("gid")
+            if base_gid_pre:
+                has_key_pre = (depot_base in vault_data.get("keys", {})) or (str(depot_base) in vault_data.get("keys", {}))
+                combo_pre = f"{depot_base}_{base_gid_pre}"
+                has_manifest_pre = combo_pre in vault_data.get("manifests", {})
+                if has_key_pre and has_manifest_pre:
+                    ready_build_ids.append(bid_pre)
+        # Write plaintext index so CI can use it without vault.py
+        try:
+            ready_builds_file.write_text(json.dumps(ready_build_ids, ensure_ascii=False), encoding="utf-8")
+        except Exception:
+            pass
+    else:
+        ready_build_ids = []
+        if ready_builds_file.is_file():
+            try:
+                _rb = json.loads(ready_builds_file.read_text(encoding="utf-8"))
+                ready_build_ids = [str(x) for x in _rb] if isinstance(_rb, list) else []
+            except Exception:
+                pass
 
     if isinstance(history, list) and history:
         for idx, h in enumerate(history):
@@ -256,6 +289,7 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
 
             is_ready = False
             if vault_data:
+                # vault.py available and loaded: precise per-build check
                 base_gid = mfsts.get(str(depot_base), {}).get("gid")
                 if base_gid:
                     has_key = (depot_base in vault_data.get("keys", {})) or (str(depot_base) in vault_data.get("keys", {}))
@@ -264,9 +298,12 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
                     is_ready = bool(has_key and has_manifest)
                 else:
                     is_ready = (idx == 0)
+            elif ready_build_ids:
+                # No vault.py but ready_builds.json is available (CI path)
+                is_ready = bid in ready_build_ids
             elif has_vault:
-                # Vault file exists in repo but failed to decrypt/load.
-                # We cannot verify which builds are covered → only allow the first build.
+                # Vault file exists but neither vault.py nor ready_builds.json available.
+                # Cannot verify which builds are covered → conservatively allow only build 0.
                 is_ready = (idx == 0)
             else:
                 is_ready = (idx == 0)
