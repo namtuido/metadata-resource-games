@@ -409,6 +409,69 @@
     "added_ts": 1791733683
   },
   {
+    "id": "game-1222730",
+    "appid": 1222730,
+    "name": "STAR WARS™: Squadrons",
+    "developer": "MOTIVE",
+    "publisher": "Electronic Arts",
+    "installdir": "STAR WARS Squadrons",
+    "launch_exes": [
+      "starwarssquadrons_launcher.exe"
+    ],
+    "build_id": "8101433",
+    "has_metadata": true,
+    "depot_base": 1222731,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222730/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222730/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "8101433",
+        "branch": "public",
+        "label": "Public - Build 8101433 (01/28/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1222731"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791739470
+  },
+  {
     "id": "game-1293830",
     "appid": 1293830,
     "name": "Forza Horizon 4",
