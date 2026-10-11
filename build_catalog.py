@@ -458,12 +458,14 @@ def build_catalog(repo_dir: Path | None = None) -> list[dict]:
             data = json.loads(json_file.read_text(encoding="utf-8"))
             info = _parse_game_info_from_json(data, aid, repo_dir)
 
-            # added_ts: ưu tiên giá trị đã ghi trong catalog.json cũ (ổn định) -> commit đầu tiên của
-            # thư mục trong git -> game chưa có trong catalog cũ mà không có git thì coi là vừa thêm -> 0.
-            added = prev_added.get(info["appid"], 0)
+            # added_ts: ưu tiên catalog cũ -> git history -> game mới hoàn toàn thì stamp NOW
+            # Dùng str() để tránh int/str type mismatch giữa info["appid"] và prev_added keys
+            _prev_keys_str = {str(k) for k in prev_added}
+            added = prev_added.get(info["appid"], 0) or prev_added.get(_as_int(str(info["appid"])), 0)
             if not added and use_git:
                 added = _git_added_ts(repo_dir, aid)
-            if not added and had_prev and info["appid"] not in prev_added:
+            if not added and str(info["appid"]) not in _prev_keys_str:
+                # Game hoàn toàn mới, không có trong catalog cũ -> đánh dấu ngay bây giờ
                 added = now
             info["added_ts"] = added
 
