@@ -8605,6 +8605,140 @@
     "added_ts": 1791431541
   },
   {
+    "id": "game-883710",
+    "appid": 883710,
+    "name": "Resident Evil 2",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "RESIDENT EVIL 2  BIOHAZARD RE2",
+    "launch_exes": [
+      "re2.exe"
+    ],
+    "build_id": "11636119",
+    "has_metadata": true,
+    "depot_base": 883711,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "11636119",
+        "branch": "public",
+        "label": "Public - Build 11636119 (08/14/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228987",
+          "228990",
+          "883711",
+          "883712",
+          "883713",
+          "883714",
+          "883715",
+          "883716",
+          "883717",
+          "883718",
+          "883719",
+          "920560",
+          "920561",
+          "920562",
+          "920563",
+          "920564",
+          "920565",
+          "920566",
+          "920567",
+          "920568",
+          "920569",
+          "920570",
+          "920571",
+          "920572",
+          "920573",
+          "1335171",
+          "1335172",
+          "1335173",
+          "1335174",
+          "1335175",
+          "1335176"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "11055033",
+        "branch": "dx11_non-rt",
+        "label": "Build 11055033 (04/27/2023) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "883711",
+          "883712",
+          "883713",
+          "883714",
+          "883715",
+          "883716",
+          "883717",
+          "883718",
+          "883719",
+          "920560",
+          "920561",
+          "920562",
+          "920563",
+          "920564",
+          "920565",
+          "920566",
+          "920567",
+          "920568",
+          "920569",
+          "920570",
+          "920571",
+          "920572",
+          "920573"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791745058
+  },
+  {
     "id": "game-950050",
     "appid": 950050,
     "name": "Starlink: Battle for Atlas",
