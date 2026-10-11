@@ -6060,6 +6060,1022 @@
     "added_ts": 1791191494
   },
   {
+    "id": "game-779340",
+    "appid": 779340,
+    "name": "Total War: THREE KINGDOMS",
+    "developer": "CREATIVE ASSEMBLY",
+    "publisher": "SEGA",
+    "installdir": "Total War THREE KINGDOMS",
+    "launch_exes": [
+      "launcher/launcher.exe",
+      "launcher.exe",
+      "Three Kingdoms.app",
+      "ThreeKingdoms.sh"
+    ],
+    "build_id": "25370317",
+    "has_metadata": true,
+    "depot_base": 779341,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/779340/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25370317",
+        "branch": "public",
+        "label": "Public - Build 25370317 (04/02/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228985",
+          "228986",
+          "228988",
+          "228990",
+          "372531",
+          "372532",
+          "779341",
+          "779342",
+          "779343",
+          "779344",
+          "779345",
+          "779346",
+          "779347",
+          "779348",
+          "779349",
+          "799370",
+          "799371",
+          "799372",
+          "799373",
+          "799374",
+          "799375",
+          "799376",
+          "799377",
+          "799378",
+          "799379",
+          "799380",
+          "799381",
+          "799382",
+          "799383",
+          "799384",
+          "799385",
+          "799386",
+          "799387",
+          "799388",
+          "799389",
+          "853360",
+          "853361",
+          "853362",
+          "853363",
+          "853364",
+          "853365",
+          "853366",
+          "853367",
+          "853368",
+          "853369",
+          "874310",
+          "874311",
+          "874312",
+          "874313",
+          "874314",
+          "874315",
+          "874316",
+          "874317",
+          "874318",
+          "874319",
+          "1030850",
+          "1030851",
+          "1030852",
+          "1030853",
+          "1102310",
+          "1493250",
+          "1637331",
+          "1637332",
+          "1970202",
+          "1970203"
+        ],
+        "languages": [
+          {
+            "id": 799378,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 1030850,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 799379,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 799380,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 799381,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 799382,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 799383,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 799384,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 799385,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 799386,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 799387,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 799388,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 799389,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "20435474",
+        "branch": "public",
+        "label": "Public - Build 20435474 (10/30/2025)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1030850",
+          "1030851",
+          "1030852",
+          "1030853",
+          "1102310",
+          "1493250",
+          "372531",
+          "372532",
+          "779341",
+          "779342",
+          "779343",
+          "779344",
+          "779345",
+          "779346",
+          "779347",
+          "779348",
+          "779349",
+          "799370",
+          "799371",
+          "799372",
+          "799373",
+          "799374",
+          "799375",
+          "799376",
+          "799377",
+          "799378",
+          "799379",
+          "799380",
+          "799381",
+          "799382",
+          "799383",
+          "799384",
+          "799385",
+          "799386",
+          "799387",
+          "799388",
+          "799389",
+          "853360",
+          "853361",
+          "853362",
+          "853363",
+          "853364",
+          "853365",
+          "853366",
+          "853367",
+          "853368",
+          "853369",
+          "874310",
+          "874311",
+          "874312",
+          "874313",
+          "874314",
+          "874315",
+          "874316",
+          "874317",
+          "874318",
+          "874319"
+        ],
+        "languages": [
+          {
+            "id": 799378,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 1030850,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 799379,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 799380,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 799381,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 799382,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 799383,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 799384,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 799385,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 799386,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 799387,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 799388,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 799389,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "11894361",
+        "branch": "maclinux151",
+        "label": "Build 11894361 (08/08/2023)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1030850",
+          "1030851",
+          "1030852",
+          "1030853",
+          "1102310",
+          "1493250",
+          "779341",
+          "779342",
+          "779343",
+          "779344",
+          "779345",
+          "779346",
+          "779347",
+          "779348",
+          "779349",
+          "799370",
+          "799371",
+          "799372",
+          "799373",
+          "799374",
+          "799375",
+          "799376",
+          "799377",
+          "799378",
+          "799379",
+          "799380",
+          "799381",
+          "799382",
+          "799383",
+          "799384",
+          "799385",
+          "799386",
+          "799387",
+          "799388",
+          "799389",
+          "853360",
+          "853361",
+          "853362",
+          "853363",
+          "853364",
+          "853365",
+          "853366",
+          "853367",
+          "853368",
+          "853369",
+          "874310",
+          "874311",
+          "874312",
+          "874313",
+          "874314",
+          "874315",
+          "874316",
+          "874317",
+          "874318",
+          "874319"
+        ],
+        "languages": [
+          {
+            "id": 799378,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 1030850,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 799379,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 799380,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 799381,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 799382,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 799383,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 799384,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 799385,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 799386,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 799387,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 799388,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 799389,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "11894352",
+        "branch": "mac_linux_1.5.0",
+        "label": "Build 11894352 (08/08/2023)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1030850",
+          "1030851",
+          "1030852",
+          "1030853",
+          "1102310",
+          "1493250",
+          "779341",
+          "779342",
+          "779343",
+          "779344",
+          "779345",
+          "779346",
+          "779347",
+          "779348",
+          "779349",
+          "799370",
+          "799371",
+          "799372",
+          "799373",
+          "799374",
+          "799375",
+          "799376",
+          "799377",
+          "799378",
+          "799379",
+          "799380",
+          "799381",
+          "799382",
+          "799383",
+          "799384",
+          "799385",
+          "799386",
+          "799387",
+          "799388",
+          "799389",
+          "853360",
+          "853361",
+          "853362",
+          "853363",
+          "853364",
+          "853365",
+          "853366",
+          "853367",
+          "853368",
+          "853369",
+          "874310",
+          "874311",
+          "874312",
+          "874313",
+          "874314",
+          "874315",
+          "874316",
+          "874317",
+          "874318",
+          "874319"
+        ],
+        "languages": [
+          {
+            "id": 799378,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 1030850,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 799379,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 799380,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 799381,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 799382,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 799383,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 799384,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 799385,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 799386,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 799387,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 799388,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 799389,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "11894343",
+        "branch": "mac_1.0.11",
+        "label": "Build 11894343 (08/08/2023)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1030850",
+          "1030851",
+          "1030852",
+          "1030853",
+          "1102310",
+          "1493250",
+          "779341",
+          "779342",
+          "779343",
+          "779344",
+          "779345",
+          "779346",
+          "779347",
+          "779348",
+          "779349",
+          "799370",
+          "799371",
+          "799372",
+          "799373",
+          "799374",
+          "799375",
+          "799376",
+          "799377",
+          "799378",
+          "799379",
+          "799380",
+          "799381",
+          "799382",
+          "799383",
+          "799384",
+          "799385",
+          "799386",
+          "799387",
+          "799388",
+          "799389",
+          "853360",
+          "853361",
+          "853362",
+          "853363",
+          "853364",
+          "853365",
+          "853366",
+          "853367",
+          "853368",
+          "853369",
+          "874310",
+          "874311",
+          "874312",
+          "874313",
+          "874314",
+          "874315",
+          "874316",
+          "874317",
+          "874318",
+          "874319"
+        ],
+        "languages": [
+          {
+            "id": 799378,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 1030850,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 799379,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 799380,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 799381,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 799382,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 799383,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 799384,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 799385,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 799386,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 799387,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 799388,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 799389,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 799378,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 1030850,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 799379,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 799380,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 799381,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 799382,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 799383,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 799384,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 799385,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 799386,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 799387,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 799388,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 799389,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 799378,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 1030850,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 799379,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 799380,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 799381,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 799382,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 799383,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 799384,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 799385,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 799386,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 799387,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 799388,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 799389,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      }
+    ],
+    "added_ts": 1791693585
+  },
+  {
     "id": "game-817130",
     "appid": 817130,
     "name": "WWE 2K19",
