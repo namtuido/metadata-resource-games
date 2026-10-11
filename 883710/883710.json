@@ -1002,5 +1002,22 @@
   "ufs": {
     "maxnumfiles": "30",
     "quota": "369099776"
+  },
+  "_depot_policy": {
+    "editions": {
+      "default": "ww",
+      "groups": {
+        "ww": {
+          "depots": [
+            883711
+          ]
+        },
+        "jpd": {
+          "depots": [
+            883712
+          ]
+        }
+      }
+    }
   }
 }
