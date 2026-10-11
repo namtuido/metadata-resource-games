@@ -8475,6 +8475,78 @@
     "added_ts": 1791729591
   },
   {
+    "id": "game-814380",
+    "appid": 814380,
+    "name": "Sekiro™: Shadows Die Twice",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "Activision (Excluding Japan and Asia)",
+    "installdir": "Sekiro",
+    "launch_exes": [
+      "sekiro.exe",
+      "Artwork_MiniSoundtrack/DigitalArtwork_MiniSoundtrack.exe",
+      "DigitalArtwork_MiniSoundtrack.exe"
+    ],
+    "build_id": "5794815",
+    "has_metadata": true,
+    "depot_base": 814381,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "5794815",
+        "branch": "public",
+        "label": "Public - Build 5794815 (11/07/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "814381",
+          "814382",
+          "814383",
+          "814384",
+          "814385",
+          "1039230"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791746501
+  },
+  {
     "id": "game-817130",
     "appid": 817130,
     "name": "WWE 2K19",
