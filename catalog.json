@@ -1438,6 +1438,100 @@
     "added_ts": 1791641988
   },
   {
+    "id": "game-2638890",
+    "appid": 2638890,
+    "name": "Onimusha: Way of the Sword",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "OnimushaWotS",
+    "launch_exes": [
+      "OnimushaWotS.exe",
+      "runtime_il2cpp.exe"
+    ],
+    "build_id": "24769601",
+    "has_metadata": true,
+    "depot_base": 2638891,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2638890/730daf025e5922da7441a4c02b1999f27dc026fd/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2638890/5b0f578708746302bafbaac5444232efa2f5c005/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24769601",
+        "branch": "public",
+        "label": "Public - Build 24769601 (09/24/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "2638891",
+          "3932690",
+          "3935590",
+          "3935610",
+          "3935620",
+          "3935630",
+          "3935640",
+          "3935650",
+          "3935660",
+          "3935670",
+          "3935680",
+          "3935710",
+          "3935720",
+          "3935730",
+          "3935740",
+          "3935760",
+          "3935770",
+          "3935780",
+          "3935790",
+          "3935810",
+          "3935820",
+          "3935830",
+          "3935840",
+          "3935850",
+          "3935880",
+          "3935890",
+          "3935990",
+          "3936020",
+          "4053020",
+          "5165871",
+          "5165872"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791692028
+  },
+  {
     "id": "game-292030",
     "appid": 292030,
     "name": "The Witcher 3: Wild Hunt — Remastered",
