@@ -16,11 +16,30 @@ from pathlib import Path
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-sys.path.insert(0, str(Path(r"E:\0xshinky")))
+import importlib
+
+# Try to import vault from several locations:
+# 1. Same directory as this script (if vault.py is co-located)
+# 2. Parent directory
+# 3. Sibling 0xshinky folder (dev machine convenience)
+# Failing silently and setting vault=None is OK — is_ready will use safe fallback.
+_script_dir = Path(__file__).resolve().parent
+for _vault_search in [
+    _script_dir,
+    _script_dir.parent,
+    _script_dir.parent / "0xshinky",
+    Path(r"E:\0xshinky"),
+    Path(r"D:\0xshinky"),
+]:
+    if (_vault_search / "vault.py").is_file():
+        sys.path.insert(0, str(_vault_search))
+        break
+
 try:
     import vault
 except Exception:
     vault = None
+
 
 _LANG_LABELS = {
     "english":    "English",
@@ -246,7 +265,9 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
                 else:
                     is_ready = (idx == 0)
             elif has_vault:
-                is_ready = bool(mfsts) or (idx == 0)
+                # Vault file exists in repo but failed to decrypt/load.
+                # We cannot verify which builds are covered → only allow the first build.
+                is_ready = (idx == 0)
             else:
                 is_ready = (idx == 0)
 
