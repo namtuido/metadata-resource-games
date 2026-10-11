@@ -384,6 +384,9 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         # App tính badge NEW từ added_ts, KHÔNG dùng ngày phát hành Steam.
         # Muốn ghim NEW cho 1 game bất kể ngày thêm: thêm "is_new": true vào "common" trong {appid}.json
         **({"pin_new": True} if common.get("is_new") is True else {}),
+        # json_rev: tang _rev trong {appid}.json khi sua noi dung quan trong.
+        # App dung de tu xoa cache cu tren may nguoi dung khi _rev thay doi.
+        "json_rev": int(data.get("_rev") or 1),
     }
 
 
