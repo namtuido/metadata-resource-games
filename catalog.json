@@ -541,6 +541,75 @@
     "added_ts": 1791546713
   },
   {
+    "id": "game-1413480",
+    "appid": 1413480,
+    "name": "Shin Megami Tensei III Nocturne HD Remaster",
+    "developer": "ATLUS",
+    "publisher": "SEGA",
+    "installdir": "smt3hd",
+    "launch_exes": [
+      "smt3hd.exe"
+    ],
+    "build_id": "20657000",
+    "has_metadata": true,
+    "depot_base": 1413481,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1413480/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1413480/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "20657000",
+        "branch": "public",
+        "label": "Public - Build 20657000 (10/29/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1413481",
+          "1413482",
+          "1497870",
+          "1497871",
+          "1502000",
+          "1502940",
+          "1503720",
+          "1527660"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791740974
+  },
+  {
     "id": "game-1551360",
     "appid": 1551360,
     "name": "Forza Horizon 5",
