@@ -3729,6 +3729,76 @@
     "added_ts": 1791647757
   },
   {
+    "id": "game-3240220",
+    "appid": 3240220,
+    "name": "Grand Theft Auto V Enhanced",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "installdir": "Grand Theft Auto V Enhanced",
+    "launch_exes": [
+      "PlayGTAV.exe"
+    ],
+    "launch_exe": "PlayGTAV.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25261616",
+    "has_metadata": true,
+    "depot_base": 3240221,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240220/394239e5da54fed177bd0ab04590812f6add1bb5/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240220/444251a891d74c78630ce2b5c198e8d1e5a2d06c/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25261616",
+        "branch": "public",
+        "label": "Public - Build 25261616 (09/12/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1899671",
+          "3240221",
+          "3240222",
+          "3240223",
+          "3240224",
+          "3240225"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1791824061
+  },
+  {
     "id": "game-3274580",
     "appid": 3274580,
     "name": "Anno 117: Pax Romana",
