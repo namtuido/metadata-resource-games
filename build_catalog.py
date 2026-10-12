@@ -371,6 +371,8 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         "publisher": pub,
         "installdir": installdir,
         "launch_exes": exes,
+        "launch_exe": (data.get("launch", {}) or {}).get("exe") or (exes[0] if exes else ""),
+        "launch_exe_after_fix": (data.get("launch", {}) or {}).get("exe_after_fix") or "",
         "build_id": build_id,
         "has_metadata": has_vault,
         "depot_base": depot_base,
