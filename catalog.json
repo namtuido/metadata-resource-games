@@ -9,6 +9,8 @@
     "launch_exes": [
       "re8.exe"
     ],
+    "launch_exe": "re8.exe",
+    "launch_exe_after_fix": "",
     "build_id": "22373341",
     "has_metadata": true,
     "depot_base": 1196591,
@@ -74,6 +76,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791655683
   },
   {
@@ -87,6 +90,8 @@
       "steam2ea://launchgame/1222680?platform=steam&theme=nfsh",
       "1222680?platform=steam&theme=nfsh"
     ],
+    "launch_exe": "steam2ea://launchgame/1222680?platform=steam&theme=nfsh",
+    "launch_exe_after_fix": "",
     "build_id": "10351341",
     "has_metadata": true,
     "depot_base": 1222681,
@@ -406,7 +411,8 @@
         "source": "depot"
       }
     ],
-    "added_ts": 1791733683
+    "json_rev": 1,
+    "added_ts": 1791733685
   },
   {
     "id": "game-1222730",
@@ -418,6 +424,8 @@
     "launch_exes": [
       "starwarssquadrons_launcher.exe"
     ],
+    "launch_exe": "starwarssquadrons_launcher.exe",
+    "launch_exe_after_fix": "",
     "build_id": "8101433",
     "has_metadata": true,
     "depot_base": 1222731,
@@ -469,7 +477,8 @@
         "is_default": true
       }
     ],
-    "added_ts": 1791739470
+    "json_rev": 1,
+    "added_ts": 1791739472
   },
   {
     "id": "game-1293830",
@@ -484,6 +493,8 @@
       "forza_x64_release.exe",
       "forza_x64_release_final.exe"
     ],
+    "launch_exe": "ForzaHorizon4.exe",
+    "launch_exe_after_fix": "",
     "build_id": "12772551",
     "has_metadata": true,
     "depot_base": 1293831,
@@ -538,6 +549,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791546713
   },
   {
@@ -551,6 +563,8 @@
       "link2ea://launchgame/1313860?platform=steam&theme=fifa21",
       "1313860?platform=steam&theme=fifa21"
     ],
+    "launch_exe": "link2ea://launchgame/1313860?platform=steam&theme=fifa21",
+    "launch_exe_after_fix": "",
     "build_id": "10461832",
     "has_metadata": true,
     "depot_base": 1313861,
@@ -1048,7 +1062,8 @@
         "source": "depot"
       }
     ],
-    "added_ts": 1791742127
+    "json_rev": 1,
+    "added_ts": 1791742130
   },
   {
     "id": "game-1328660",
@@ -1061,6 +1076,8 @@
       "steam2ea://launchgame/1328660?platform=steam&theme=NFSHP",
       "1328660?platform=steam&theme=NFSHP"
     ],
+    "launch_exe": "steam2ea://launchgame/1328660?platform=steam&theme=NFSHP",
+    "launch_exe_after_fix": "",
     "build_id": "10351285",
     "has_metadata": true,
     "depot_base": 1328661,
@@ -1313,7 +1330,8 @@
         "source": "depot"
       }
     ],
-    "added_ts": 1791744032
+    "json_rev": 1,
+    "added_ts": 1791744034
   },
   {
     "id": "game-1413480",
@@ -1325,6 +1343,8 @@
     "launch_exes": [
       "smt3hd.exe"
     ],
+    "launch_exe": "smt3hd.exe",
+    "launch_exe_after_fix": "",
     "build_id": "20657000",
     "has_metadata": true,
     "depot_base": 1413481,
@@ -1382,7 +1402,8 @@
         "is_default": true
       }
     ],
-    "added_ts": 1791740974
+    "json_rev": 1,
+    "added_ts": 1791740976
   },
   {
     "id": "game-1551360",
@@ -1397,6 +1418,8 @@
       "forza_x64_release.exe",
       "forza_x64_release_final.exe"
     ],
+    "launch_exe": "ForzaHorizon5.exe",
+    "launch_exe_after_fix": "",
     "build_id": "21856128",
     "has_metadata": true,
     "depot_base": 1551361,
@@ -1451,6 +1474,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791550712
   },
   {
@@ -1465,6 +1489,8 @@
       "BonusApp/Townfall_BonusContent.exe",
       "Townfall_BonusContent.exe"
     ],
+    "launch_exe": "Townfall.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25697972",
     "has_metadata": true,
     "depot_base": 1636441,
@@ -1522,6 +1548,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791628686
   },
   {
@@ -1534,6 +1561,8 @@
     "launch_exes": [
       "Dungeons.exe"
     ],
+    "launch_exe": "Dungeons.exe",
+    "launch_exe_after_fix": "",
     "build_id": "10005697",
     "has_metadata": true,
     "depot_base": 1672971,
@@ -1604,6 +1633,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1790995788
   },
   {
@@ -1616,6 +1646,8 @@
     "launch_exes": [
       "Dungeons.exe"
     ],
+    "launch_exe": "Dungeons.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25647713",
     "has_metadata": true,
     "depot_base": 1912411,
@@ -1690,6 +1722,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1790914878
   },
   {
@@ -1702,6 +1735,8 @@
     "launch_exes": [
       "re4.exe"
     ],
+    "launch_exe": "re4.exe",
+    "launch_exe_after_fix": "",
     "build_id": "22377325",
     "has_metadata": true,
     "depot_base": 2050651,
@@ -1783,6 +1818,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791479923
   },
   {
@@ -1795,6 +1831,8 @@
     "launch_exes": [
       "DD2.exe"
     ],
+    "launch_exe": "DD2.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25290080",
     "has_metadata": true,
     "depot_base": 2054971,
@@ -1875,6 +1913,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791647137
   },
   {
@@ -1888,6 +1927,8 @@
       "runtime\\media\\startup.exe",
       "startup.exe"
     ],
+    "launch_exe": "runtime\\media\\startup.exe",
+    "launch_exe_after_fix": "",
     "build_id": "10792091",
     "has_metadata": true,
     "depot_base": 2058181,
@@ -2115,6 +2156,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791632997
   },
   {
@@ -2129,6 +2171,8 @@
       "SHProto\\Binaries\\Win64\\SHProto.exe",
       "RecordPSO.bat"
     ],
+    "launch_exe": "SHProto.exe",
+    "launch_exe_after_fix": "",
     "build_id": "17080069",
     "has_metadata": true,
     "depot_base": 2124491,
@@ -2182,6 +2226,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791627130
   },
   {
@@ -2199,6 +2244,8 @@
       "Soundtrack\\P3R_Soundtrack\\Binaries\\Win64\\P3R_Soundtrack.exe",
       "P3R_Soundtrack.exe"
     ],
+    "launch_exe": "P3R/Binaries/Win64/P3R.exe",
+    "launch_exe_after_fix": "",
     "build_id": "22672075",
     "has_metadata": true,
     "depot_base": 2161701,
@@ -2254,6 +2301,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791631339
   },
   {
@@ -2269,6 +2317,8 @@
       "FinalAlert2\\FinalAlert2YR.exe",
       "FinalAlert2YR.exe"
     ],
+    "launch_exe": "Ra2.exe",
+    "launch_exe_after_fix": "",
     "build_id": "15918130",
     "has_metadata": true,
     "depot_base": 2229851,
@@ -2409,6 +2459,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1790783502
   },
   {
@@ -2429,6 +2480,8 @@
       "ACZero\\aczTest.exe",
       "aczTest.exe"
     ],
+    "launch_exe": "start_protected_game.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25201480",
     "has_metadata": true,
     "depot_base": 2288341,
@@ -2482,6 +2535,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791482324
   },
   {
@@ -2494,6 +2548,8 @@
     "launch_exes": [
       "b1.exe"
     ],
+    "launch_exe": "b1.exe",
+    "launch_exe_after_fix": "",
     "build_id": "21393610",
     "has_metadata": true,
     "depot_base": 2358721,
@@ -2548,6 +2604,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791481198
   },
   {
@@ -2563,6 +2620,8 @@
       "forza_x64_release.exe",
       "forza_x64_release_final.exe"
     ],
+    "launch_exe": "forzahorizon6.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25588841",
     "has_metadata": true,
     "depot_base": 2483191,
@@ -2615,6 +2674,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791512846
   },
   {
@@ -2627,6 +2687,8 @@
     "launch_exes": [
       "MiSideFull.exe"
     ],
+    "launch_exe": "MiSideFull.exe",
+    "launch_exe_after_fix": "",
     "build_id": "19029065",
     "has_metadata": true,
     "depot_base": 2527501,
@@ -2680,6 +2742,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791641988
   },
   {
@@ -2693,6 +2756,8 @@
       "OnimushaWotS.exe",
       "runtime_il2cpp.exe"
     ],
+    "launch_exe": "OnimushaWotS.exe",
+    "launch_exe_after_fix": "",
     "build_id": "24769601",
     "has_metadata": true,
     "depot_base": 2638891,
@@ -2774,6 +2839,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791692028
   },
   {
@@ -2786,6 +2852,8 @@
     "launch_exes": [
       "redprelauncher.exe"
     ],
+    "launch_exe": "redprelauncher.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25773555",
     "has_metadata": true,
     "depot_base": 292032,
@@ -3066,6 +3134,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791684193
   },
   {
@@ -3079,6 +3148,8 @@
       "SHf.exe",
       "SHf_BonusContent.exe"
     ],
+    "launch_exe": "SHf.exe",
+    "launch_exe_after_fix": "",
     "build_id": "23976016",
     "has_metadata": true,
     "depot_base": 2947441,
@@ -3132,6 +3203,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791552813
   },
   {
@@ -3144,6 +3216,8 @@
     "launch_exes": [
       "ACShadows.exe"
     ],
+    "launch_exe": "ACShadows.exe",
+    "launch_exe_after_fix": "",
     "build_id": "24716659",
     "has_metadata": true,
     "depot_base": 3159331,
@@ -3503,6 +3577,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791516549
   },
   {
@@ -3516,6 +3591,8 @@
       "GeometryDash.exe",
       "Geometry Dash.app"
     ],
+    "launch_exe": "GeometryDash.exe",
+    "launch_exe_after_fix": "",
     "build_id": "21578706",
     "has_metadata": true,
     "depot_base": 322171,
@@ -3569,6 +3646,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791647757
   },
   {
@@ -3582,6 +3660,8 @@
       "Bin\\Win64\\Anno117.exe",
       "Anno117.exe"
     ],
+    "launch_exe": "Bin\\Win64\\Anno117.exe",
+    "launch_exe_after_fix": "",
     "build_id": "24988830",
     "has_metadata": true,
     "depot_base": 3274581,
@@ -3662,6 +3742,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791555167
   },
   {
@@ -3676,6 +3757,8 @@
       "CrimsonDesert.exe",
       "CrimsonDesert_Steam.app"
     ],
+    "launch_exe": "bin64/CrimsonDesert.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25477059",
     "has_metadata": true,
     "depot_base": 3321461,
@@ -4173,6 +4256,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1790832311
   },
   {
@@ -4187,6 +4271,8 @@
       "3405690?platform=steam&theme=fc26",
       "link2ea://launchgame/3405690?platform=steam&theme=fc26"
     ],
+    "launch_exe": "steam2ea://launchgame/3405690?platform=steam&theme=fc26",
+    "launch_exe_after_fix": "",
     "build_id": "24476534",
     "has_metadata": true,
     "depot_base": 3405691,
@@ -4681,6 +4767,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791629710
   },
   {
@@ -4693,6 +4780,8 @@
     "launch_exes": [
       "ACBlackFlag.exe"
     ],
+    "launch_exe": "ACBlackFlag.exe",
+    "launch_exe_after_fix": "",
     "build_id": "24833802",
     "has_metadata": true,
     "depot_base": 3751951,
@@ -5211,6 +5300,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791556197
   },
   {
@@ -5223,6 +5313,8 @@
     "launch_exes": [
       "re9.exe"
     ],
+    "launch_exe": "re9.exe",
+    "launch_exe_after_fix": "",
     "build_id": "23634047",
     "has_metadata": true,
     "depot_base": 3764201,
@@ -5493,6 +5585,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791569847
   },
   {
@@ -5506,6 +5599,8 @@
       "Retail/007FirstLight.exe",
       "007FirstLight.exe"
     ],
+    "launch_exe": "Retail/007FirstLight.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25626700",
     "has_metadata": true,
     "depot_base": 3768761,
@@ -5809,6 +5904,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791355440
   },
   {
@@ -5823,6 +5919,8 @@
       "EpicOnlineServices\\EpicOnlineServicesInstaller.exe",
       "EpicOnlineServicesInstaller.exe"
     ],
+    "launch_exe": "Launcher.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25801363",
     "has_metadata": true,
     "depot_base": 4078431,
@@ -5876,6 +5974,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791471416
   },
   {
@@ -5889,6 +5988,8 @@
       "steam2ea://launchgame/4080220?platform=steam&theme=fc27",
       "4080220?platform=steam&theme=fc27"
     ],
+    "launch_exe": "steam2ea://launchgame/4080220?platform=steam&theme=fc27",
+    "launch_exe_after_fix": "",
     "build_id": "25726320",
     "has_metadata": true,
     "depot_base": 4080221,
@@ -7304,6 +7405,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791191494
   },
   {
@@ -7319,6 +7421,8 @@
       "Three Kingdoms.app",
       "ThreeKingdoms.sh"
     ],
+    "launch_exe": "launcher/launcher.exe",
+    "launch_exe_after_fix": "",
     "build_id": "25370317",
     "has_metadata": true,
     "depot_base": 779341,
@@ -8320,6 +8424,7 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791693585
   },
   {
@@ -8332,6 +8437,8 @@
     "launch_exes": [
       "game.exe"
     ],
+    "launch_exe": "game.exe",
+    "launch_exe_after_fix": "",
     "build_id": "2929280",
     "has_metadata": true,
     "depot_base": 809891,
@@ -8472,79 +8579,8 @@
         "source": "depot"
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791729591
-  },
-  {
-    "id": "game-814380",
-    "appid": 814380,
-    "name": "Sekiro™: Shadows Die Twice",
-    "developer": "FromSoftware, Inc.",
-    "publisher": "Activision (Excluding Japan and Asia)",
-    "installdir": "Sekiro",
-    "launch_exes": [
-      "sekiro.exe",
-      "Artwork_MiniSoundtrack/DigitalArtwork_MiniSoundtrack.exe",
-      "DigitalArtwork_MiniSoundtrack.exe"
-    ],
-    "build_id": "5794815",
-    "has_metadata": true,
-    "depot_base": 814381,
-    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg",
-    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
-    "platforms": [
-      "Windows (64-bit)",
-      "Windows (32-bit)"
-    ],
-    "versions": [
-      {
-        "id": "5794815",
-        "branch": "public",
-        "label": "Public - Build 5794815 (11/07/2020)",
-        "is_ready": true,
-        "is_recommended": true,
-        "manifest_depots": [
-          "228986",
-          "228990",
-          "814381",
-          "814382",
-          "814383",
-          "814384",
-          "814385",
-          "1039230"
-        ],
-        "languages": [
-          {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
-            "is_default": true
-          }
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "id": 0,
-        "key": "lang:default",
-        "lang": "default",
-        "label": "Default",
-        "source": "base",
-        "is_default": true
-      }
-    ],
-    "all_languages": [
-      {
-        "id": 0,
-        "key": "lang:default",
-        "lang": "default",
-        "label": "Default",
-        "source": "base",
-        "is_default": true
-      }
-    ],
-    "added_ts": 1791746501
   },
   {
     "id": "game-817130",
@@ -8556,6 +8592,8 @@
     "launch_exes": [
       "WWE2K19_x64.exe"
     ],
+    "launch_exe": "WWE2K19_x64.exe",
+    "launch_exe_after_fix": "",
     "build_id": "3467910",
     "has_metadata": true,
     "depot_base": 817131,
@@ -8674,6 +8712,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791431541
   },
   {
@@ -8686,6 +8725,8 @@
     "launch_exes": [
       "re2.exe"
     ],
+    "launch_exe": "re2.exe",
+    "launch_exe_after_fix": "",
     "build_id": "11636119",
     "has_metadata": true,
     "depot_base": 883711,
@@ -8808,7 +8849,8 @@
         "is_default": true
       }
     ],
-    "added_ts": 1791745058
+    "json_rev": 5,
+    "added_ts": 1791745061
   },
   {
     "id": "game-950050",
@@ -8820,6 +8862,8 @@
     "launch_exes": [
       "Starlink.exe"
     ],
+    "launch_exe": "Starlink.exe",
+    "launch_exe_after_fix": "",
     "build_id": "22512219",
     "has_metadata": true,
     "depot_base": 950051,
@@ -8920,6 +8964,7 @@
         "is_default": true
       }
     ],
+    "json_rev": 1,
     "added_ts": 1791711259
   }
 ]
