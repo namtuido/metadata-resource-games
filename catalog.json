@@ -7580,6 +7580,80 @@
     "added_ts": 1791191494
   },
   {
+    "id": "game-637650",
+    "appid": 637650,
+    "name": "FINAL FANTASY XV WINDOWS EDITION",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "installdir": "FINAL FANTASY XV",
+    "launch_exes": [
+      "ffxv_s.exe",
+      "ffxv_sv.exe"
+    ],
+    "launch_exe": "ffxv_s.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "6575095",
+    "has_metadata": true,
+    "depot_base": 637651,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/637650/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "6575095",
+        "branch": "public",
+        "label": "Public - Build 6575095 (03/02/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "637651",
+          "648601",
+          "771561",
+          "787601",
+          "922571",
+          "977611",
+          "3372341",
+          "4425361"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1791825438
+  },
+  {
     "id": "game-779340",
     "appid": 779340,
     "name": "Total War: THREE KINGDOMS",
