@@ -2849,6 +2849,79 @@
     "added_ts": 1791692028
   },
   {
+    "id": "game-271590",
+    "appid": 271590,
+    "name": "Grand Theft Auto V Legacy",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "installdir": "Grand Theft Auto V",
+    "launch_exes": [
+      "PlayGTAV.exe",
+      "GTA5.exe"
+    ],
+    "launch_exe": "PlayGTAV.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24129523",
+    "has_metadata": true,
+    "depot_base": 271591,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/54919bff26f1a59fe3d3bea8d066b8d6d22b39d2/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24129523",
+        "branch": "public",
+        "label": "Public - Build 24129523 (07/09/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228984",
+          "228990",
+          "271591",
+          "271592",
+          "271593",
+          "271594",
+          "271595",
+          "1899671"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1791823062
+  },
+  {
     "id": "game-292030",
     "appid": 292030,
     "name": "The Witcher 3: Wild Hunt — Remastered",
