@@ -2378,6 +2378,75 @@
     "added_ts": 1791631339
   },
   {
+    "id": "game-2215260",
+    "appid": 2215260,
+    "name": "Scott Pilgrim vs The World",
+    "developer": "Engine Software",
+    "publisher": "Ubisoft",
+    "installdir": "Scott Pilgrim vs The World",
+    "launch_exes": [
+      "Scott.exe"
+    ],
+    "launch_exe": "Scott.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10135169",
+    "has_metadata": true,
+    "depot_base": 2215261,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215260/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215260/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10135169",
+        "branch": "public",
+        "label": "Public - Build 10135169 (12/13/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1716751",
+          "2215261"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1791904304
+  },
+  {
     "id": "game-2229850",
     "appid": 2229850,
     "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™",
