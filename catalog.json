@@ -7854,6 +7854,75 @@
     "added_ts": 1791825438
   },
   {
+    "id": "game-668580",
+    "appid": 668580,
+    "name": "Atomic Heart",
+    "developer": "Mundfish",
+    "publisher": "Focus Entertainment",
+    "installdir": "Atomic Heart",
+    "launch_exes": [
+      "AtomicHeart.exe",
+      "\\AtomicHeart\\Binaries\\Win64\\AtomicHeart-Win64-Test.exe",
+      "AtomicHeart-Win64-Test.exe"
+    ],
+    "launch_exe": "AtomicHeart.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24534183",
+    "has_metadata": true,
+    "depot_base": 668581,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/668580/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/668580/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24534183",
+        "branch": "public",
+        "label": "Public - Build 24534183 (08/03/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "668581"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1791956797
+  },
+  {
     "id": "game-779340",
     "appid": 779340,
     "name": "Total War: THREE KINGDOMS",
