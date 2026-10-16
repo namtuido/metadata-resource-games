@@ -3058,6 +3058,75 @@
     "added_ts": 1791823062
   },
   {
+    "id": "game-2828710",
+    "appid": 2828710,
+    "name": "Valor Mortis",
+    "developer": "One More Level",
+    "publisher": "Lyrical Games",
+    "installdir": "Valor Mortis",
+    "launch_exes": [
+      "ValorMortis.exe"
+    ],
+    "launch_exe": "ValorMortis.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25907482",
+    "has_metadata": true,
+    "depot_base": 2828711,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2828710/deef1b198941015428f5b3d3e29e819f7ef86abc/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2828710/d73de75310a5c5b2cba3009891030937b30195e3/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25907482",
+        "branch": "public",
+        "label": "Public - Build 25907482 (10/13/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "229007",
+          "2828711"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792149758
+  },
+  {
     "id": "game-292030",
     "appid": 292030,
     "name": "The Witcher 3: Wild Hunt — Remastered",
