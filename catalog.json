@@ -6283,6 +6283,74 @@
     "added_ts": 1791355440
   },
   {
+    "id": "game-3846830",
+    "appid": 3846830,
+    "name": "Total War: SHOGUN 2 - Complete Edition",
+    "developer": "Creative Assembly",
+    "publisher": "SEGA",
+    "installdir": "Shogun 2 Complete Edition",
+    "launch_exes": [
+      "shogun2_complete_edition.exe",
+      "shogun2.retail.x64.exe",
+      "shogun2.profile.x64.exe"
+    ],
+    "launch_exe": "shogun2_complete_edition.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25810990",
+    "has_metadata": true,
+    "depot_base": 3846831,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3846830/f4f249016345e0042cf2bd8564ac15576d7d4cbc/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3846830/17af0f12b8c0b94a7758c92cde94f413475b5df0/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25810990",
+        "branch": "public",
+        "label": "Public - Build 25810990 (10/09/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3846831"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792149237
+  },
+  {
     "id": "game-4078430",
     "appid": 4078430,
     "name": "STAR WARS: Galactic Racer™",
