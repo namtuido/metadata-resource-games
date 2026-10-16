@@ -3800,12 +3800,17 @@
     "appid": 3219030,
     "name": "Planet Zoo 2",
     "developer": "Frontier Developments",
-    "publisher": "",
+    "publisher": "Frontier Developments",
     "installdir": "Planet Zoo 2",
-    "launch_exes": [],
-    "launch_exe": "",
+    "launch_exes": [
+      "PlanetZoo2.exe",
+      "Wallace.Profile.exe",
+      "Wallace.release.exe",
+      "wallace.cmd"
+    ],
+    "launch_exe": "PlanetZoo2.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25680674",
+    "build_id": "25834091",
     "has_metadata": true,
     "depot_base": 3219031,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3219030/cc1d879275c41850ecd2e7296f314240e8cb768a/library_capsule.jpg",
@@ -3815,11 +3820,32 @@
     ],
     "versions": [
       {
+        "id": "25834091",
+        "branch": "public",
+        "label": "Public - Build 25834091 (10/09/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3219031"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25680674",
         "branch": "public",
         "label": "Public - Build 25680674 (10/02/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "228989",
           "3219031"
