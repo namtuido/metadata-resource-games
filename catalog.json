@@ -3879,6 +3879,81 @@
     "added_ts": 1791641988
   },
   {
+    "id": "game-2622380",
+    "appid": 2622380,
+    "name": "ELDEN RING NIGHTREIGN",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "FromSoftware, Inc.",
+    "installdir": "ELDEN RING NIGHTREIGN",
+    "launch_exes": [
+      "Game\\start_protected_game.exe",
+      "start_protected_game.exe",
+      "ArtbookOST/ELDEN RING NIGHTREIGN DIGITAL ARTBOOK & MINI SOUNDTRACK.exe",
+      "ELDEN RING NIGHTREIGN DIGITAL ARTBOOK & MINI SOUNDTRACK.exe"
+    ],
+    "launch_exe": "Game\\start_protected_game.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "22818764",
+    "has_metadata": true,
+    "depot_base": 2622381,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/d1ee7bc631966b1a99e232a9f84af736bb298395/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/c38c57cfb78bf461635b816703918677a62fb827/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22818764",
+        "branch": "public",
+        "label": "Public - Build 22818764 (04/16/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "2622381",
+          "2622382",
+          "2622383",
+          "2622384",
+          "3515600",
+          "3531720"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792293481
+  },
+  {
     "id": "game-2638890",
     "appid": 2638890,
     "name": "Onimusha: Way of the Sword",
