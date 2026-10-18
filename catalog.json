@@ -1406,6 +1406,81 @@
     "added_ts": 1791740976
   },
   {
+    "id": "game-1490890",
+    "appid": 1490890,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+    "developer": "CyberConnect2",
+    "publisher": "SEGA",
+    "installdir": "Demon Slayer",
+    "launch_exes": [
+      "APK.exe"
+    ],
+    "launch_exe": "APK.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10714413",
+    "has_metadata": true,
+    "depot_base": 1490891,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1490890/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1490890/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10714413",
+        "branch": "public",
+        "label": "Public - Build 10714413 (03/08/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1490891",
+          "1490892",
+          "1490893",
+          "1490894",
+          "1760470",
+          "1760480",
+          "1760490",
+          "1760500",
+          "1777140"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792348795
+  },
+  {
     "id": "game-1551360",
     "appid": 1551360,
     "name": "Forza Horizon 5",

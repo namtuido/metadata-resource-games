@@ -388,7 +388,7 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         **({"pin_new": True} if common.get("is_new") is True else {}),
         # json_rev: tang _rev trong {appid}.json khi sua noi dung quan trong.
         # App dung de tu xoa cache cu tren may nguoi dung khi _rev thay doi.
-        "json_rev": int(data.get("_rev") or 1),
+        "json_rev": int(data.get("_rev") or data.get("json_rev") or 1),
     }
 
 
