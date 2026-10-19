@@ -2,6 +2,24 @@
   "_lastChecked": 1792025628,
   "_history": [
     {
+      "buildId": "25971395",
+      "branch": "public",
+      "timeUpdated": 1792100602,
+      "firstSeen": 1792410403,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "3219031": {
+          "gid": "3029530672818842318",
+          "size": 45713840842,
+          "download": 21322959504
+        }
+      }
+    },
+    {
       "buildId": "25834091",
       "branch": "public",
       "timeUpdated": 1791562878,
@@ -422,7 +440,14 @@
         "oslist": "windows"
       },
       "depotfromapp": "228980",
-      "sharedinstall": "1"
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "25108528",
+          "gid": "5753583882400741046",
+          "size": "25674515"
+        }
+      }
     },
     "3219031": {
       "manifests": {
