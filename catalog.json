@@ -1694,6 +1694,75 @@
     "added_ts": 1791895916
   },
   {
+    "id": "game-1659420",
+    "appid": 1659420,
+    "name": "UNCHARTED™: Legacy of Thieves Collection",
+    "developer": "Naughty Dog LLC",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "Uncharted Legacy of Thieves Collection",
+    "launch_exes": [
+      "u4.exe"
+    ],
+    "launch_exe": "u4.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "11603225",
+    "has_metadata": true,
+    "depot_base": 1659421,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659420/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659420/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "11603225",
+        "branch": "public",
+        "label": "Public - Build 11603225 (07/01/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1659421",
+          "1659422",
+          "1659425"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792771974
+  },
+  {
     "id": "game-1672970",
     "appid": 1672970,
     "name": "Minecraft Dungeons",
