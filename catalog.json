@@ -5431,6 +5431,73 @@
     "added_ts": 1791552813
   },
   {
+    "id": "game-3061810",
+    "appid": 3061810,
+    "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+    "developer": "RGG Studio",
+    "publisher": "SEGA",
+    "installdir": "LikeADragonPirates",
+    "launch_exes": [
+      "runtime/media/startup.exe",
+      "startup.exe"
+    ],
+    "launch_exe": "runtime/media/startup.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "18023911",
+    "has_metadata": true,
+    "depot_base": 3061811,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3061810/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3061810/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "18023911",
+        "branch": "public",
+        "label": "Public - Build 18023911 (04/08/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3061811"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792957720
+  },
+  {
     "id": "game-3159330",
     "appid": 3159330,
     "name": "Assassin's Creed Shadows",
