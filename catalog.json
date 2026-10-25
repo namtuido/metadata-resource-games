@@ -4363,6 +4363,73 @@
     "added_ts": 1791482324
   },
   {
+    "id": "game-2322010",
+    "appid": 2322010,
+    "name": "God of War Ragnarök",
+    "developer": "Santa Monica Studio",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "God of War Ragnarok",
+    "launch_exes": [
+      "GoWR.exe"
+    ],
+    "launch_exe": "GoWR.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "18979360",
+    "has_metadata": true,
+    "depot_base": 2322011,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "18979360",
+        "branch": "public",
+        "label": "Public - Build 18979360 (06/24/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2322011",
+          "2974340"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792906446
+  },
+  {
     "id": "game-2358720",
     "appid": 2358720,
     "name": "Black Myth: Wukong",
