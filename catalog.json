@@ -1,5 +1,75 @@
 [
   {
+    "id": "game-1172710",
+    "appid": 1172710,
+    "name": "Dune: Awakening",
+    "developer": "Funcom",
+    "publisher": "Funcom",
+    "installdir": "DuneAwakening",
+    "launch_exes": [
+      "DuneSandbox.exe",
+      "DuneSandbox-Win64-Test.exe",
+      "DuneSandbox-Win64-Shipping.exe"
+    ],
+    "launch_exe": "DuneSandbox.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26083551",
+    "has_metadata": true,
+    "depot_base": 1172711,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172710/a831468f7e9c5ff7cd83b154257947d1190a4138/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26083551",
+        "branch": "public",
+        "label": "Public - Build 26083551 (10/20/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1172711",
+          "3604191"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792954548
+  },
+  {
     "id": "game-1196590",
     "appid": 1196590,
     "name": "Resident Evil Village",

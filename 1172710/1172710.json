@@ -1,0 +1,561 @@
+{
+  "_lastChecked": 1792112018,
+  "_history": [
+    {
+      "buildId": "26083551",
+      "branch": "public",
+      "timeUpdated": 1792511676,
+      "firstSeen": 1792954540,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "1172711": {
+          "gid": "7034976505315393566",
+          "size": 43322303919,
+          "download": 36064107232
+        },
+        "3604191": {
+          "gid": "1970619944737853826",
+          "size": 41752552,
+          "download": 40527760
+        }
+      }
+    }
+  ],
+  "_change_number": 39822562,
+  "_missing_token": false,
+  "_sha": "b1eacca401103f17d7f1f1d46c12070f301664fe",
+  "_size": 14879,
+  "appid": "1172710",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Funcom",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Funcom",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_62": "1",
+      "category_64": "1",
+      "category_65": "1",
+      "category_66": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1",
+      "category_79": "1",
+      "category_9": "1"
+    },
+    "clienticon": "9fbe0e4bb8342cd776184e823fa660adcc04df1e",
+    "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "eulas": {
+      "0": {
+        "id": "1172710_eula_0",
+        "name": "Dune: Awakening EULA",
+        "url": "https://store.steampowered.com//eula/1172710_eula_0",
+        "version": "7"
+      }
+    },
+    "gameid": "1172710",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "29",
+      "3": "3"
+    },
+    "header_image": {
+      "english": "da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg"
+    },
+    "icon": "4eb2afeae249b94be3ef0251f22fe72cd61d4c6e",
+    "languages": {
+      "brazilian": "1",
+      "english": "1",
+      "french": "1",
+      "german": "1",
+      "italian": "1",
+      "japanese": "1",
+      "koreana": "1",
+      "polish": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "tchinese": "1",
+      "turkish": "1",
+      "ukrainian": "1"
+    },
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "36.4973261202506",
+        "pinned_position": "BottomLeft",
+        "width_pct": "26.525305650928374"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "a831468f7e9c5ff7cd83b154257947d1190a4138/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "a831468f7e9c5ff7cd83b154257947d1190a4138/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "da994ea756677c3d1d9a77accb8596a8661f4cad/library_header.jpg"
+        },
+        "image2x": {
+          "english": "da994ea756677c3d1d9a77accb8596a8661f4cad/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "7df64076d9ed1a671909f5bd5ec7c20c9fe1bd65/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "7df64076d9ed1a671909f5bd5ec7c20c9fe1bd65/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "7df64076d9ed1a671909f5bd5ec7c20c9fe1bd65/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "568ded489d27dac6ceadad7c94507dda2ce45162/logo.png"
+        },
+        "image2x": {
+          "english": "568ded489d27dac6ceadad7c94507dda2ce45162/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "36.4973261202506",
+          "pinned_position": "BottomLeft",
+          "width_pct": "26.525305650928374"
+        }
+      }
+    },
+    "name": "Dune: Awakening",
+    "name_localized": {
+      "japanese": "Dune: Awakening デューン：アウェイクニング",
+      "koreana": "Dune: Awakening 듄 ：어웨이크닝",
+      "schinese": "Dune: Awakening 沙丘：觉醒"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "72",
+    "review_score": "6",
+    "small_capsule": {
+      "english": "1122dbb1046ee63f4dc8d7da1355f5d3d31f0fa0/capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "3",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "1",
+        "recommended_runtime": "proton-stable",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "0",
+        "supported_input": "gamepad"
+      },
+      "steam_machine_compatibility": "3",
+      "steam_machine_tests": {
+        "0": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_ControllerGlyphsMatchDevice"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
+        }
+      },
+      "steamos_compatibility": "2",
+      "steamos_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamOS_TestResult_GameStartupFunctional"
+        },
+        "1": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+        }
+      },
+      "test_timestamp": "1755561600",
+      "tested_build_id": "19587459",
+      "tests": {
+        "0": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+        },
+        "3": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+        },
+        "4": {
+          "display": "1",
+          "token": "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+        }
+      }
+    },
+    "steam_release_date": "1749564000",
+    "store_asset_mtime": "1789563622",
+    "store_tags": {
+      "0": "1100689",
+      "1": "1662",
+      "10": "3859",
+      "11": "1695",
+      "12": "122",
+      "13": "3942",
+      "14": "1643",
+      "15": "4747",
+      "16": "3843",
+      "17": "19",
+      "18": "1697",
+      "19": "1775",
+      "2": "3834",
+      "3": "1742",
+      "4": "7332",
+      "5": "21",
+      "6": "3810",
+      "7": "6730",
+      "8": "4182",
+      "9": "1702"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "ukrainian": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "DuneAwakening",
+    "launch": {
+      "0": {
+        "arguments": "-battleye",
+        "config": {
+          "betakey": "public,staging,hotfix,hotfix_alt,reserve,ninja",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Dune with BattlEye (all multiplayer servers and single-player)",
+        "description_loc": {
+          "brazilian": "Duna com BattlEye (todos os servidores multijogadores e modo solo)",
+          "english": "Dune with BattlEye (all multiplayer servers and single-player)",
+          "french": "Dune avec BattlEye (tous les serveurs multijoueurs et mode solo)",
+          "german": "Dune mit BattlEye (alle Multiplayer-Server und Einzelspieler)",
+          "italian": "Dune con BattlEye (tutti i server multigiocatore e giocatore singolo)",
+          "japanese": "BattlEyeを使用して『Dune』（すべてのマルチプレイサーバーおよびシングルプレイ）",
+          "koreana": "BattlEye가 포함된 Dune(모든 멀티플레이어 서버 및 싱글플레이어)",
+          "latam": "Dune con BattlEye (todos los servidores multijugador y un jugador)",
+          "polish": "Dune z BattlEye (wszystkie serwery trybu wieloosobowego i tryb dla jednego gracza)",
+          "portuguese": "Duna com BattlEye (todos os servidores multijogadores e modo solo)",
+          "russian": "Dune c BattlEye (все многопользовательские серверы и одиночная игра)",
+          "schinese": "带BattlEye的《沙丘》（所有多人服务器和单人模式）",
+          "spanish": "Dune con BattlEye (todos los servidores multijugador y un jugador)",
+          "tchinese": "Dune 啟用 BattlEye（所有多人伺服器與單人模式）",
+          "turkish": "BattlEye özellikli Dune (tüm çok oyunculu sunucular ve tek oyunculu)",
+          "ukrainian": "Dune з BattlEye (усі багатокористувацькі сервери й одноосібний режим)"
+        },
+        "executable": "DuneSandbox.exe",
+        "type": "option1"
+      },
+      "114": {
+        "arguments": "-ExecCmds=\"ShowFlag.VersionOsd 0\"",
+        "config": {
+          "betakey": "playtest",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "executable": "DuneSandbox-Win64-Test.exe",
+        "type": "default"
+      },
+      "115": {
+        "config": {
+          "betakey": "playtest",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Development Configuration",
+        "description_loc": {
+          "english": "Development Configuration"
+        },
+        "executable": "DuneSandbox.exe",
+        "type": "option1"
+      },
+      "116": {
+        "config": {
+          "betakey": "default-test,staging-test,hotfix-test,hotfix_alt-test,hardware-partners,reserve-test",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Shipping build without BattlEye",
+        "description_loc": {
+          "english": "Shipping build without BattlEye"
+        },
+        "executable": "DuneSandbox-Win64-Shipping.exe",
+        "type": "option3"
+      },
+      "51": {
+        "config": {
+          "betakey": "default-test,staging-test,hotfix-test,hotfix_alt-test,hardware-partners,reserve-test",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Development build without BattlEye",
+        "description_loc": {
+          "english": "Development build without BattlEye"
+        },
+        "executable": "DuneSandbox.exe",
+        "type": "option1"
+      },
+      "52": {
+        "config": {
+          "betakey": "default-test,staging-test,hotfix-test,hotfix_alt-test,hardware-partners,reserve-test",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Test build without BattlEye",
+        "description_loc": {
+          "english": "Test build without BattlEye"
+        },
+        "executable": "DuneSandbox-Win64-Test.exe",
+        "type": "option2"
+      },
+      "55": {
+        "arguments": "-nobattleye",
+        "config": {
+          "betakey": "public,staging,hotfix,hotfix_alt,reserve,ninja",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Dune without BattlEye (single-player and BattlEye-disabled private or self-hosted servers)",
+        "description_loc": {
+          "brazilian": "Duna sem BattlEye (servidores privados ou auto-hospedados sem BattlEye e modo solo)",
+          "english": "Dune without BattlEye (single-player and BattlEye-disabled private or self-hosted servers)",
+          "french": "Dune sans BattlEye (mode solo et serveurs privés ou en auto-hébergement sur lesquels BattlEye est désactivé)",
+          "german": "Dune ohne BattlEye (Einzelspieler und private oder selbst gehostete Server ohne BattlEye)",
+          "italian": "Dune senza BattlEye (giocatore singolo e server in self-hosting privati con BattlEye disabilitato)",
+          "japanese": "BattlEyeを使用せずに『Dune』（シングルプレイ、BattlEyeが無効のプライベートまたはセルフホストサーバー）",
+          "koreana": "BattlEye가 포함되지 않은 Dune(싱글플레이어 및 BattlEye가 비활성화된 비공개 또는 자체 호스팅 서버)",
+          "latam": "Dune sin BattlEye (servidores privados o autoalojados con BattlEye deshabilitado y un jugador)",
+          "polish": "Dune bez BattlEye (tryb dla jednego gracza oraz serwery prywatne lub samodzielnie hostowane z wyłączonym BattlEye)",
+          "portuguese": "Duna sem BattlEye (servidores privados ou auto-hospedados sem BattlEye e modo solo)",
+          "russian": "Dune без BattlEye (одиночная игра и личные или собственные серверы с отключенным BattlEye)",
+          "schinese": "不带BattlEye的《沙丘》（单人模式以及禁用BattlEye的私人或自托管服务器）",
+          "spanish": "Dune sin BattlEye (servidores privados o autoalojados con BattlEye deshabilitado y un jugador)",
+          "tchinese": "Dune 停用 BattlEye（單人模式以及已停用 BattlEye 的私人或自架伺服器）",
+          "turkish": "BattlEye özelliği olmayan Dune (tek oyunculu ve BattlEye devre dışı bırakılmış özel veya kendi barındırılan sunucular)",
+          "ukrainian": "Dune без BattlEye (одноосібний режим і приватні чи самостійно розгорнуті сервери з вимкненим BattlEye)"
+        },
+        "executable": "DuneSandbox.exe",
+        "type": "option2"
+      }
+    },
+    "steamcontrollertemplateindex": "2",
+    "steamdecktouchscreen": "1"
+  },
+  "depots": {
+    "1172711": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "36052222848",
+          "gid": "9192079145179341358",
+          "size": "43298708722"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "25108528",
+          "gid": "5753583882400741046",
+          "size": "25674515"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "100658080",
+          "gid": "1829726630299308803",
+          "size": "102931551"
+        }
+      }
+    },
+    "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+    "branches": {
+      "public": {
+        "buildid": "25789117",
+        "timebuildupdated": "1791409521",
+        "timeupdated": "1791532765"
+      }
+    },
+    "hasdepotsindlc": "1",
+    "privatebranches": "1",
+    "3604191": {
+      "manifests": {
+        "public": {
+          "download": "40527760",
+          "gid": "1970619944737853826",
+          "size": "41752552"
+        }
+      }
+    }
+  },
+  "extended": {
+    "additional_dependencies": {
+      "0": {
+        "appid": "1161040",
+        "comment": "project D",
+        "dest_os": "linux",
+        "src_os": "windows"
+      }
+    },
+    "anti_cheat_support_url": "",
+    "developer": "Funcom",
+    "dlcavailableonstore": "1",
+    "homepage": "https://duneawakening.com/",
+    "listofdlc": "3596810,3596890,3596900,3596920,3596930,3604150,3604160,3604170,3604180,3604190,3604200,3604210,3604270,3604280,3796170,4156640,4857580",
+    "publisher": "Funcom"
+  },
+  "ufs": {
+    "maxnumfiles": "1000",
+    "quota": "1073741824",
+    "savefiles": {
+      "1": {
+        "path": "DuneSandbox/Saved/Cloud",
+        "pattern": "*",
+        "recursive": "1",
+        "root": "WinAppDataLocal"
+      }
+    }
+  }
+}
