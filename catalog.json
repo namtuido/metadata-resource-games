@@ -10180,6 +10180,97 @@
     "added_ts": 1792854625
   },
   {
+    "id": "game-570940",
+    "appid": 570940,
+    "name": "DARK SOULS™: REMASTERED",
+    "developer": "QLOC",
+    "publisher": "FromSoftware, Inc.",
+    "installdir": "DARK SOULS REMASTERED",
+    "launch_exes": [
+      "DarkSoulsRemastered.exe",
+      "FRPG_x64_ReleaseBEST.exe",
+      "FRPG_x64_MasterBEST.exe"
+    ],
+    "launch_exe": "DarkSoulsRemastered.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10943698",
+    "has_metadata": true,
+    "depot_base": 570941,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570940/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10943698",
+        "branch": "public",
+        "label": "Public - Build 10943698 (04/06/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "570941",
+          "570942",
+          "570943"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 570942,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 570942,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 570942,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793010255
+  },
+  {
     "id": "game-637650",
     "appid": 637650,
     "name": "FINAL FANTASY XV WINDOWS EDITION",
