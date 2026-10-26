@@ -5047,6 +5047,76 @@
     "added_ts": 1791641988
   },
   {
+    "id": "game-2600570",
+    "appid": 2600570,
+    "name": "Paper Bride 5 Two Lifetimes",
+    "developer": "HeartBeat Plus",
+    "publisher": "HeartBeat Plus",
+    "installdir": "paperbride5",
+    "launch_exes": [
+      "lsx.exe"
+    ],
+    "launch_exe": "lsx.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24306400",
+    "has_metadata": true,
+    "depot_base": 2600571,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2600570/3b81666082de2da8612ad6a738164cfdb023a0a9/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2600570/d3f2a4b334623b6e9830d4c1817de32e54a94225/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24306400",
+        "branch": "public",
+        "label": "Public - Build 24306400 (07/21/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2600571",
+          "2600572",
+          "2600573",
+          "2620390",
+          "2620410"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793031287
+  },
+  {
     "id": "game-2622380",
     "appid": 2622380,
     "name": "ELDEN RING NIGHTREIGN",
