@@ -4615,6 +4615,72 @@
     "added_ts": 1791481198
   },
   {
+    "id": "game-2373990",
+    "appid": 2373990,
+    "name": "Solo Leveling: ARISE OVERDRIVE",
+    "developer": "Netmarble Neo",
+    "publisher": "Netmarble",
+    "installdir": "Solo Leveling",
+    "launch_exes": [
+      "Solo_Leveling_ARISE_OVERDRIVE.exe"
+    ],
+    "launch_exe": "Solo_Leveling_ARISE_OVERDRIVE.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24663924",
+    "has_metadata": true,
+    "depot_base": 2373991,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2373990/e53eaa5bb2afa6e43270ea15394ecf75a419fca4/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2373990/018068a74847b3953278efacca07cfbe537a46c7/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24663924",
+        "branch": "public",
+        "label": "Public - Build 24663924 (08/11/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2373991"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793015191
+  },
+  {
     "id": "game-2483190",
     "appid": 2483190,
     "name": "Forza Horizon 6",
