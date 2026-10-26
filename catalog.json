@@ -2604,6 +2604,76 @@
     "added_ts": 1792197635
   },
   {
+    "id": "game-1879380",
+    "appid": 1879380,
+    "name": "纸嫁衣2奘铃村",
+    "developer": "HeartBeat Plus",
+    "publisher": "HeartBeat Plus",
+    "installdir": "paperbride2",
+    "launch_exes": [
+      "zlc.exe"
+    ],
+    "launch_exe": "zlc.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24309017",
+    "has_metadata": true,
+    "depot_base": 1879381,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1879380/8efeff07532c20d5c47b979f354484b2cbc17231/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1879380/e3aa8ca3977c1aa1a9e2dd8b6def8cc74f8cc28f/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24309017",
+        "branch": "public",
+        "label": "Public - Build 24309017 (07/21/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1879381",
+          "1879382",
+          "1879383",
+          "1945200",
+          "1963460"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793024193
+  },
+  {
     "id": "game-1912410",
     "appid": 1912410,
     "name": "Minecraft Dungeons II",
