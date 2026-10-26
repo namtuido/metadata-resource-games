@@ -10587,8 +10587,8 @@
       {
         "id": "26179663",
         "branch": "public",
-        "label": "Public - Build 26179663 (10/24/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 26179663 (10/24/2026)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "5335511"
