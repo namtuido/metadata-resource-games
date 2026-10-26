@@ -4685,6 +4685,73 @@
     "added_ts": 1791512846
   },
   {
+    "id": "game-2499860",
+    "appid": 2499860,
+    "name": "DRAGON QUEST VII Reimagined",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "installdir": "DQ7R",
+    "launch_exes": [
+      "DQ7R.exe"
+    ],
+    "launch_exe": "DQ7R.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "22412021",
+    "has_metadata": true,
+    "depot_base": 2499861,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2499860/25b5d963c95e7a64e12d57f10b1d6b1a8b0ffb42/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2499860/dd029019df9a128f2e77d79eb5d63c87ef6c270c/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22412021",
+        "branch": "public",
+        "label": "Public - Build 22412021 (03/19/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "2499861"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793014120
+  },
+  {
     "id": "game-2527500",
     "appid": 2527500,
     "name": "MiSide",
