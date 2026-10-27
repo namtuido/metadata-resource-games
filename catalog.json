@@ -10858,7 +10858,7 @@
     ],
     "launch_exe": "CRACK.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26244517",
+    "build_id": "26250299",
     "has_metadata": true,
     "depot_base": 4312192,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4312190/41fe49c40fa4226ddd7fafdb4b15c15687756f68/library_capsule.jpg",
@@ -10868,16 +10868,35 @@
     ],
     "versions": [
       {
-        "id": "26244517",
+        "id": "26250299",
         "branch": "public",
-        "label": "Public - Build 26244517 (10/27/2026)",
+        "label": "Public - Build 26250299 (10/28/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
           "228989",
-          "4312191",
-          "4312192",
-          "4312193"
+          "4312192"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "26244517",
+        "branch": "public",
+        "label": "Public - Build 26244517 (10/27/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "4312192"
         ],
         "languages": [
           {
