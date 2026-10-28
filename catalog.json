@@ -6502,7 +6502,7 @@
     ],
     "launch_exe": "PlayGTAV.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25261616",
+    "build_id": "25971420",
     "has_metadata": true,
     "depot_base": 3240221,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240220/394239e5da54fed177bd0ab04590812f6add1bb5/library_600x900.jpg",
@@ -6512,11 +6512,36 @@
     ],
     "versions": [
       {
+        "id": "25971420",
+        "branch": "public",
+        "label": "Public - Build 25971420 (10/16/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1899671",
+          "3240221",
+          "3240222",
+          "3240223",
+          "3240224",
+          "3240225"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25261616",
         "branch": "public",
         "label": "Public - Build 25261616 (09/12/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "1899671",
           "3240221",
