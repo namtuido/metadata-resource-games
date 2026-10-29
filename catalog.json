@@ -8601,7 +8601,7 @@
     ],
     "launch_exe": "Retail/007FirstLight.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25626700",
+    "build_id": "26252352",
     "has_metadata": true,
     "depot_base": 3768761,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg",
@@ -8611,11 +8611,32 @@
     ],
     "versions": [
       {
+        "id": "26252352",
+        "branch": "public",
+        "label": "Public - Build 26252352 (10/28/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25626700",
         "branch": "public",
         "label": "Public - Build 25626700 (10/01/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "228989",
           "3768761"
