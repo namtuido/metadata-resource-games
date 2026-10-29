@@ -9034,7 +9034,7 @@
     ],
     "launch_exe": "Launcher.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25880680",
+    "build_id": "26133805",
     "has_metadata": true,
     "depot_base": 4078431,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4078430/16514821db6559e75c9067285fee5dd198492aee/library_capsule.jpg",
@@ -9045,11 +9045,33 @@
     ],
     "versions": [
       {
+        "id": "26133805",
+        "branch": "public",
+        "label": "Public - Build 26133805 (10/20/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "4078431"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25880680",
         "branch": "public",
         "label": "Public - Build 25880680 (10/08/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "228989",
           "228990",
