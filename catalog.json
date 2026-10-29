@@ -2685,7 +2685,7 @@
     ],
     "launch_exe": "Dungeons.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25647713",
+    "build_id": "25910487",
     "has_metadata": true,
     "depot_base": 1912411,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1912410/47d3b04112a86b5ddebb28252d4fa8e51671bfea/library_capsule.jpg",
@@ -2695,9 +2695,9 @@
     ],
     "versions": [
       {
-        "id": "25647713",
+        "id": "25910487",
         "branch": "public",
-        "label": "Public - Build 25647713 (10/01/2026)",
+        "label": "Public - Build 25910487 (10/22/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -2717,9 +2717,31 @@
         ]
       },
       {
+        "id": "25647713",
+        "branch": "public",
+        "label": "Public - Build 25647713 (10/01/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1912411"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25041023",
         "branch": "public",
-        "label": "Public - Build 25041023 (09/29/2026)",
+        "label": "Public - Build 25041023 (09/01/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
