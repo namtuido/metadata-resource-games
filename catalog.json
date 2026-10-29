@@ -6325,7 +6325,7 @@
     ],
     "launch_exe": "PlanetZoo2.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25971395",
+    "build_id": "26164034",
     "has_metadata": true,
     "depot_base": 3219031,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3219030/cc1d879275c41850ecd2e7296f314240e8cb768a/library_capsule.jpg",
@@ -6335,11 +6335,53 @@
     ],
     "versions": [
       {
+        "id": "26164034",
+        "branch": "public",
+        "label": "Public - Build 26164034 (10/23/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3219031"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "26106647",
+        "branch": "public",
+        "label": "Public - Build 26106647 (10/21/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3219031"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25971395",
         "branch": "public",
         "label": "Public - Build 25971395 (10/16/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "228989",
           "3219031"
