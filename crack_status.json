@@ -4,5 +4,6 @@
   "_comment": "cracked = blue dot, uncracked = yellow dot. Default is cracked.",
   "_default": "cracked",
   "statuses": {
+  "1985820": "uncracked"
   }
 }
