@@ -27,59 +27,6 @@
         }
       },
       "_source": "hubcap"
-    },
-    {
-      "buildId": "26154243",
-      "branch": "public",
-      "timeUpdated": 1792740917,
-      "firstSeen": 1792775226,
-      "manifests": {
-        "5335511": {
-          "gid": "6411843572839691138",
-          "size": null,
-          "download": null
-        }
-      },
-      "_source": "hubcap"
-    },
-    {
-      "buildId": "26154243",
-      "branch": "1.0.1",
-      "timeUpdated": 1792740917,
-      "firstSeen": 1792857585,
-      "manifests": {
-        "5335511": {
-          "gid": "6411843572839691138",
-          "size": 1049112941,
-          "download": 470507840
-        }
-      }
-    },
-    {
-      "buildId": "26178863",
-      "branch": "1.0.3",
-      "timeUpdated": 1792828096,
-      "firstSeen": 1792857585,
-      "manifests": {
-        "5335511": {
-          "gid": "8195021312097038911",
-          "size": 1106305210,
-          "download": 469474880
-        }
-      }
-    },
-    {
-      "buildId": "26203101",
-      "branch": "1.0.4",
-      "timeUpdated": 1792960964,
-      "firstSeen": 1792989967,
-      "manifests": {
-        "5335511": {
-          "gid": "5181693942702269240",
-          "size": 1095627951,
-          "download": 467120512
-        }
-      }
     }
   ],
   "_change_number": 40241720,

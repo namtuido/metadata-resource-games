@@ -528,5 +528,26 @@
         "root": "WinAppDataLocal"
       }
     }
-  }
+  },
+  "_depot_policy": {
+    "editions": {
+      "default": "butterfly",
+      "groups": {
+        "butterfly": {
+          "label": "Butterfly (Standard)",
+          "depots": [
+            1490891
+          ]
+        },
+        "cocoon": {
+          "label": "Cocoon",
+          "depots": [
+            1490892
+          ]
+        }
+      }
+    }
+  },
+  "_rev": 2,
+  "json_rev": 2
 }
