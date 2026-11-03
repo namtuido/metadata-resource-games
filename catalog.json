@@ -9059,6 +9059,74 @@
     "added_ts": 1791355440
   },
   {
+    "id": "game-381210",
+    "appid": 381210,
+    "name": "Dead by Daylight",
+    "developer": "Behaviour Interactive Inc.",
+    "publisher": "Behaviour Interactive Inc.",
+    "installdir": "Dead by Daylight",
+    "launch_exes": [
+      "DeadByDaylight.exe"
+    ],
+    "launch_exe": "DeadByDaylight.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25975710",
+    "has_metadata": true,
+    "depot_base": 381211,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/381210/1b6ff94b7c05c205fbcbd2628f862a1469882f23/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/381210/e0c01cdd13e109e760511c313fa3d8f80d0ee55f/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25975710",
+        "branch": "public",
+        "label": "Public - Build 25975710 (10/16/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "381211",
+          "381212"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793700218
+  },
+  {
     "id": "game-3841510",
     "appid": 3841510,
     "name": "DYNASTY WARRIORS 3: Complete Edition Remastered",
@@ -9315,10 +9383,9 @@
     "publisher": "Electronic Arts",
     "installdir": "EA SPORTS FC 27",
     "launch_exes": [
-      "steam2ea://launchgame/4080220?platform=steam&theme=fc27",
-      "4080220?platform=steam&theme=fc27"
+      "FC27.exe"
     ],
-    "launch_exe": "steam2ea://launchgame/4080220?platform=steam&theme=fc27",
+    "launch_exe": "FC27.exe",
     "launch_exe_after_fix": "",
     "build_id": "26128477",
     "has_metadata": true,
