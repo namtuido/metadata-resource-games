@@ -8984,7 +8984,7 @@
     ],
     "launch_exe": "Retail/007FirstLight.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26252352",
+    "build_id": "26430236",
     "has_metadata": true,
     "depot_base": 3768761,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900.jpg",
@@ -8994,9 +8994,9 @@
     ],
     "versions": [
       {
-        "id": "26252352",
-        "branch": "public",
-        "label": "Public - Build 26252352 (10/28/2026)",
+        "id": "26430236",
+        "branch": "public No title",
+        "label": "Public - Build 26430236 (11/04/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -9015,9 +9015,30 @@
         ]
       },
       {
+        "id": "26252352",
+        "branch": "public Game Update 1.3.2",
+        "label": "Build 26252352 (10/28/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3768761"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25626700",
-        "branch": "public",
-        "label": "Public - Build 25626700 (10/01/2026)",
+        "branch": "public Free DLC Extended Operations is now LIVE | Patch Notes",
+        "label": "Build 25626700 (10/01/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9037,8 +9058,8 @@
       },
       {
         "id": "25484924",
-        "branch": "public",
-        "label": "Public - Build 25484924 (09/23/2026)",
+        "branch": "public Game Update 1.2.2",
+        "label": "Build 25484924 (09/23/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9058,8 +9079,8 @@
       },
       {
         "id": "25323150",
-        "branch": "public",
-        "label": "Public - Build 25323150 (09/17/2026)",
+        "branch": "public Game Update 1.2.1",
+        "label": "Build 25323150 (09/17/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9079,8 +9100,8 @@
       },
       {
         "id": "25248708",
-        "branch": "public",
-        "label": "Public - Build 25248708 (09/15/2026)",
+        "branch": "public Together with NVIDIA, Path Tracing is Live!",
+        "label": "Build 25248708 (09/15/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9100,8 +9121,8 @@
       },
       {
         "id": "24835386",
-        "branch": "public",
-        "label": "Public - Build 24835386 (08/28/2026)",
+        "branch": "public Game Update 1.1.1",
+        "label": "Build 24835386 (08/28/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9121,8 +9142,8 @@
       },
       {
         "id": "24298527",
-        "branch": "public",
-        "label": "Public - Build 24298527 (07/20/2026)",
+        "branch": "public Update #1: Behind Enemy Lines",
+        "label": "Build 24298527 (07/20/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9142,8 +9163,8 @@
       },
       {
         "id": "23909702",
-        "branch": "public",
-        "label": "Public - Build 23909702 (06/25/2026)",
+        "branch": "public Game Update 1.0.6",
+        "label": "Build 23909702 (06/25/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9163,8 +9184,8 @@
       },
       {
         "id": "23685521",
-        "branch": "public",
-        "label": "Public - Build 23685521 (06/11/2026)",
+        "branch": "public Game Update 1.0.5",
+        "label": "Build 23685521 (06/11/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9184,8 +9205,8 @@
       },
       {
         "id": "23640712",
-        "branch": "public",
-        "label": "Public - Build 23640712 (06/09/2026)",
+        "branch": "public Game Update 1.0.4",
+        "label": "Build 23640712 (06/09/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9205,8 +9226,8 @@
       },
       {
         "id": "23531465",
-        "branch": "public",
-        "label": "Public - Build 23531465 (06/03/2026)",
+        "branch": "public Game Update 1.0.3",
+        "label": "Build 23531465 (06/03/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9226,8 +9247,8 @@
       },
       {
         "id": "23502903",
-        "branch": "public",
-        "label": "Public - Build 23502903 (06/01/2026)",
+        "branch": "public Game Update 1.0.2",
+        "label": "Build 23502903 (06/01/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9247,8 +9268,8 @@
       },
       {
         "id": "23430993",
-        "branch": "public",
-        "label": "Public - Build 23430993 (05/27/2026)",
+        "branch": "public Game Update 1.0.1",
+        "label": "Build 23430993 (05/27/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9268,8 +9289,8 @@
       },
       {
         "id": "23388781",
-        "branch": "public",
-        "label": "Public - Build 23388781 (05/25/2026)",
+        "branch": "public 007 First Light - Early access is available NOW",
+        "label": "Build 23388781 (05/25/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [

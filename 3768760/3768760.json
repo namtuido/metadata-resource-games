@@ -2,8 +2,26 @@
   "_lastChecked": 1791290250,
   "_history": [
     {
+      "buildId": "26430236",
+      "branch": "public No title",
+      "timeUpdated": 1793792132,
+      "firstSeen": 1794016558,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "3768761": {
+          "gid": "1478322893789026911",
+          "size": 57296773253,
+          "download": 53240286064
+        }
+      }
+    },
+    {
       "buildId": "26252352",
-      "branch": "public",
+      "branch": "public Game Update 1.3.2",
       "timeUpdated": 1793128965,
       "firstSeen": 1793298556,
       "manifests": {
@@ -21,7 +39,7 @@
     },
     {
       "buildId": "25626700",
-      "branch": "public",
+      "branch": "public Free DLC Extended Operations is now LIVE | Patch Notes",
       "timeUpdated": 1790856061,
       "firstSeen": 1790858212,
       "manifests": {
@@ -39,7 +57,7 @@
     },
     {
       "buildId": "25484924",
-      "branch": "public",
+      "branch": "public Game Update 1.2.2",
       "timeUpdated": 1790176705,
       "firstSeen": 1791295166,
       "manifests": {
@@ -57,7 +75,7 @@
     },
     {
       "buildId": "25323150",
-      "branch": "public",
+      "branch": "public Game Update 1.2.1",
       "timeUpdated": 1789635528,
       "firstSeen": 1789640403,
       "manifests": {
@@ -75,7 +93,7 @@
     },
     {
       "buildId": "25248708",
-      "branch": "public",
+      "branch": "public Together with NVIDIA, Path Tracing is Live!",
       "timeUpdated": 1789462788,
       "firstSeen": 1789464799,
       "manifests": {
@@ -93,7 +111,7 @@
     },
     {
       "buildId": "24835386",
-      "branch": "public",
+      "branch": "public Game Update 1.1.1",
       "timeUpdated": 1787903915,
       "firstSeen": 1788627853,
       "manifests": {
@@ -111,7 +129,7 @@
     },
     {
       "buildId": "24298527",
-      "branch": "public",
+      "branch": "public Update #1: Behind Enemy Lines",
       "timeUpdated": 1784562441,
       "firstSeen": 1791295165,
       "manifests": {
@@ -129,7 +147,7 @@
     },
     {
       "buildId": "23909702",
-      "branch": "public",
+      "branch": "public Game Update 1.0.6",
       "timeUpdated": 1782381258,
       "firstSeen": 1791295166,
       "manifests": {
@@ -147,7 +165,7 @@
     },
     {
       "buildId": "23685521",
-      "branch": "public",
+      "branch": "public Game Update 1.0.5",
       "timeUpdated": 1781196413,
       "firstSeen": 1791295166,
       "manifests": {
@@ -165,7 +183,7 @@
     },
     {
       "buildId": "23640712",
-      "branch": "public",
+      "branch": "public Game Update 1.0.4",
       "timeUpdated": 1781006670,
       "firstSeen": 1791295166,
       "manifests": {
@@ -183,7 +201,7 @@
     },
     {
       "buildId": "23531465",
-      "branch": "public",
+      "branch": "public Game Update 1.0.3",
       "timeUpdated": 1780421984,
       "firstSeen": 1791295166,
       "manifests": {
@@ -201,7 +219,7 @@
     },
     {
       "buildId": "23502903",
-      "branch": "public",
+      "branch": "public Game Update 1.0.2",
       "timeUpdated": 1780299581,
       "firstSeen": 1791295166,
       "manifests": {
@@ -219,7 +237,7 @@
     },
     {
       "buildId": "23430993",
-      "branch": "public",
+      "branch": "public Game Update 1.0.1",
       "timeUpdated": 1779880249,
       "firstSeen": 1791295166,
       "manifests": {
@@ -237,7 +255,7 @@
     },
     {
       "buildId": "23388781",
-      "branch": "public",
+      "branch": "public 007 First Light - Early access is available NOW",
       "timeUpdated": 1779655347,
       "firstSeen": 1791295166,
       "manifests": {
