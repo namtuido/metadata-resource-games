@@ -12777,6 +12777,94 @@
     "added_ts": 1791431541
   },
   {
+    "id": "game-851850",
+    "appid": 851850,
+    "name": "DRAGON BALL Z: KAKAROT",
+    "developer": "CyberConnect2 Co. Ltd.",
+    "publisher": "Bandai Namco Entertainment Inc.",
+    "installdir": "DRAGON BALL Z KAKAROT",
+    "launch_exes": [
+      "AT.exe",
+      "dlc/Remaster/AT.exe",
+      "dlc/RemasterDebug/AT.exe"
+    ],
+    "launch_exe": "AT.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21000130",
+    "has_metadata": true,
+    "depot_base": 851851,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/851850/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/851850/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21000130",
+        "branch": "public",
+        "label": "Public - Build 21000130 (11/29/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228988",
+          "228990",
+          "851851",
+          "1144580",
+          "1144581",
+          "1144582",
+          "1144640",
+          "1144641",
+          "1144642",
+          "1144643",
+          "1144644",
+          "1144645",
+          "1144646",
+          "3279960"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 851853,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794154836
+  },
+  {
     "id": "game-883710",
     "appid": 883710,
     "name": "Resident Evil 2",
