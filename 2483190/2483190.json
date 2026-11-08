@@ -2,8 +2,31 @@
   "_lastChecked": 1793724232,
   "_history": [
     {
+      "buildId": "26422872",
+      "branch": "public No title",
+      "timeUpdated": 1793764402,
+      "firstSeen": 1794137486,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "2483191": {
+          "gid": "8260642490601717688",
+          "size": 170549508575,
+          "download": 152920463024
+        }
+      }
+    },
+    {
       "buildId": "26261073",
-      "branch": "public",
+      "branch": "public Embrace the City Life in Forza Horizon 6",
       "timeUpdated": 1793157929,
       "firstSeen": 1793724250,
       "manifests": {
@@ -26,7 +49,7 @@
     },
     {
       "buildId": "25588841",
-      "branch": "public",
+      "branch": "public Convoy Up with Your Friends in Horizon Meets",
       "timeUpdated": 1790632304,
       "firstSeen": 1793724250,
       "manifests": {

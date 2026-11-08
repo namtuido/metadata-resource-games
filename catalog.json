@@ -4899,7 +4899,7 @@
     ],
     "launch_exe": "forzahorizon6.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26261073",
+    "build_id": "26422872",
     "has_metadata": true,
     "depot_base": 2483191,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2483190/711e39803402def82a90e1f31578c64744f952f3/library_capsule.jpg",
@@ -4909,9 +4909,9 @@
     ],
     "versions": [
       {
-        "id": "26261073",
-        "branch": "public",
-        "label": "Public - Build 26261073 (10/28/2026)",
+        "id": "26422872",
+        "branch": "public No title",
+        "label": "Public - Build 26422872 (11/04/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -4931,9 +4931,31 @@
         ]
       },
       {
+        "id": "26261073",
+        "branch": "public Embrace the City Life in Forza Horizon 6",
+        "label": "Build 26261073 (10/28/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2483191"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25588841",
-        "branch": "public",
-        "label": "Public - Build 25588841 (09/29/2026)",
+        "branch": "public Convoy Up with Your Friends in Horizon Meets",
+        "label": "Build 25588841 (09/29/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
