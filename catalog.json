@@ -597,6 +597,118 @@
     "added_ts": 1791739472
   },
   {
+    "id": "game-1263850",
+    "appid": 1263850,
+    "name": "Football Manager 2021",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2021",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "6682909",
+    "has_metadata": true,
+    "depot_base": 1263852,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1263850/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1263850/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "6682909",
+        "branch": "public 21.4.0-Hotfix-2",
+        "label": "Public - Build 6682909 (05/11/2021)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1263851",
+          "1263852",
+          "1263853"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "6440954",
+        "branch": "public 21.4.0-Hotfix",
+        "label": "Build 6440954 (03/26/2021)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1263851",
+          "1263852",
+          "1263853"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "6371282",
+        "branch": "public Football Manager Final Winter Update Now Live",
+        "label": "Build 6371282 (03/12/2021)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1263851",
+          "1263852",
+          "1263853"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794244823
+  },
+  {
     "id": "game-1293830",
     "appid": 1293830,
     "name": "Forza Horizon 4",
