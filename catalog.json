@@ -11961,6 +11961,132 @@
     "added_ts": 1793010255
   },
   {
+    "id": "game-624090",
+    "appid": 624090,
+    "name": "Football Manager 2018",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2018",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app",
+      "fm"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "3260749",
+    "has_metadata": true,
+    "depot_base": 624092,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/624090/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/624090/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "3260749",
+        "branch": "public 18.3.4",
+        "label": "Public - Build 3260749 (10/30/2018)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "624091",
+          "624092",
+          "624093",
+          "624094",
+          "624095",
+          "624096"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "2878684",
+        "branch": "public 18.3.4",
+        "label": "Build 2878684 (06/20/2018)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228990",
+          "624091",
+          "624092",
+          "624093",
+          "624094",
+          "624095",
+          "624096"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "2692412",
+        "branch": "public 18.3.3",
+        "label": "Build 2692412 (04/16/2018)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228990",
+          "624091",
+          "624092",
+          "624093",
+          "624094",
+          "624095",
+          "624096"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794228534
+  },
+  {
     "id": "game-637650",
     "appid": 637650,
     "name": "FINAL FANTASY XV WINDOWS EDITION",
