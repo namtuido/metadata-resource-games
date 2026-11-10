@@ -6936,7 +6936,7 @@
     ],
     "launch_exe": "bin64/CrimsonDesert.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26423880",
+    "build_id": "26480954",
     "has_metadata": true,
     "depot_base": 3321461,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3321460/85f762166594b84330761c11d3106182634c882c/library_capsule.jpg",
@@ -6946,11 +6946,81 @@
     ],
     "versions": [
       {
-        "id": "26423880",
-        "branch": "public Patch Notes Version 2.04.06 (Revised: 2026/11/04)",
-        "label": "Public - Build 26423880 (11/04/2026)",
+        "id": "26480954",
+        "branch": "public Patch Notes Version 2.04.08",
+        "label": "Public - Build 26480954 (11/06/2026)",
         "is_ready": true,
         "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3321461",
+          "3321462",
+          "3321463",
+          "3321464",
+          "3321465",
+          "3321466",
+          "3321467",
+          "4024621",
+          "4024622",
+          "4024623",
+          "4024624",
+          "4024625",
+          "4572871",
+          "4572872",
+          "5001841"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 3321463,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3321464,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3321465,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3321466,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3321467,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "26423880",
+        "branch": "public Patch Notes Version 2.04.06 (Revised: 2026/11/04)",
+        "label": "Build 26423880 (11/04/2026)",
+        "is_ready": true,
+        "is_recommended": false,
         "manifest_depots": [
           "228989",
           "3321461",
