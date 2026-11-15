@@ -3601,7 +3601,7 @@
     "versions": [
       {
         "id": "26256634",
-        "branch": "public",
+        "branch": "public v4.2",
         "label": "Public - Build 26256634 (10/28/2026)",
         "is_ready": true,
         "is_recommended": true,
