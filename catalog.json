@@ -5059,7 +5059,7 @@
     ],
     "launch_exe": "Solo_Leveling_ARISE_OVERDRIVE.exe",
     "launch_exe_after_fix": "",
-    "build_id": "24663924",
+    "build_id": "26155460",
     "has_metadata": true,
     "depot_base": 2373991,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2373990/e53eaa5bb2afa6e43270ea15394ecf75a419fca4/library_capsule.jpg",
@@ -5069,9 +5069,9 @@
     ],
     "versions": [
       {
-        "id": "24663924",
+        "id": "26155460",
         "branch": "public",
-        "label": "Public - Build 24663924 (08/11/2026)",
+        "label": "Public - Build 26155460 (10/23/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -5090,9 +5090,30 @@
         ]
       },
       {
+        "id": "24663924",
+        "branch": "public 8/12 (Wed) Patch Notice",
+        "label": "Build 24663924 (08/11/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "2373991"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "23679629",
-        "branch": "public",
-        "label": "Public - Build 23679629 (06/11/2026)",
+        "branch": "public 📢New Paid DLC Update",
+        "label": "Build 23679629 (06/11/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [

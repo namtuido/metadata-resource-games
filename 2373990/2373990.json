@@ -2,8 +2,26 @@
   "_lastChecked": 1789818078,
   "_history": [
     {
-      "buildId": "24663924",
+      "buildId": "26155460",
       "branch": "public",
+      "timeUpdated": 1792744458,
+      "firstSeen": 1794720932,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "2373991": {
+          "gid": "6097592000040202957",
+          "size": 47971653563,
+          "download": 42659621504
+        }
+      }
+    },
+    {
+      "buildId": "24663924",
+      "branch": "public 8/12 (Wed) Patch Notice",
       "timeUpdated": 1786412239,
       "firstSeen": 1793015184,
       "manifests": {
@@ -21,7 +39,7 @@
     },
     {
       "buildId": "23679629",
-      "branch": "public",
+      "branch": "public 📢New Paid DLC Update",
       "timeUpdated": 1781175782,
       "firstSeen": 1793015781,
       "manifests": {
