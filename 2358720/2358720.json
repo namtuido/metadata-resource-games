@@ -1,11 +1,11 @@
 {
-  "_lastChecked": 1789818060,
+  "_lastChecked": 1794830441,
   "_history": [
     {
       "buildId": "21393610",
-      "branch": "public",
+      "branch": "public Black Myth: Wukong 1.0.21.23831 Patch Notes",
       "timeUpdated": 1767679536,
-      "firstSeen": 1791480987,
+      "firstSeen": 1794830533,
       "manifests": {
         "228989": {
           "gid": "5753583882400741046",
@@ -29,16 +29,26 @@
         },
         "2672611": {
           "gid": "1995373587248188296",
-          "size": 136,
-          "download": 136
+          "size": 0,
+          "download": 0
+        },
+        "3288261": {
+          "gid": "1420688854810981808",
+          "size": 306139870,
+          "download": 283758448
+        },
+        "3288262": {
+          "gid": "7921052030878882502",
+          "size": 1288522546,
+          "download": 1301605744
         }
       }
     }
   ],
-  "_change_number": 37458633,
+  "_change_number": 40557162,
   "_missing_token": false,
-  "_sha": "d366c4e2fd7512f6daa6e4cb0fbc44c15f0f1ba1",
-  "_size": 9408,
+  "_sha": "d6c9781a3aa72ab8bbf0621743a7f22edfc34dcd",
+  "_size": 10735,
   "appid": "2358720",
   "common": {
     "associations": {
@@ -203,7 +213,7 @@
         "non_deck_display_glyphs": "0",
         "primary_player_is_controller_slot_0": "0",
         "recommended_runtime": "proton-stable",
-        "requires_h264": "0",
+        "requires_h264": "1",
         "requires_internet_for_setup": "1",
         "requires_internet_for_singleplayer": "0",
         "requires_manual_keyboard_invoke": "0",
@@ -211,10 +221,27 @@
         "requires_proton_soundfonts": "0",
         "requires_voice_files": "0",
         "small_text": "1",
-        "supported_input": "gamepad"
+        "supported_input": "other"
       },
-      "steam_machine_compatibility": "0",
-      "steam_machine_tests": {},
+      "steam_machine_compatibility": "3",
+      "steam_machine_tests": {
+        "0": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_ControllerGlyphsMatchDevice"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
+        },
+        "3": {
+          "display": "1",
+          "token": "#SteamMachine_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        }
+      },
       "steamos_compatibility": "2",
       "steamos_tests": {
         "0": {
@@ -226,12 +253,42 @@
           "token": "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
         }
       },
-      "test_timestamp": "1724716800",
-      "tested_build_id": "15404439",
+      "test_timestamp": "1790348314",
+      "tested_build_id": "21393610",
       "tests": {
         "0": {
           "display": "2",
           "token": "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+        }
+      }
+    },
+    "steam_frame_compatibility": {
+      "category": "1",
+      "configuration": {
+        "fdm_debug": "",
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-stable",
+        "requires_h264": "1",
+        "requires_internet_for_setup": "1",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "rpo_debug": "",
+        "small_text": "0",
+        "supported_input": "other",
+        "tso_enable": "0"
+      },
+      "test_timestamp": "1793119497",
+      "tested_build_id": "21393610",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamFrame_TestResult_SteamOSDoesNotSupport"
         }
       }
     },
@@ -372,21 +429,42 @@
         "oslist": "windows"
       },
       "depotfromapp": "228980",
-      "sharedinstall": "1"
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "25108528",
+          "gid": "5753583882400741046",
+          "size": "25674515"
+        }
+      }
     },
     "228990": {
       "config": {
         "oslist": "windows"
       },
       "depotfromapp": "228980",
-      "sharedinstall": "1"
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "100658080",
+          "gid": "1829726630299308803",
+          "size": "102931551"
+        }
+      }
     },
     "229006": {
       "config": {
         "oslist": "windows"
       },
       "depotfromapp": "228980",
-      "sharedinstall": "1"
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "84953712",
+          "gid": "1784011429307107530",
+          "size": "83944258"
+        }
+      }
     },
     "2358721": {
       "config": {
@@ -409,7 +487,34 @@
       }
     },
     "hasdepotsindlc": "1",
-    "privatebranches": "1"
+    "privatebranches": "1",
+    "2672611": {
+      "manifests": {
+        "public": {
+          "download": "0",
+          "gid": "1995373587248188296",
+          "size": "0"
+        }
+      }
+    },
+    "3288261": {
+      "manifests": {
+        "public": {
+          "download": "283758448",
+          "gid": "1420688854810981808",
+          "size": "306139870"
+        }
+      }
+    },
+    "3288262": {
+      "manifests": {
+        "public": {
+          "download": "1301605744",
+          "gid": "7921052030878882502",
+          "size": "1288522546"
+        }
+      }
+    }
   },
   "extended": {
     "developer": "Game Science",

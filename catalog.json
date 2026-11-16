@@ -5051,7 +5051,7 @@
     "versions": [
       {
         "id": "21393610",
-        "branch": "public",
+        "branch": "public Black Myth: Wukong 1.0.21.23831 Patch Notes",
         "label": "Public - Build 21393610 (01/06/2026)",
         "is_ready": true,
         "is_recommended": true,
@@ -5060,7 +5060,9 @@
           "228990",
           "229006",
           "2358721",
-          "2672611"
+          "2672611",
+          "3288261",
+          "3288262"
         ],
         "languages": [
           {
