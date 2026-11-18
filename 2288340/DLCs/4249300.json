@@ -1,0 +1,150 @@
+{
+  "_change_number": 40891749,
+  "_missing_token": false,
+  "_sha": "e9aa67059f7b81665a42deed3d6c106a3711d9a1",
+  "_size": 3098,
+  "appid": "4249300",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Bandai Namco Aces Inc.",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Bandai Namco Entertainment Inc.",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_29": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_49": "1",
+      "category_61": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "gameid": "4249300",
+    "genres": {
+      "0": "1"
+    },
+    "header_image": {
+      "english": "4eca5d8b70b99321aadf5d7f2667695ff070bea6/header.jpg"
+    },
+    "name": "ACE COMBAT 8 - Customizable Cosmetic Set",
+    "name_localized": {
+      "brazilian": "ACE COMBAT 8 - Conjunto cosmético personalizado",
+      "japanese": "ACE COMBAT 8 - Cosmetic Set",
+      "latam": "ACE COMBAT 8 - Conjunto cosmético personalizable",
+      "schinese": "ACE COMBAT 8 - Cosmetic Set",
+      "tchinese": "ACE COMBAT 8 - Cosmetic Set"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2288340",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "23",
+    "review_score": "4",
+    "small_capsule": {
+      "english": "39a9e2a458ad2e11c57a9225a390cce94f73001f/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1790892101",
+    "store_asset_mtime": "1788514384",
+    "store_screenshot": "b6f26aaf53d85328863e85bdf49cab8e3839d1da/ss_b6f26aaf53d85328863e85bdf49cab8e3839d1da.jpg",
+    "store_tags": {
+      "0": "15045",
+      "1": "19",
+      "10": "3843",
+      "11": "3859",
+      "12": "4175",
+      "13": "1773",
+      "14": "1756",
+      "15": "5395",
+      "16": "1685",
+      "17": "597",
+      "18": "1775",
+      "19": "21978",
+      "2": "1774",
+      "3": "4168",
+      "4": "11104",
+      "5": "4684",
+      "6": "1678",
+      "7": "4145",
+      "8": "1742",
+      "9": "4182"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Bandai Namco Aces Inc.",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2288340",
+    "homepage": "http://acecombat.com/",
+    "mustownapptopurchase": "2288340",
+    "publisher": "Bandai Namco Entertainment Inc."
+  }
+}

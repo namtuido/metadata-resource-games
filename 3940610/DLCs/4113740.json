@@ -1,0 +1,48 @@
+{
+  "_change_number": 37949293,
+  "_missing_token": false,
+  "_sha": "f378e1583ce0643e5c097fce9e0e2b5878698542",
+  "_size": 2429,
+  "appid": "4113740",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4113740",
+    "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition Pre-order Content",
+    "name_localized": {
+      "brazilian": "Conteúdo da reserva do EA SPORTS™ Madden NFL 27 Deluxe Edition",
+      "czech": "EA SPORTS™ Madden NFL 27 Deluxe Edition – předobjednávkový obsah",
+      "danish": "EA SPORTS™ Madden NFL 27 Deluxe Edition – forudbestillingsindhold",
+      "dutch": "EA SPORTS™ Madden NFL 27 Deluxe Edition Pre-order Content",
+      "english": "EA SPORTS™ Madden NFL 27 Deluxe Edition Pre-order Content",
+      "finnish": "EA SPORTS™ Madden NFL 27 Deluxe Edition -ennakkotilaussisältö",
+      "french": "Contenu de précommande EA SPORTS™ Madden NFL 27 Édition Deluxe",
+      "german": "EA SPORTS™ Madden NFL 27 Deluxe Edition – Vorbestellungsinhalte",
+      "italian": "Contenuti di prenotazione EA SPORTS™ Madden NFL 27 Deluxe Edition",
+      "japanese": "「EA SPORTS™ Madden NFL 27」デラックス エディション予約コンテンツ",
+      "koreana": "EA SPORTS™ Madden NFL 27 Deluxe Edition 예약 구매 콘텐츠",
+      "latam": "Contenido de reserva de EA SPORTS™ Madden NFL 27 Edición Deluxe",
+      "norwegian": "EA SPORTS™ Madden NFL 27 Deluxe Edition – forhåndsbestillingsinnhold",
+      "polish": "EA SPORTS™ Madden NFL 27 Edycja Deluxe – zawartość przedsprzedażowa",
+      "portuguese": "EA SPORTS™ Madden NFL 27 Deluxe Edition Conteúdo de reserva",
+      "russian": "EA SPORTS™ Madden NFL 27 материалы предзаказа издания Deluxe",
+      "schinese": "EA SPORTS™《Madden NFL 27》豪华版预购内容",
+      "spanish": "Contenido de reserva de EA SPORTS™ Madden NFL 27 Edición Deluxe",
+      "swedish": "EA SPORTS™ Madden NFL 27 Deluxe Edition förbokningsinnehåll",
+      "tchinese": "《EA SPORTS™ Madden NFL 27》豪華版預購內容",
+      "thai": "คอนเทนต์การสั่งซื้อล่วงหน้าของ EA SPORTS™ Madden NFL 27 Deluxe Edition",
+      "turkish": "EA SPORTS™ Madden NFL 27 Deluxe Sürümü Ön Sipariş İçeriği",
+      "ukrainian": "EA SPORTS™ Madden NFL 27 Deluxe Edition: вміст передзамовлення"
+    },
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3940610",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3940610",
+    "mustownapptopurchase": "3940610"
+  }
+}

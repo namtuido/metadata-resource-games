@@ -1,0 +1,26 @@
+{
+  "_change_number": 37230434,
+  "_missing_token": false,
+  "_sha": "bae54a9396a02b7832b88762164ed841da5d76cd",
+  "_size": 520,
+  "appid": "4496670",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4496670",
+    "name": "Assassin's Creed Black Flag Resynced - MAP PACK - Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "",
+    "parent": "3751950",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3751950",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3751950",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

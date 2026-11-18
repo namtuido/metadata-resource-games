@@ -1,0 +1,27 @@
+{
+  "_change_number": 32203078,
+  "_missing_token": false,
+  "_sha": "62b9947ffd7f933e265994bf3602856b1238e23f",
+  "_size": 549,
+  "appid": "3362560",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3362560",
+    "name": "Assassin's Creed Shadows - Claws of Awaji - DLC - (Ubisoft Activation)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "",
+    "parent": "3159330",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3159330",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3159330",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

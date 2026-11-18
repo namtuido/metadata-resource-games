@@ -1,0 +1,23 @@
+{
+  "_change_number": 37230451,
+  "_missing_token": false,
+  "_sha": "2afe7aa3319e1f6d23c3f6ac9dc47592e61ec671",
+  "_size": 485,
+  "appid": "4496610",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4496610",
+    "name": "Assassin's Creed Black Flag Resynced - Sea Serpent Naval Pack - Ubisoft Activation",
+    "parent": "3751950",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3751950",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3751950",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

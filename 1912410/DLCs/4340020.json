@@ -1,0 +1,44 @@
+{
+  "_change_number": 39297995,
+  "_missing_token": false,
+  "_sha": "01e42f0fa83e9020565e32ccd0ac70c2c3ebd910",
+  "_size": 676,
+  "appid": "4340020",
+  "common": {
+    "gameid": "4340020",
+    "name": "Minecraft Dungeons II Hero Pack",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1912410",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "10": "1685",
+      "11": "4791",
+      "12": "5851",
+      "13": "4726",
+      "14": "1732",
+      "15": "4236",
+      "16": "4166",
+      "17": "5350",
+      "18": "1684",
+      "19": "4136",
+      "2": "122",
+      "3": "4231",
+      "4": "1720",
+      "5": "1646",
+      "6": "4106",
+      "7": "3834",
+      "8": "1773",
+      "9": "4305"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1912410",
+    "mustownapptopurchase": "1912410"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_change_number": 36124568,
+  "_missing_token": false,
+  "_sha": "7729e322961c569acb1aafd7b3e7c953715a9ee1",
+  "_size": 687,
+  "appid": "4521820",
+  "common": {
+    "gameid": "4521820",
+    "name": "007 First Light - Observant Spy (Outfit)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3768760",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "4182",
+      "1": "19",
+      "10": "1742",
+      "11": "3834",
+      "12": "1644",
+      "13": "7481",
+      "14": "1774",
+      "15": "3993",
+      "16": "9204",
+      "17": "42152",
+      "18": "4175",
+      "19": "3854",
+      "2": "21",
+      "3": "1687",
+      "4": "4106",
+      "5": "3814",
+      "6": "1697",
+      "7": "4191",
+      "8": "4145",
+      "9": "4166"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3768760",
+    "mustownapptopurchase": "3768760"
+  }
+}

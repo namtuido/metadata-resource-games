@@ -1,0 +1,26 @@
+{
+  "_change_number": 33538951,
+  "_missing_token": false,
+  "_sha": "430668eddfe76d10613ffe6080961935c1e2aff5",
+  "_size": 526,
+  "appid": "4168120",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4168120",
+    "name": "Anno 117: Pax Romana Standard Edition Launch - Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3274580",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3274580",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3274580",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

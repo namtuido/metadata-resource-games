@@ -1,0 +1,42 @@
+{
+  "_change_number": 38365317,
+  "_missing_token": false,
+  "_sha": "e797d7e50240730b95ed570a385e678283aecbf4",
+  "_size": 670,
+  "appid": "2951540",
+  "common": {
+    "gameid": "2951540",
+    "name": "SILENT HILL 2 - Artbook",
+    "parent": "2124490",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "depots": {
+    "2951541": {
+      "dlcappid": "2951540",
+      "manifests": {
+        "public": {
+          "download": "224601584",
+          "gid": "4181790107554818304",
+          "size": "395073872"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "15663775",
+        "timebuildupdated": "1726056737",
+        "timeupdated": "1726056750"
+      }
+    }
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2124490",
+    "mustownapptopurchase": "2124490"
+  }
+}

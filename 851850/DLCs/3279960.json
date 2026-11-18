@@ -1,0 +1,26 @@
+{
+  "_change_number": 30194730,
+  "_missing_token": false,
+  "_sha": "3a6d5c13e4f6ee58c7461fb23b19d8af17ec5b4b",
+  "_size": 458,
+  "appid": "3279960",
+  "common": {
+    "gameid": "3279960",
+    "name": "HD - DRAGON BALL Z: KAKAROT",
+    "name_localized": {
+      "schinese": "HD 七龙珠Z 卡卡洛特",
+      "tchinese": "HD 七龍珠Z 卡卡洛特"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "851850",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "851850",
+    "mustownapptopurchase": "851850"
+  }
+}

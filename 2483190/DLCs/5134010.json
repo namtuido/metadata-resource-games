@@ -1,0 +1,181 @@
+{
+  "_change_number": 40132985,
+  "_missing_token": false,
+  "_sha": "fe5c2f683bc34ed37905866be7e13c8dd8357d0d",
+  "_size": 3514,
+  "appid": "5134010",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Playground Games",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_60": "1",
+      "category_61": "1",
+      "category_62": "1",
+      "category_66": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_73": "1",
+      "category_74": "1",
+      "category_75": "1",
+      "category_78": "1",
+      "category_80": "1",
+      "category_82": "1",
+      "category_9": "1"
+    },
+    "controller_support": "full",
+    "gameid": "5134010",
+    "genres": {
+      "0": "9",
+      "1": "28",
+      "2": "18"
+    },
+    "header_image": {
+      "english": "94da8f663bc7ba28958cffabefb46f0a7e3aad35/header.jpg"
+    },
+    "name": "Forza Horizon 6 1990 Eunos Cosmo",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2483190",
+    "primary_genre": "9",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "c7c2e532e5b45cee136e096e4903afc2c2c476bb/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1791325492",
+    "store_screenshot": "857466052cf62f05012455147cd9dc7f6ab9cb3a/ss_857466052cf62f05012455147cd9dc7f6ab9cb3a.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "699",
+      "2": "701"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "danish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "finnish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "greek": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "hungarian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "norwegian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Playground Games",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2483190",
+    "homepage": "https://forza.net/",
+    "mustownapptopurchase": "2483190"
+  }
+}

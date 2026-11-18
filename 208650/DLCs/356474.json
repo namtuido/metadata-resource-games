@@ -1,0 +1,93 @@
+{
+  "_change_number": 34678701,
+  "_missing_token": true,
+  "_sha": "1edc88c36247f8fba1dae22ea6eefc4ba6f3b6d7",
+  "_size": 1751,
+  "appid": "356474",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Rocksteady Studios",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_29": "1"
+    },
+    "controller_support": "full",
+    "gameid": "356474",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "metacritic_name": "New 52 Skins Pack",
+    "name": "Batman™: Arkham Knight - New 52 Skins Pack",
+    "parent": "208650",
+    "primary_genre": "0",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1432661987",
+    "store_screenshot": "ss_7a4d2d30fd03746b986abe56225308a09484b985.jpg",
+    "supported_languages": {
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

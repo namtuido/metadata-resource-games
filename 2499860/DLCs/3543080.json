@@ -1,0 +1,34 @@
+{
+  "_change_number": 33772144,
+  "_missing_token": false,
+  "_sha": "c25e5017ec9ab351f1a5a31edfc177fdcdc6d1d8",
+  "_size": 1091,
+  "appid": "3543080",
+  "common": {
+    "gameid": "3543080",
+    "name": "DRAGON QUEST VII Reimagined: White Wolf Costume",
+    "name_localized": {
+      "english": "DRAGON QUEST VII Reimagined: White Wolf Costume",
+      "french": "DRAGON QUEST VII Reimagined: Costume de loup blanc",
+      "german": "DRAGON QUEST VII Reimagined: Weißer-Wolf-Kostüm",
+      "italian": "DRAGON QUEST VII Reimagined: Costume del lupo bianco",
+      "japanese": "ドラゴンクエストVII Reimagined - 白オオカミのきぐるみ",
+      "koreana": "드래곤 퀘스트 VII Reimagined - 하얀 늑대의 인형 탈",
+      "latam": "DRAGON QUEST VII Reimagined: Atuendo de lobo blanco",
+      "schinese": "勇者斗恶龙 VII Reimagined - 白狼玩偶装",
+      "spanish": "DRAGON QUEST VII Reimagined: Traje de lobo blanco",
+      "tchinese": "勇者鬥惡龍 VII Reimagined - 白狼玩偶裝"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2499860",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2499860",
+    "mustownapptopurchase": "2499860"
+  }
+}

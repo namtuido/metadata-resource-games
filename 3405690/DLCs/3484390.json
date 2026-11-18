@@ -1,0 +1,53 @@
+{
+  "_change_number": 31272616,
+  "_missing_token": false,
+  "_sha": "b8ec7c429550af00690b03eee8703de903baf3e9",
+  "_size": 2494,
+  "appid": "3484390",
+  "common": {
+    "associations": {},
+    "category": {},
+    "exfgls": "9",
+    "gameid": "3484390",
+    "header_image": {
+      "english": "2e912caf61d6c129dc9decd5fe20c1da6d529065/header.jpg"
+    },
+    "name": "EA SPORTS FC™ 26 Ultimate Edition Pre-Purchase content",
+    "name_localized": {
+      "brazilian": "Conteúdo de reserva da Edição Ultimate do EA SPORTS FC™ 26",
+      "czech": "Přednákupní obsah EA SPORTS FC™ 26 Ultimate Edition",
+      "danish": "EA SPORTS FC™ 26 Ultimate Edition-forudkøbsindhold",
+      "dutch": "EA SPORTS FC™ 26 Ultimate Edition Voorverkoopcontent",
+      "english": "EA SPORTS FC™ 26 Ultimate Edition Pre-Purchase content",
+      "finnish": "EA SPORTS FC™ 26 Ultimate Edition -ennakko-ostosisältö",
+      "french": "Contenu de précommande d'EA SPORTS FC™ 26 Édition Ultimate",
+      "german": "EA SPORTS FC™ 26 Ultimate Edition Vorabkauf-Inhalte",
+      "italian": "Contenuti per l'acquisto anticipato di EA SPORTS FC™ 26 Ultimate Edition",
+      "japanese": "EA SPORTS FC™ 26 Ultimate Edition 事前購入コンテンツ",
+      "koreana": "EA SPORTS FC™ 26 Ultimate Edition 예약 구매 콘텐츠",
+      "latam": "Contenido de compra anticipada de EA SPORTS FC™ 26 Ultimate Edition",
+      "norwegian": "Forhåndskjøpinnhold for EA SPORTS FC™ 26 Ultimate Edition",
+      "polish": "Zawartość przedsprzedażowa Edycji Ultimate EA SPORTS FC™ 26",
+      "portuguese": "Conteúdo de Pré-compra do EA SPORTS FC™ 26 Ultimate Edition",
+      "russian": "Контент предзаказа издания Ultimate EA SPORTS FC™ 26",
+      "schinese": "《EA SPORTS FC™ 26》终极版预购内容",
+      "spanish": "Contenido de precompra de EA SPORTS FC™ 26 Ultimate Edition",
+      "swedish": "Förköpsinnehåll för EA SPORTS FC™ 26 Ultimate Edition",
+      "tchinese": "《EA SPORTS FC™ 26》終極版預購內容",
+      "thai": "เนื้อหาที่ได้จากการซื้อ EA SPORTS FC™ 26 Ultimate Edition ล่วงหน้า",
+      "turkish": "EA SPORTS FC™ 26 Ultimate Sürüm Ön Satın Alım içerikleri",
+      "ukrainian": "Вміст попереднього придбання видання Ultimate EA SPORTS FC™ 26"
+    },
+    "parent": "3405690",
+    "primary_genre": "0",
+    "releasestate": "released",
+    "store_asset_mtime": "1757980519",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3405690",
+    "homepage": "https://store.steampowered.com/app/3405690",
+    "mustownapptopurchase": "3405690"
+  }
+}

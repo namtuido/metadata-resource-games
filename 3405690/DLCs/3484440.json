@@ -1,0 +1,28 @@
+{
+  "_change_number": 31272616,
+  "_missing_token": false,
+  "_sha": "f2879d366de6763e342bb33e5c60f5d9f8639ec5",
+  "_size": 581,
+  "appid": "3484440",
+  "common": {
+    "associations": {},
+    "category": {},
+    "exfgls": "9",
+    "gameid": "3484440",
+    "header_image": {
+      "english": "2e912caf61d6c129dc9decd5fe20c1da6d529065/header.jpg"
+    },
+    "name": "EA SPORTS FC 26 - Ultimate Preorder Edition Key",
+    "parent": "3405690",
+    "primary_genre": "0",
+    "releasestate": "released",
+    "store_asset_mtime": "1757981043",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3405690",
+    "homepage": "https://store.steampowered.com/app/3405690",
+    "mustownapptopurchase": "3405690"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_change_number": 36124568,
+  "_missing_token": false,
+  "_sha": "cf4d540e60a9fcfe24647b6864aee63e342e91cc",
+  "_size": 364,
+  "appid": "4601250",
+  "common": {
+    "gameid": "4601250",
+    "name": "007 First Light - Diamond in the Rough (Outfit)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3768760",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3768760",
+    "mustownapptopurchase": "3768760"
+  }
+}

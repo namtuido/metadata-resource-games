@@ -1,0 +1,201 @@
+{
+  "_change_number": 33260482,
+  "_missing_token": false,
+  "_sha": "deecd5f444a596d9f450156b8a5b79b5c4597e57",
+  "_size": 4776,
+  "appid": "4146820",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "EA Canada",
+        "type": "developer"
+      },
+      "1": {
+        "name": "EA Romania",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_24": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_61": "1",
+      "category_65": "1",
+      "category_69": "1",
+      "category_72": "1",
+      "category_75": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "controller_support": "full",
+    "exfgls": "9",
+    "gameid": "4146820",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "1d9e737b42ed188bc76e47aef93061c88439d2ec/header.jpg"
+    },
+    "name": "EA SPORTS FC™ 26 TOTY Edition",
+    "name_localized": {
+      "brazilian": "Conteúdo da Edição TOTY do EA SPORTS FC™ 26",
+      "czech": "Obsah EA SPORTS FC™ 26 TOTY Edition",
+      "danish": "EA SPORTS FC™ 26 TOTY Edition-indhold",
+      "dutch": "EA SPORTS FC™ 26 TOTY Edition-inhoud",
+      "english": "EA SPORTS FC™ 26 TOTY Edition content",
+      "finnish": "EA SPORTS FC™ 26 TOTY Edition -sisältö",
+      "french": "Contenu d'EA SPORTS FC™ 26 Édition TOTY",
+      "german": "EA SPORTS FC™ 26 TOTY Edition – Inhalte",
+      "italian": "Contenuti EA SPORTS FC™ 26 TOTY Edition",
+      "japanese": "EA SPORTS FC™ 26 TOTY Editionコンテンツ",
+      "koreana": "EA SPORTS FC™ 26 TOTY Edition 콘텐츠",
+      "latam": "Contenido de EA SPORTS FC™ 26 TOTY Edition",
+      "norwegian": "EA SPORTS FC™ 26 TOTY Edition-innhold",
+      "polish": "Zawartość Edycji EA SPORTS FC™ 26 TOTY",
+      "portuguese": "conteúdo EA SPORTS FC™ 26 TOTY Edition",
+      "russian": "Контент издания TOTY EA SPORTS FC™ 26",
+      "schinese": "《EA SPORTS FC™ 26》TOTY 版内容",
+      "spanish": "Contenido de EA SPORTS FC™ 26 TOTY Edition",
+      "swedish": "EA SPORTS FC™ 26 TOTY Edition-innehåll",
+      "tchinese": "《EA SPORTS FC™ 26 TOTY 版》內容",
+      "thai": "คอนเทนต์ EA SPORTS FC™ 26 TOTY Edition",
+      "turkish": "EA SPORTS FC™ 26 TOTY Sürümü içerikleri",
+      "ukrainian": "Вміст видання TOTY EA SPORTS FC™ 26"
+    },
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3405690",
+    "primary_genre": "28",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "9a61e37838463daeaa6c386a8619d47876a33d44/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1767956628",
+    "store_tags": {
+      "0": "599",
+      "1": "701"
+    },
+    "supported_languages": {
+      "arabic": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "danish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "norwegian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "additionalcontentforapps": {},
+    "developer": "EA Canada",
+    "dlcforappid": "3405690",
+    "homepage": "https://store.steampowered.com/app/3405690",
+    "mustownapptopurchase": "3405690"
+  }
+}

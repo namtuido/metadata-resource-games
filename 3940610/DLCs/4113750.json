@@ -1,0 +1,48 @@
+{
+  "_change_number": 38135326,
+  "_missing_token": false,
+  "_sha": "3609f644cb444aeb57b4b96150c4aea5d97363d6",
+  "_size": 2514,
+  "appid": "4113750",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4113750",
+    "name": "EA SPORTS™ Madden NFL 27 Standard Edition Pre-purchase Content",
+    "name_localized": {
+      "brazilian": "Conteúdo de pré-venda da Edição Standard do EA SPORTS™ Madden NFL 27",
+      "czech": "EA SPORTS™ Madden NFL 27 Standard Edition – přednákupní obsah",
+      "danish": "EA SPORTS™ Madden NFL 27 Standard Edition – forudbestillingsindhold",
+      "dutch": "EA SPORTS™ Madden NFL 27 Standard Edition Pre-purchase Content",
+      "english": "EA SPORTS™ Madden NFL 27 Standard Edition Pre-purchase Content",
+      "finnish": "EA SPORTS™ Madden NFL 27 Standard Edition -ennakko-ostosisältö",
+      "french": "Contenu de précommande EA SPORTS™ Madden NFL 27 Édition Standard",
+      "german": "EA SPORTS™ Madden NFL 27 Standard Edition – Vorabkaufsinhalte",
+      "italian": "Contenuti di acquisto anticipato EA SPORTS™ Madden NFL 27 Standard Edition",
+      "japanese": "『EA SPORTS™ Madden NFL 27』スタンダードエディション先行予約コンテンツ",
+      "koreana": "EA SPORTS™ Madden NFL 27 Standard Edition 예약 구매 콘텐츠",
+      "latam": "Contenido de precompra de EA SPORTS™ Madden NFL 27 Edición Estándar",
+      "norwegian": "EA SPORTS™ Madden NFL 27 Standard Edition-forhåndskjøpsinnhold",
+      "polish": "EA SPORTS™ Madden NFL 27 Edycja Standardowa – zawartość przedsprzedażowa",
+      "portuguese": "EA SPORTS™ Madden NFL 27 Edição Standard Conteúdo de Pré-compra",
+      "russian": "Материалы предзаказа стандартного издания EA SPORTS™ Madden NFL 27",
+      "schinese": "EA SPORTS™《Madden NFL 27》标准版预购内容",
+      "spanish": "Contenido de precompra de EA SPORTS™ Madden NFL 27 Edición Estándar",
+      "swedish": "EA SPORTS™ Madden NFL 27 Standard Edition förköpsinnehåll",
+      "tchinese": "《EA SPORTS™ Madden NFL 27》標準版預購內容",
+      "thai": "คอนเทนต์จากการซื้อ EA SPORTS™ Madden NFL 27 Standard Edition ล่วงหน้า",
+      "turkish": "EA SPORTS™ Madden NFL 27 Standart Sürüm Ön Satın Alım İçeriği",
+      "ukrainian": "EA SPORTS™ Madden NFL 27 Standard Edition: вміст попереднього придбання"
+    },
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3940610",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3940610",
+    "mustownapptopurchase": "3940610"
+  }
+}

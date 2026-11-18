@@ -1,0 +1,26 @@
+{
+  "_change_number": 40136800,
+  "_missing_token": false,
+  "_sha": "acc6c2a6b30b8818006ebdbdc8a26273da611186",
+  "_size": 510,
+  "appid": "4249290",
+  "common": {
+    "gameid": "4249290",
+    "name": "ACE COMBAT 8 - PREMIUM ACE PASS PLUS Voucher",
+    "name_localized": {
+      "brazilian": "ACE COMBAT 8 - Vale ACE PASS PREMIUM PLUS",
+      "latam": "ACE COMBAT 8 - Vale del PREMIUM ACE PASS PLUS"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2288340",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2288340",
+    "mustownapptopurchase": "2288340"
+  }
+}

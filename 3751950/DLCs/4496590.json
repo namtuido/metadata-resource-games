@@ -1,0 +1,23 @@
+{
+  "_change_number": 37230451,
+  "_missing_token": false,
+  "_sha": "b0fbf5763ee2f56b76057e26f3de78216f948bfe",
+  "_size": 489,
+  "appid": "4496590",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4496590",
+    "name": "Assassin's Creed Black Flag Resynced - Sea Serpent Character Pack - Ubisoft Activation",
+    "parent": "3751950",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3751950",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3751950",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

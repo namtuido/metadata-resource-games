@@ -1,0 +1,44 @@
+{
+  "_change_number": 37600138,
+  "_missing_token": false,
+  "_sha": "7cd11457f4c2a481a70c5a3cacc67be268669c19",
+  "_size": 2523,
+  "appid": "4637600",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4637600",
+    "name": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ OVR ICON Player Item",
+    "name_localized": {
+      "brazilian": "ÍDOLO com GER 92+ do Football Ultimate Team™ do EA SPORTS FC™ 26",
+      "czech": "Hráčský předmět IKONY s CLK 92+ pro EA SPORTS FC™ 26 Football Ultimate Team™",
+      "danish": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ SML IKON-spillerkort",
+      "dutch": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ ALG ICON speleritem",
+      "english": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ OVR ICON Player Item",
+      "finnish": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ OVR ICON -pelaajakortti",
+      "french": "Élément j. ICÔNE Football Ultimate Team™ GÉN 92+ pour EA SPORTS FC™ 26",
+      "german": "EA SPORTS FC™ 26 Football Ultimate Team™-92+-GES-ICON-Profi-Item",
+      "italian": "Oggetto giocatore ICONA EA SPORTS FC™ 26 Football Ultimate Team™ TOT 92+",
+      "japanese": "EA SPORTS FC™ 26 Football Ultimate Team™ OVR 92以上のアイコン選手",
+      "koreana": "EA SPORTS FC™ 26 Football Ultimate Team™ OVR 92+ 아이콘 선수 아이템",
+      "latam": "Item de futbolista ÍCONO con 92+ GLB de EA SPORTS FC™ 26 Football Ultimate Team™",
+      "norwegian": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ TOT IKON-spillerkort",
+      "polish": "IKONA Football Ultimate Team™ 92+ OGL EA SPORTS FC™ 26",
+      "portuguese": "Item de Atleta ÍCONE 92+ GER EA SPORTS FC™ 26 Football Ultimate Team™",
+      "russian": "КУМИР с ОБЩ 92+ EA SPORTS FC™ 26 Football Ultimate Team™",
+      "schinese": "《EA SPORTS FC™ 26》Football Ultimate Team™ 92+ 总评超级巨星球员物品",
+      "spanish": "Artículo de futbolista ICONO de EA SPORTS FC™ 26 Football Ultimate Team™ con GRL 92+",
+      "swedish": "EA SPORTS FC™ 26 Football Ultimate Team™-ikonspelarkort med 92+ TOT",
+      "tchinese": "《EA SPORTS FC™ 26》總評 92+ 的 Football Ultimate Team™ 超級球星球員物品",
+      "thai": "ไอเท็มนักเตะ ICON ที่มี OVR 92 ขึ้นไปจาก EA SPORTS FC™ 26 Football Ultimate Team™",
+      "turkish": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ GEN İKON Oyuncu Ögesi",
+      "ukrainian": "Гравець-кумир EA SPORTS FC™ 26 для Football Ultimate Team™ з OVR 92+"
+    },
+    "parent": "3405690",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3405690"
+  }
+}

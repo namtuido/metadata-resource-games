@@ -1,0 +1,50 @@
+{
+  "_change_number": 26375805,
+  "_missing_token": false,
+  "_sha": "0029c84582d084d04ed5d016ec7b8acb97e45fb7",
+  "_size": 2479,
+  "appid": "2581000",
+  "common": {
+    "associations": {},
+    "gameid": "2581000",
+    "name": "Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles",
+    "name_localized": {
+      "brazilian": "Dragon's Dogma 2: Quarteto de Armas Superiores: a bênção dos principiantes",
+      "danish": "Dragon's Dogma 2: Superior Weapons Quartet - en velsignelse i tidlige kampe",
+      "dutch": "Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles",
+      "english": "Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles",
+      "finnish": "Dragon's Dogma 2: Superior Weapons Quartet – siunaus alkutaisteluihin",
+      "french": "Dragon's Dogma 2: Quartet d'armes d'exception - Utile pour débuter",
+      "german": "Dragon's Dogma 2: Hochwertiges Waffen-Quartett – Ein Segen in ersten Kämpfen",
+      "italian": "Dragon's Dogma 2: Set di quattro armi scelte - Preziose nelle prime battaglie",
+      "japanese": "Dragon's Dogma 2 はじめての戦いの備え「別注武器４種セット」",
+      "koreana": "Dragon's Dogma 2 첫 전투 준비 '특별 주문 제작 무기 4종 세트'",
+      "latam": "Dragon's Dogma 2: Cuarteto de armas superiores - Una bendición en las primeras batallas",
+      "norwegian": "Dragon's Dogma 2: Superior Weapons Quartet - en velsignelse i tidlige kamper",
+      "polish": "Dragon’s Dogma 2: Kwartet doskonałych broni — przydatny podczas pierwszych starć",
+      "portuguese": "Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles",
+      "russian": "Dragon's dogma 2: Превосходная оружейная четвёрка (благо в ранних битвах)",
+      "schinese": "Dragon's Dogma 2 初战的准备“特制武器4件套”",
+      "spanish": "Dragon's Dogma 2: Cuatro armas superiores - Ayuda para las primeras batallas",
+      "swedish": "Dragon's Dogma 2: Superior Weapons Quartet – Hjälp i tidiga strider",
+      "tchinese": "Dragon's Dogma 2 初次戰鬥的準備「4種訂製武器套組」",
+      "turkish": "Dragon's Dogma 2: Üstün Silah Dörtlüsü - İlk Savaşlar için Bir Lütuf",
+      "ukrainian": "Dragon's Dogma 2: Набір виняткової зброї (допоможе на початку гри)"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2054970",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "122"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2054970",
+    "mustownapptopurchase": "2054970"
+  }
+}

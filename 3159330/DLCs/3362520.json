@@ -1,0 +1,27 @@
+{
+  "_change_number": 28060386,
+  "_missing_token": false,
+  "_sha": "972f62a6968929328b735ad82302e179c357badb",
+  "_size": 555,
+  "appid": "3362520",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3362520",
+    "name": "Assassin's Creed Shadows - Standard Edition - JP (Ubisoft Activation)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3159330",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3159330",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3159330",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

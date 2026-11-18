@@ -1,0 +1,26 @@
+{
+  "_change_number": 38522217,
+  "_missing_token": false,
+  "_sha": "bb881a662b43e0a3a68d5594680f4c739f71a101",
+  "_size": 525,
+  "appid": "3874270",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3874270",
+    "name": "Anno 117: Pax Romana – Blooming Cities Pack Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3274580",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3274580",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3274580",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

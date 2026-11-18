@@ -1,0 +1,24 @@
+{
+  "_change_number": 37124384,
+  "_missing_token": false,
+  "_sha": "d6567ac22ef7452f48d73fb28468300715756e9e",
+  "_size": 516,
+  "appid": "4496500",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4496500",
+    "name": "Assassin's Creed Black Flag Resynced - Master Assassin Character Pack - Ubisoft Activation",
+    "parent": "3751950",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3751950",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3751950",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

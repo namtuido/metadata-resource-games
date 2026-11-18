@@ -1,0 +1,26 @@
+{
+  "_change_number": 33539293,
+  "_missing_token": false,
+  "_sha": "90d6bece2c8ffbcab8c24459a204404d5cb43d77",
+  "_size": 522,
+  "appid": "4168130",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4168130",
+    "name": "Anno 117: Pax Romana Gold Edition Launch - Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3274580",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3274580",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3274580",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

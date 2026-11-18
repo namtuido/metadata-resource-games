@@ -1,0 +1,19 @@
+{
+  "_change_number": 38365283,
+  "_missing_token": false,
+  "_sha": "2eb0cb2c483f1570c90f492c914f60111081a2c0",
+  "_size": 296,
+  "appid": "3282180",
+  "common": {
+    "gameid": "3282180",
+    "name": "SILENT HILL f - Pink Rabbit Costume",
+    "parent": "2947440",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2947440",
+    "mustownapptopurchase": "2947440"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_change_number": 34255574,
+  "_missing_token": false,
+  "_sha": "c822abd8cbd4f62866acc31f433eeac7c432ab42",
+  "_size": 344,
+  "appid": "4444150",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4444150",
+    "name": "Forza Horizon 6 1962 Peel P50 Trolli Edition",
+    "parent": "2483190",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2483190",
+    "mustownapptopurchase": "2483190"
+  }
+}

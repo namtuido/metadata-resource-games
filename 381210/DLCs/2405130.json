@@ -1,0 +1,156 @@
+{
+  "_change_number": 36532555,
+  "_missing_token": false,
+  "_sha": "7a887c937413ce71ab8d21c89017ab526d2afe79",
+  "_size": 3201,
+  "appid": "2405130",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Behaviour Interactive Inc.",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Behaviour Interactive Inc.",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Dead by Daylight",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_33": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_41": "1",
+      "category_42": "1",
+      "category_43": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "clienticon": "9776d754dc34c1c0f50e19ea32bbb75309d4a037",
+    "clienttga": "ef33666db8c64ef24870578ce1bcb72f87b57f74",
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "gameid": "2405130",
+    "genres": {
+      "0": "1"
+    },
+    "header_image": {
+      "english": "e488e12925d762d77271fe6cd6f399f5059e6d94/header.jpg"
+    },
+    "icon": "b52ad735027854092a552b7fd2fb441a45bc6ee7",
+    "name": "Dead by Daylight x Attack on Titan: Armored Pack",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "381210",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "85",
+    "review_score": "8",
+    "small_capsule": {
+      "english": "6fbca11ec68e266f35c61584928a7c3f2975db5b/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1687186644",
+    "store_asset_mtime": "1776968861",
+    "store_screenshot": "ss_41863698889828cb8de11e2b82dd6c9e176b08cc.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "4345",
+      "2": "4667"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Behaviour Interactive Inc.",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "381210",
+    "homepage": "http://www.deadbydaylight.com",
+    "mustownapptopurchase": "381210",
+    "publisher": "Behaviour Interactive Inc."
+  }
+}

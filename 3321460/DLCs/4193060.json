@@ -1,0 +1,19 @@
+{
+  "_change_number": 34678701,
+  "_missing_token": true,
+  "_sha": "4ee0f6bb625b98def79306f994fcc1413a6fb828",
+  "_size": 292,
+  "appid": "4193060",
+  "common": {
+    "gameid": "4193060",
+    "name": "Crimson Desert - Ultimate Pack",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3321460",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

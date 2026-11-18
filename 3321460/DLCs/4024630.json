@@ -1,0 +1,19 @@
+{
+  "_change_number": 38343318,
+  "_missing_token": true,
+  "_sha": "5e237cd25e80b3c828c0cce2e4a37b2d746a756a",
+  "_size": 316,
+  "appid": "4024630",
+  "common": {
+    "gameid": "4024630",
+    "name": "Crimson Desert - Pre Order Pack",
+    "osarch": "64",
+    "osextended": "macosapplesilicon",
+    "oslist": "windows,macos",
+    "parent": "3321460",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

@@ -1,0 +1,50 @@
+{
+  "_change_number": 39364724,
+  "_missing_token": false,
+  "_sha": "8f947b5fc123f206bbff2fd05c930f4d090fe8bd",
+  "_size": 1230,
+  "appid": "4330330",
+  "common": {
+    "gameid": "4330330",
+    "name": "DYNASTY WARRIORS 3: Complete Edition Remastered - Retro-Style Red Hare Saddle",
+    "name_localized": {
+      "japanese": "真・三國無双２ with 猛将伝 Remastered - 赤兎鐙・『真・三國無双２』レトロスタイル",
+      "koreana": "진・삼국무쌍２ with 맹장전 Remastered - 적토등・『진・삼국무쌍2』 레트로 스타일",
+      "schinese": "真・三国无双２ with 猛将传 Remastered - 《真・三国无双２》复古款赤兔镫",
+      "tchinese": "真・三國無雙２ with 猛將傳 Remastered - 《真・三國無雙２》懷舊款赤兔鐙"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3841510",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "1646",
+      "1": "4777",
+      "10": "3987",
+      "11": "323922",
+      "12": "4608",
+      "13": "7481",
+      "14": "6971",
+      "15": "1742",
+      "16": "1678",
+      "17": "1708",
+      "18": "4145",
+      "19": "4182",
+      "2": "122",
+      "3": "9",
+      "4": "4684",
+      "5": "6915",
+      "6": "4231",
+      "7": "19",
+      "8": "1697",
+      "9": "4191"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3841510",
+    "mustownapptopurchase": "3841510"
+  }
+}

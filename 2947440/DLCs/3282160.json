@@ -1,0 +1,19 @@
+{
+  "_change_number": 31324137,
+  "_missing_token": false,
+  "_sha": "23b9f4395bb366e7a63f79bba96f55980c07cea0",
+  "_size": 304,
+  "appid": "3282160",
+  "common": {
+    "gameid": "3282160",
+    "name": "SILENT HILL f - White Sailor School Uniform",
+    "parent": "2947440",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2947440",
+    "mustownapptopurchase": "2947440"
+  }
+}

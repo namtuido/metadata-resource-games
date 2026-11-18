@@ -1,0 +1,19 @@
+{
+  "_change_number": 29293462,
+  "_missing_token": false,
+  "_sha": "dc921caba4e9067c3c8b7d63507e2446391d5544",
+  "_size": 296,
+  "appid": "3319490",
+  "common": {
+    "gameid": "3319490",
+    "name": "ELDEN RING NIGHTREIGN Bonus Gesture",
+    "parent": "2622380",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2622380",
+    "mustownapptopurchase": "2622380"
+  }
+}

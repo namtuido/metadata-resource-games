@@ -1,0 +1,27 @@
+{
+  "_change_number": 31332635,
+  "_missing_token": false,
+  "_sha": "bcb3b5a75b24918808f27622624ed87806495b5d",
+  "_size": 561,
+  "appid": "3362530",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3362530",
+    "name": "Assassin's Creed Shadows - Digital Deluxe Edition - WW (Ubisoft Activation)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3159330",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3159330",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3159330",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

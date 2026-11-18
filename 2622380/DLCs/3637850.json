@@ -1,0 +1,19 @@
+{
+  "_change_number": 29293462,
+  "_missing_token": false,
+  "_sha": "59a8ca19de3b239a561d85481d71caf5620a472e",
+  "_size": 302,
+  "appid": "3637850",
+  "common": {
+    "gameid": "3637850",
+    "name": "ELDEN RING NIGHTREIGN CE Content (Retail)",
+    "parent": "2622380",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2622380",
+    "mustownapptopurchase": "2622380"
+  }
+}

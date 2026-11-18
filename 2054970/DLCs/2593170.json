@@ -1,0 +1,50 @@
+{
+  "_change_number": 26375805,
+  "_missing_token": false,
+  "_sha": "86ed0d4a57b7625d53f052bfec7277535aa52d76",
+  "_size": 2259,
+  "appid": "2593170",
+  "common": {
+    "associations": {},
+    "gameid": "2593170",
+    "name": "Dragon's Dogma 2: Ring of Assurance - Adventurer's Safeguard",
+    "name_localized": {
+      "brazilian": "Dragon's Dogma 2: Anel da Reafirmação: a égide dos aventureiros",
+      "danish": "Dragon's Dogma 2: Ring of Assurance - en eventyrers sikkerhedsnet",
+      "dutch": "Dragon's Dogma 2: Ring of Assurance - Adventurer's Safeguard",
+      "english": "Dragon's Dogma 2: Ring of Assurance - Adventurer's Safeguard",
+      "finnish": "Dragon's Dogma 2: Ring of Assurance – seikkailijan turva",
+      "french": "Dragon's Dogma 2: Anneau d'assurance - Protège les aventuriers",
+      "german": "Dragon's Dogma 2: Ring der Sicherheit – Ein Schutz für Abenteurer",
+      "italian": "Dragon's Dogma 2: Anello della serenità - Una tutela in più per le avventure",
+      "japanese": "Dragon's Dogma 2 はじめての旅の護り「安心のリング」",
+      "koreana": "Dragon's Dogma 2 첫 여행의 가호 '안심의 반지'",
+      "latam": "Dragon's Dogma 2: Anillo de la confianza - Salvaguardia de aventurero",
+      "norwegian": "Dragon's Dogma 2: Ring of Assurance - eventyrerbeskyttelse",
+      "polish": "Dragon’s Dogma 2: Pierścień pewności — chroni poszukiwacza przygód",
+      "portuguese": "Dragon's Dogma 2: Ring of Assurance - Adventurer's Safeguard",
+      "russian": "Dragon's dogma 2: Кольцо спокойствия (оберег искателя приключений)",
+      "schinese": "Dragon's Dogma 2 旅行伊始的守护“安心戒指”",
+      "spanish": "Dragon's Dogma 2: Anillo de certidumbre - Salvaguarda de aventureros",
+      "swedish": "Dragon's Dogma 2: Ring of Assurance – Äventyrarens trygghet",
+      "tchinese": "Dragon's Dogma 2 初次旅行的保障「放心戒指」",
+      "turkish": "Dragon's Dogma 2: Güvence Yüzüğü - Maceracının Koruması",
+      "ukrainian": "Dragon's Dogma 2: Кільце упевненості (захистить шукача пригод)"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2054970",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "122"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2054970",
+    "mustownapptopurchase": "2054970"
+  }
+}

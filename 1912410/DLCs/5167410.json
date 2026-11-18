@@ -1,0 +1,172 @@
+{
+  "_change_number": 40694216,
+  "_missing_token": false,
+  "_sha": "edefcc5c50ca970cfa66f27fd4f9f0354535146a",
+  "_size": 3342,
+  "appid": "5167410",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Mojang Studios",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Double Eleven",
+        "type": "developer"
+      },
+      "2": {
+        "name": "XBOX Game Studios",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_24": "1",
+      "category_27": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "controller_support": "partial",
+    "gameid": "5167410",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "1d3e64cc7849dcc1519c7fef1ef223d984760b49/header.jpg"
+    },
+    "name": "Minecraft Dungeons II Deluxe Upgrade",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1912410",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "78",
+    "review_score": "6",
+    "season_pass": "1",
+    "small_capsule": {
+      "english": "5ce991065a79761fe58923b208be993d58a49ac9/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1790668723",
+    "store_asset_mtime": "1789660609",
+    "store_screenshot": "d6dde427b695492ec7b36c2bcf1d49c38143a017/ss_d6dde427b695492ec7b36c2bcf1d49c38143a017.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "10": "4791",
+      "11": "5851",
+      "12": "4726",
+      "13": "1685",
+      "14": "1732",
+      "15": "4236",
+      "16": "4166",
+      "17": "5350",
+      "18": "1684",
+      "19": "4136",
+      "2": "122",
+      "3": "1720",
+      "4": "4231",
+      "5": "1646",
+      "6": "4106",
+      "7": "1773",
+      "8": "3834",
+      "9": "4305"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "ukrainian": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Mojang Studios",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "1912410",
+    "homepage": "https://www.minecraft.net/en-us/about-dungeons-ii",
+    "mustownapptopurchase": "1912410",
+    "publisher": "XBOX Game Studios"
+  }
+}

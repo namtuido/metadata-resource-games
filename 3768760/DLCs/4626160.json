@@ -1,0 +1,22 @@
+{
+  "_change_number": 39426614,
+  "_missing_token": false,
+  "_sha": "176589fb7e050c8fe2208c8a79264fbd0d7eeeaa",
+  "_size": 343,
+  "appid": "4626160",
+  "common": {
+    "gameid": "4626160",
+    "name": "007 First Light - Standard",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3768760",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3768760",
+    "mustownapptopurchase": "3768760"
+  }
+}

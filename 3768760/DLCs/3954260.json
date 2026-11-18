@@ -1,0 +1,22 @@
+{
+  "_change_number": 36124568,
+  "_missing_token": false,
+  "_sha": "7f2f1966191110e0a184cd6bd0decde05356b794",
+  "_size": 369,
+  "appid": "3954260",
+  "common": {
+    "gameid": "3954260",
+    "name": "007 First Light - Classic Tuxedo (Exclusive Outfit) ",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3768760",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3768760",
+    "mustownapptopurchase": "3768760"
+  }
+}

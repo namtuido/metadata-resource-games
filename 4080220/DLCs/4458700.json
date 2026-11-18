@@ -1,0 +1,20 @@
+{
+  "_change_number": 38709881,
+  "_missing_token": false,
+  "_sha": "3fcdb6ab91ebef30a6e7d55c903919d2d240582a",
+  "_size": 310,
+  "appid": "4458700",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4458700",
+    "name": "EA SPORTS FC 27 - Press Offer Key",
+    "parent": "4080220",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4080220",
+    "mustownapptopurchase": "4080220"
+  }
+}

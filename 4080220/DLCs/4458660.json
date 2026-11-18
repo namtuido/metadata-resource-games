@@ -1,0 +1,45 @@
+{
+  "_change_number": 37600138,
+  "_missing_token": false,
+  "_sha": "c89025c4a28436c2eabee5bf44e3c7d5687af771",
+  "_size": 2278,
+  "appid": "4458660",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4458660",
+    "name": "EA SPORTS FC™ 27 Standard Edition Pre-Purchase content",
+    "name_localized": {
+      "brazilian": "Conteúdo de pré-compra da Edição Standard do EA SPORTS FC™ 27",
+      "czech": "Přednákupní obsah EA SPORTS FC™ 27 Standard Edition",
+      "danish": "EA SPORTS FC™ 27 Standard Edition-forudkøbsindhold",
+      "dutch": "EA SPORTS FC™ 27 Standard Edition Voorverkoopcontent",
+      "english": "EA SPORTS FC™ 27 Standard Edition Pre-Purchase content",
+      "finnish": "EA SPORTS FC™ 27 Standard Edition -ennakko-ostosisältö",
+      "french": "Contenu de précommande d'EA SPORTS FC™ 27 Édition Standard",
+      "german": "EA SPORTS FC™ 27 Standard Edition-Vorabkauf-Inhalte",
+      "italian": "Contenuti per l'acquisto anticipato di EA SPORTS FC™ 27 Standard Edition",
+      "japanese": "EA SPORTS FC™ 27 Standard Edition事前購入コンテンツ",
+      "koreana": "EA SPORTS FC™ 27 Standard Edition 예약 구매 콘텐츠",
+      "latam": "Contenido de compra anticipada de EA SPORTS FC™ 27 Edición Estándar",
+      "norwegian": "Forhåndskjøpinnhold for EA SPORTS FC™ 27 Standard Edition",
+      "polish": "Zawartość przedsprzedażowa Edycji Standardowej EA SPORTS FC™ 27",
+      "portuguese": "Conteúdo de Pré-compra do EA SPORTS FC™ 27 Standard Edition",
+      "russian": "Контент предзаказа стандартного издания EA SPORTS FC™ 27",
+      "schinese": "《EA SPORTS FC™ 27》标准版预购内容",
+      "spanish": "Contenido de precompra de EA SPORTS FC™ 27 Standard Edition",
+      "swedish": "Förköpsinnehåll för EA SPORTS FC™ 27 Standard Edition",
+      "tchinese": "《EA SPORTS FC™ 27》標準版預購內容",
+      "thai": "เนื้อหาที่ได้จากการซื้อ EA SPORTS FC™ 27 Standard Edition ล่วงหน้า",
+      "turkish": "EA SPORTS FC™ 27 Standart Sürüm Ön Satın Alım içerikleri",
+      "ukrainian": "Вміст попереднього придбання стандартного видання EA SPORTS FC™ 27"
+    },
+    "parent": "4080220",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4080220",
+    "mustownapptopurchase": "4080220"
+  }
+}

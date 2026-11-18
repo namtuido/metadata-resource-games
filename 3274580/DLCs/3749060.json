@@ -1,0 +1,26 @@
+{
+  "_change_number": 32223209,
+  "_missing_token": false,
+  "_sha": "11f35f0efa8b98a46e763453fb5cbc4f7bad712a",
+  "_size": 518,
+  "appid": "3749060",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3749060",
+    "name": "Anno 117: Pax Romana – Year 1 Pass - Ubisoft activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3274580",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3274580",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3274580",
+    "proofofpurchaseticketrevision": "2"
+  }
+}

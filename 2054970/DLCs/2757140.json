@@ -1,0 +1,150 @@
+{
+  "_change_number": 36818083,
+  "_missing_token": false,
+  "_sha": "4e9d457a3626ba09814162fb9c929531e647f7c7",
+  "_size": 4485,
+  "appid": "2757140",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "CAPCOM Co., Ltd.",
+        "type": "developer"
+      },
+      "1": {
+        "name": "CAPCOM Co., Ltd.",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_18": "1",
+      "category_2": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_60": "1"
+    },
+    "content_descriptors": {
+      "0": "1",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "1",
+      "1": "5"
+    },
+    "controller_support": "partial",
+    "exfgls": "7",
+    "gameid": "2757140",
+    "genres": {
+      "0": "1",
+      "1": "3"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (D)",
+    "name_localized": {
+      "brazilian": "Dragon's Dogma 2: 1.500 Cristais da Fenda: pontos a serem usados além da fenda (D)",
+      "danish": "Dragon's Dogma 2: 1500 Rift Crystals - point, der kan bruges uden for Rift (D)",
+      "dutch": "Dragon's Dogma 2: 1500 Rift Crystals - punten om uit te geven voorbij de Rift (D)",
+      "english": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (D)",
+      "finnish": "Dragon's Dogma 2: 1 500 Rift-kristallia – Rift-valuuttaa kulutettavaksi (D)",
+      "french": "Dragon's Dogma 2: 1500 cristaux de faille - À dépenser par-delà la faille (D)",
+      "german": "Dragon's Dogma 2: 1500 Riftkristalle – Zum Ausgeben jenseits des Rifts (D)",
+      "italian": "Dragon's Dogma 2: 1500 Cristalli della Faglia - Punti da usare oltre la faglia (D)",
+      "japanese": "Dragon's Dogma 2 異界交流ポイント「1500リム」 (D)",
+      "koreana": "Dragon's Dogma 2 이계 교류 포인트 '1500림' (D)",
+      "latam": "Dragon's Dogma 2: 1500 Cristales de la fisura - Puntos para gastar más allá de la fisura (D)",
+      "norwegian": "Dragon's Dogma 2: 1500 Rift Crystals - poeng å bruke hinsides riften (D)",
+      "polish": "Dragon’s Dogma 2: 1500 kryształów Szczeliny — punkty do wydania w Szczelinie (D)",
+      "portuguese": "Dragon's Dogma 2: 1.500 Rift Crystals (pontos para gastar Beyond the Rift) (D)",
+      "russian": "Dragon's dogma 2: 1500 кристаллов Разлома (очки для использования за Разломом) (D)",
+      "schinese": "Dragon's Dogma 2 异界交流点数“1500异界石” (D)",
+      "spanish": "Dragon's Dogma 2: Cristales de la falla x1500 - Para usar más allá de la falla (D)",
+      "swedish": "Dragon’s Dogma 2: 1 500 Rift Crystals – Poäng att använda bortom revan (D)",
+      "tchinese": "Dragon's Dogma 2 異界交流點數「異界石點數×1500」 (D)",
+      "turkish": "Dragon's Dogma 2: 1.500 Yarık Kristali - Yarığın Ötesinde Harcanacak Puanlar (D)",
+      "ukrainian": "Dragon's Dogma 2: 1500 кристалів Розлому (можна витрачати в Розломі) (D)"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2054970",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1711066080",
+    "store_asset_mtime": "1709012040",
+    "store_screenshot": "ss_d794cb49b87e9d11c051e839b0d58a165106c455.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "122"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "CAPCOM Co., Ltd.",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2054970",
+    "homepage": "https://www.dragonsdogma.com/2/",
+    "mustownapptopurchase": "2054970",
+    "publisher": "CAPCOM Co., Ltd."
+  }
+}

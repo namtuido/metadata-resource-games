@@ -1,0 +1,25 @@
+{
+  "_change_number": 39179617,
+  "_missing_token": false,
+  "_sha": "0b34fecdeb2ad8299ec6c67d0cdffd3a41696786",
+  "_size": 388,
+  "appid": "4080260",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4080260",
+    "name": "EA SPORTS FC™ 27",
+    "osarch": "",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4080220",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4080220",
+    "mustownapptopurchase": "4080220"
+  }
+}

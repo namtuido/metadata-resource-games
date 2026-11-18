@@ -1,0 +1,36 @@
+{
+  "_change_number": 33772144,
+  "_missing_token": false,
+  "_sha": "f78a137969abe228ba2962d75cc45727a7738338",
+  "_size": 1586,
+  "appid": "3378760",
+  "common": {
+    "gameid": "3378760",
+    "name": "DRAGON QUEST VII Reimagined: Item Set: Gold Bracer, Seed of Magic",
+    "name_localized": {
+      "brazilian": "DRAGON QUEST VII Reimagined: Conjunto: Gold Bracer, Seed of Magic",
+      "english": "DRAGON QUEST VII Reimagined: Item Set: Gold Bracer, Seed of Magic",
+      "french": "DRAGON QUEST VII Reimagined: Pack d'objets : brassard d'or, graine de Magie",
+      "german": "DRAGON QUEST VII Reimagined: Gegenstände-Set: Goldarmschiene, Magiesamen",
+      "italian": "DRAGON QUEST VII Reimagined: Set di oggetti: bracciale d'oro, seme della magia",
+      "japanese": "ドラゴンクエストVII Reimagined - アイテムセット：きんのブレスレット、ふしぎなきのみ",
+      "koreana": "드래곤 퀘스트 VII Reimagined - 아이템 세트: 골드 브레이슬릿, 신비한 나무 열매",
+      "latam": "DRAGON QUEST VII Reimagined: Set de objetos: Brazalete de oro, Simiente de magia",
+      "russian": "DRAGON QUEST VII Reimagined: Набор предметов: Gold Bracer, Seed of Magic",
+      "schinese": "勇者斗恶龙 VII Reimagined - 道具套装：金手镯、魔力果实",
+      "spanish": "DRAGON QUEST VII Reimagined: Conjunto de objetos: brazalete de oro, simiente de magia",
+      "tchinese": "勇者鬥惡龍 VII Reimagined - 道具套組：金手鐲、神奇果實"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2499860",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2499860",
+    "mustownapptopurchase": "2499860"
+  }
+}

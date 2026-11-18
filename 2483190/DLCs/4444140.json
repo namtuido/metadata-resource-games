@@ -1,0 +1,20 @@
+{
+  "_change_number": 35083975,
+  "_missing_token": false,
+  "_sha": "ee34707e34bfa7617d0c20d16aadab46e56c5029",
+  "_size": 298,
+  "appid": "4444140",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4444140",
+    "name": "Forza Horizon 6 TBDS2",
+    "parent": "2483190",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2483190",
+    "mustownapptopurchase": "2483190"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "_change_number": 32696506,
+  "_missing_token": false,
+  "_sha": "ba644113382df5a1fec3e3bfb8abedc42e508e82",
+  "_size": 3090,
+  "appid": "3515610",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "FromSoftware, Inc.",
+        "type": "developer"
+      },
+      "1": {
+        "name": "FromSoftware, Inc.",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Bandai Namco Entertainment",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_38": "1",
+      "category_60": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "partial",
+    "gameid": "3515610",
+    "genres": {
+      "0": "1",
+      "1": "3"
+    },
+    "header_image": {
+      "english": "4e027e036342a2b56e84ddb2e7dd9f51a03551d5/header.jpg"
+    },
+    "name": "ELDEN RING NIGHTREIGN - Deluxe Upgrade Pack",
+    "name_localized": {},
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2622380",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "85",
+    "review_score": "8",
+    "small_capsule": {
+      "english": "a6ab221829dc59c7014353dfde0004e2dfd48575/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1748556000",
+    "store_asset_mtime": "1763126587",
+    "store_screenshot": "c50516d173a513f0fd7c567c4360c9552f4eaef6/ss_c50516d173a513f0fd7c567c4360c9552f4eaef6.jpg",
+    "store_tags": {
+      "0": "3843",
+      "1": "29482",
+      "10": "3959",
+      "11": "4231",
+      "12": "4667",
+      "13": "1695",
+      "14": "4342",
+      "15": "12095",
+      "16": "1662",
+      "17": "4191",
+      "18": "3854",
+      "19": "1742",
+      "2": "4182",
+      "3": "3859",
+      "4": "1716",
+      "5": "19",
+      "6": "122",
+      "7": "1685",
+      "8": "1697",
+      "9": "6730"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "FromSoftware, Inc.",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2622380",
+    "mustownapptopurchase": "2622380",
+    "publisher": "FromSoftware, Inc."
+  }
+}

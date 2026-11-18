@@ -1,0 +1,59 @@
+{
+  "_change_number": 39109962,
+  "_missing_token": false,
+  "_sha": "848b9f00e9621245ed05e668a64b69c072ecfb60",
+  "_size": 2681,
+  "appid": "4458680",
+  "common": {
+    "associations": {},
+    "category": {},
+    "exfgls": "9",
+    "gameid": "4458680",
+    "header_image": {
+      "english": "b5ad7f1221cd4757b530c600ddfa7324fceb3e37/header.jpg"
+    },
+    "name": "EA SPORTS FC™ 27 Ultimate Edition Pre-Purchase content",
+    "name_localized": {
+      "brazilian": "Conteúdo de pré-compra da Edição Ultimate do EA SPORTS FC™ 27",
+      "czech": "Přednákupní obsah EA SPORTS FC™ 27 Ultimate Edition",
+      "danish": "EA SPORTS FC™ 27 Ultimate Edition-forudkøbsindhold",
+      "dutch": "EA SPORTS FC™ 27 Ultimate Edition Voorverkoopcontent",
+      "english": "EA SPORTS FC™ 27 Ultimate Edition Pre-Purchase content",
+      "finnish": "EA SPORTS FC™ 27 Ultimate Edition -ennakko-ostosisältö",
+      "french": "Contenu de précommande d'EA SPORTS FC™ 27 Édition Ultimate",
+      "german": "EA SPORTS FC™ 27 Ultimate Edition-Vorabkauf-Inhalte",
+      "italian": "Contenuti per l'acquisto anticipato di EA SPORTS FC™ 27 Ultimate Edition",
+      "japanese": "EA SPORTS FC™ 27 Ultimate Edition 事前購入コンテンツ",
+      "koreana": "EA SPORTS FC™ 27 Ultimate Edition 예약 구매 콘텐츠",
+      "latam": "Contenido de compra anticipada de EA SPORTS FC™ 27 Ultimate Edition",
+      "norwegian": "Forhåndskjøpinnhold for EA SPORTS FC™ 27 Ultimate Edition",
+      "polish": "Zawartość przedsprzedażowa Edycji Ultimate EA SPORTS FC™ 27",
+      "portuguese": "Conteúdo de Pré-compra do EA SPORTS FC™ 27 Ultimate Edition",
+      "russian": "Контент предварительной покупки EA SPORTS FC™ 27 издание Ultimate",
+      "schinese": "《EA SPORTS FC™ 27》终极版预购内容",
+      "spanish": "Contenido de precompra de EA SPORTS FC™ 27 Ultimate Edition",
+      "swedish": "Förköpsinnehåll för EA SPORTS FC™ 27 Ultimate Edition",
+      "tchinese": "《EA SPORTS FC™ 27》終極版預購內容",
+      "thai": "เนื้อหาที่ได้จากการซื้อ EA SPORTS FC™ 27 Ultimate Edition ล่วงหน้า",
+      "turkish": "EA SPORTS FC™ 27 Ultimate Sürüm Ön Satın Alım içerikleri",
+      "ukrainian": "Вміст попереднього придбання видання Ultimate EA SPORTS FC™ 27"
+    },
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4080220",
+    "primary_genre": "0",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "4cfb5485a4ea8147749763b212db85a62bb4809d/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1783968066",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4080220",
+    "homepage": "https://store.steampowered.com/app/4080220",
+    "mustownapptopurchase": "4080220"
+  }
+}

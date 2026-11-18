@@ -1,0 +1,20 @@
+{
+  "_change_number": 31025298,
+  "_missing_token": false,
+  "_sha": "0b0f9a0f8bec4570de9b6ed97183c9bf0e5121e8",
+  "_size": 310,
+  "appid": "3405720",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3405720",
+    "name": "EA SPORTS FC 26 - Press Offer Key",
+    "parent": "3405690",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3405690",
+    "mustownapptopurchase": "3405690"
+  }
+}

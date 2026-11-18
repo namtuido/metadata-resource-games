@@ -1,0 +1,20 @@
+{
+  "_change_number": 37949293,
+  "_missing_token": false,
+  "_sha": "f3cf7d65bd81297a70f4779fe0a2f87d22dfe10c",
+  "_size": 310,
+  "appid": "4115160",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4115160",
+    "name": "Madden NFL 27 - EA Play Trial Key",
+    "parent": "3940610",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3940610",
+    "mustownapptopurchase": "3940610"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "_change_number": 40843857,
+  "_missing_token": false,
+  "_sha": "f536cb2492e1d32530f14abe5620d1958222a4fd",
+  "_size": 4356,
+  "appid": "4515770",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Frontier Developments",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Frontier Developments",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_61": "1",
+      "category_62": "1",
+      "category_64": "1",
+      "category_66": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1",
+      "category_79": "1",
+      "category_80": "1"
+    },
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "gameid": "4515770",
+    "genres": {
+      "0": "28",
+      "1": "2"
+    },
+    "header_image": {
+      "english": "d40d43be39a003a82f87d28fb7df040a452ffbea/header.jpg",
+      "japanese": "c917cb42f169b374e75083ee03f09653a053acd9/header_japanese.jpg",
+      "koreana": "6d19813f15f162bc8f299351a045dd809e28a7be/header_koreana.jpg",
+      "schinese": "a2b9b26cd82e00ed61ef3dab9c4b8452beb56224/header_schinese.jpg",
+      "tchinese": "ed68c89815fed0c82c07c0176db8e42ac6cf4e23/header_tchinese.jpg"
+    },
+    "name": "Planet Zoo 2: Bonus Content Pack",
+    "name_localized": {
+      "japanese": "プラネット ズー 2: ボーナスコンテンツパック",
+      "koreana": "플래닛 주 2: 보너스 콘텐츠 팩",
+      "schinese": "《动物园之星 2》奖励内容包",
+      "tchinese": "「動物園之星 2：獎勵內容套件」"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3219030",
+    "primary_genre": "28",
+    "releasestate": "released",
+    "review_percentage": "45",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "b258e4855653c096940a228c49107be4ea32c493/capsule_231x87.jpg",
+      "japanese": "7fc9c897d997160dec373b13b062dc97454dad48/capsule_231x87_japanese.jpg",
+      "koreana": "5cd2ded18cfc0c704ceeb0a64dd89ef2f5d0ca74/capsule_231x87_koreana.jpg",
+      "schinese": "325c858ad6177a1381d47b18c87b96923d2be2e9/capsule_231x87_schinese.jpg",
+      "tchinese": "8921d8c253bf34ecf3ed6143e74061c5b9a136e5/capsule_231x87_tchinese.jpg"
+    },
+    "steam_release_date": "1791900140",
+    "store_asset_mtime": "1788862038",
+    "store_screenshot": "3e6033af61b190ae41b5af8020ad87ff8fb15ba9/ss_3e6033af61b190ae41b5af8020ad87ff8fb15ba9.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "9",
+      "10": "4695",
+      "11": "5350",
+      "12": "9626",
+      "13": "30358",
+      "14": "1654",
+      "15": "4136",
+      "16": "3859",
+      "17": "1695",
+      "18": "4182",
+      "19": "8945",
+      "2": "597",
+      "3": "3810",
+      "4": "4328",
+      "5": "1643",
+      "6": "4726",
+      "7": "4175",
+      "8": "12472",
+      "9": "46348"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "danish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Frontier Developments",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3219030",
+    "homepage": "https://www.planetzoogame.com/",
+    "mustownapptopurchase": "3219030",
+    "publisher": "Frontier Developments"
+  }
+}

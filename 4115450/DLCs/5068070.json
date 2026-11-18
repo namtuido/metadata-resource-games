@@ -1,0 +1,50 @@
+{
+  "_change_number": 40363070,
+  "_missing_token": false,
+  "_sha": "cd582ce5625f6b8166e5a971f6c4e355cf55ea06",
+  "_size": 882,
+  "appid": "5068070",
+  "common": {
+    "clienticon": "b7e14996aeb76d09dda5d21df983cff8c73de077",
+    "gameid": "5068070",
+    "icon": "b7e14996aeb76d09dda5d21df983cff8c73de077",
+    "name": "Phantom Blade Zero Pre-Purchase Bonus",
+    "name_localized": {
+      "schinese": "影之刃零预购奖励"
+    },
+    "osarch": "",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4115450",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "4231",
+      "1": "6915",
+      "10": "4182",
+      "11": "4145",
+      "12": "3993",
+      "13": "3854",
+      "14": "1734",
+      "15": "4667",
+      "16": "4191",
+      "17": "6971",
+      "18": "97070",
+      "19": "4166",
+      "2": "19",
+      "3": "4604",
+      "4": "25959",
+      "5": "29482",
+      "6": "1697",
+      "7": "1646",
+      "8": "1742",
+      "9": "122"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4115450",
+    "mustownapptopurchase": "4115450"
+  }
+}

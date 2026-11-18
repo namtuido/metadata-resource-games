@@ -1,0 +1,27 @@
+{
+  "_change_number": 30906613,
+  "_missing_token": false,
+  "_sha": "faaefc14d216ccd2451bf2b3e49b425b13c53279",
+  "_size": 531,
+  "appid": "3159340",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3159340",
+    "name": "Assassin's Creed Shadows - Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3159330",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3159330",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3159330",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

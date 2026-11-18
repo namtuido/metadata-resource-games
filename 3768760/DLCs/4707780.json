@@ -1,0 +1,22 @@
+{
+  "_change_number": 36124568,
+  "_missing_token": false,
+  "_sha": "cbec069a5c978013507e9c076aafba7917200eed",
+  "_size": 342,
+  "appid": "4707780",
+  "common": {
+    "gameid": "4707780",
+    "name": "007 First Light - 00 Pack",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3768760",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3768760",
+    "mustownapptopurchase": "3768760"
+  }
+}

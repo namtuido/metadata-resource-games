@@ -1,0 +1,22 @@
+{
+  "_change_number": 30316240,
+  "_missing_token": false,
+  "_sha": "7b3269b21a4f291fd1347e12380cf0791b82b35a",
+  "_size": 408,
+  "appid": "3875910",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3875910",
+    "name": "Anno 117 - Closed Beta Ubisoft Activation",
+    "parent": "3274580",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3274580",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

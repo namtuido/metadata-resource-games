@@ -1,0 +1,28 @@
+{
+  "_change_number": 39109962,
+  "_missing_token": false,
+  "_sha": "57a92bac464cde9f818afd7ffce59d25c22a6db1",
+  "_size": 568,
+  "appid": "3874290",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3874290",
+    "name": "Anno 117: Pax Romana - Echoes of Kassandra Pack Ubisoft Activation",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3274580",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3274580",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3274580",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

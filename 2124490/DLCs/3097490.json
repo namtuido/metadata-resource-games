@@ -1,0 +1,23 @@
+{
+  "_change_number": 25579605,
+  "_missing_token": false,
+  "_sha": "082c0d99a2f4b5b2c17611221baa3b0519863c22",
+  "_size": 335,
+  "appid": "3097490",
+  "common": {
+    "gameid": "3097490",
+    "name": "SILENT HILL 2 - Mira Mask",
+    "parent": "2124490",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2124490",
+    "mustownapptopurchase": "2124490"
+  }
+}

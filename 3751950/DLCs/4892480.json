@@ -1,0 +1,27 @@
+{
+  "_change_number": 37063091,
+  "_missing_token": false,
+  "_sha": "ad6ff4509bc267b4a57cd0e1872d03dff3bac831",
+  "_size": 568,
+  "appid": "4892480",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4892480",
+    "name": "Assassin's Creed Black Flag Resynced - Deluxe Edition - PREVIEW - Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3751950",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3751950",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3751950",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

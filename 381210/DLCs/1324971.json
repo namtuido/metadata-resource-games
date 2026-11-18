@@ -1,0 +1,141 @@
+{
+  "_change_number": 33023302,
+  "_missing_token": true,
+  "_sha": "1fb2b14d353551847ebe2eb1d099eaca8a86dd6d",
+  "_size": 2574,
+  "appid": "1324971",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Behaviour Interactive Inc.",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_33": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_43": "1",
+      "category_49": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "gameid": "1324971",
+    "genres": {
+      "0": "1"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "Dead by Daylight - Silent Hill Cosmetic Pack",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "381210",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "80",
+    "review_score": "7",
+    "section_type": "ownersonly",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1600452796",
+    "store_screenshot": "ss_be460dfacff090ac6783a97c85defd357fc3d7a4.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "4345",
+      "2": "4667"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

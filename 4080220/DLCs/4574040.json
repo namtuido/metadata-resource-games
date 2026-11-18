@@ -1,0 +1,59 @@
+{
+  "_change_number": 39109962,
+  "_missing_token": false,
+  "_sha": "bfe96c080c96c1ba25992622f0238526944bc500",
+  "_size": 2345,
+  "appid": "4574040",
+  "common": {
+    "associations": {},
+    "category": {},
+    "exfgls": "9",
+    "gameid": "4574040",
+    "header_image": {
+      "english": "0de85e9210e4c763f660e845c0fa956dfea0b9f6/header.jpg"
+    },
+    "name": "EA SPORTS FC™ 27 Ultimate Plus Edition content",
+    "name_localized": {
+      "brazilian": "Conteúdo da Edição Ultimate Plus do EA SPORTS FC™ 27",
+      "czech": "Obsah EA SPORTS FC™ 27 Ultimate Plus Edition",
+      "danish": "EA SPORTS FC™ 27 Ultimate Plus Edition-indhold",
+      "dutch": "EA SPORTS FC™ 27 Ultimate Plus Edition content",
+      "english": "EA SPORTS FC™ 27 Ultimate Plus Edition content",
+      "finnish": "EA SPORTS FC™ 27 Ultimate Plus Edition -sisältö",
+      "french": "Contenu d'EA SPORTS FC™ 27 Édition Ultimate Plus",
+      "german": "EA SPORTS FC™ 27 Ultimate Plus Edition-Inhalte",
+      "italian": "Contenuti EA SPORTS FC™ 27 Ultimate Plus Edition",
+      "japanese": "EA SPORTS FC™ 27 Ultimate Plus Editionコンテンツ",
+      "koreana": "EA SPORTS FC™ 27 Ultimate Plus Edition 콘텐츠",
+      "latam": "Contenido de EA SPORTS FC™ 27 Ultimate Plus Edition",
+      "norwegian": "EA SPORTS FC™ 27 Ultimate Plus Edition-innhold",
+      "polish": "Zawartość Edycji Ultimate Plus EA SPORTS FC™ 27",
+      "portuguese": "Conteúdo EA SPORTS FC™ 27 Ultimate Plus Edition",
+      "russian": "Контент EA SPORTS FC™ 27 издание Ultimate Plus",
+      "schinese": "《EA SPORTS FC™ 27》终极加强版内容",
+      "spanish": "Contenido de EA SPORTS FC™ 27 Ultimate Plus Edition",
+      "swedish": "EA SPORTS FC™ 27 Ultimate Plus Edition-innehåll",
+      "tchinese": "《EA SPORTS FC™ 27》終極加強版內容",
+      "thai": "คอนเทนต์ใน EA SPORTS FC™ 27 Ultimate Plus Edition",
+      "turkish": "EA SPORTS FC™ 27 Ultimate Plus Sürüm içeriği",
+      "ukrainian": "Вміст видання Ultimate Plus EA SPORTS FC™ 27"
+    },
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4080220",
+    "primary_genre": "0",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "7fa366e291030b2754753507d79db3747d8f38f0/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1783966964",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4080220",
+    "homepage": "https://store.steampowered.com/app/4080220",
+    "mustownapptopurchase": "4080220"
+  }
+}

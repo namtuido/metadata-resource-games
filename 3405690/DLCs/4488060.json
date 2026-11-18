@@ -1,0 +1,201 @@
+{
+  "_change_number": 36337707,
+  "_missing_token": false,
+  "_sha": "b5dfcb62322d08056c0a43b7089caa9f04dc57a9",
+  "_size": 5068,
+  "appid": "4488060",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "EA Canada",
+        "type": "developer"
+      },
+      "1": {
+        "name": "EA Romania",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_24": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_61": "1",
+      "category_65": "1",
+      "category_69": "1",
+      "category_72": "1",
+      "category_75": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "controller_support": "full",
+    "exfgls": "9",
+    "gameid": "4488060",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "248f8a19ef7f829c155af7df6bc0cf7864c9daa7/header.jpg"
+    },
+    "name": "EA SPORTS FC™ 26 - The World's Game Edition Catch-Up Pack",
+    "name_localized": {
+      "brazilian": "Cont. Edição The World’s Game do EA SPORTS FC™ 26",
+      "czech": "Obsah EA SPORTS FC™ 26 The World's Game Edition",
+      "danish": "EA SPORTS FC™ 26 The World's Game Edition-indhold",
+      "dutch": "EA SPORTS FC™ 26 The World's Game Edition content",
+      "english": "EA SPORTS FC™ 26 The World's Game Edition content",
+      "finnish": "EA SPORTS FC™ 26 The World’s Game Edition -sisältö",
+      "french": "Contenu EA SPORTS FC™ 26 Édition The World's Game",
+      "german": "EA SPORTS FC™ 26 The World's Game Edition-Inhalte",
+      "italian": "Contenuti EA SPORTS FC™ 26 The World's Game Edition",
+      "japanese": "「EA SPORTS FC™ 26」The World's Game Edition コンテンツ",
+      "koreana": "EA SPORTS FC™ 26 The World's Game Edition 콘텐츠",
+      "latam": "Contenido de EA SPORTS FC™ 26 The World's Game Edition",
+      "norwegian": "EA SPORTS FC™ 26 The World's Game Edition-innhold",
+      "polish": "Zawartość Edycji The World's Game EA SPORTS FC™ 26",
+      "portuguese": "Conteúdo EA SPORTS FC™ 26 The World's Game Edition",
+      "russian": "Контент EA SPORTS FC™ 26 издание The World’s Game",
+      "schinese": "《EA SPORTS FC™ 26》The World's Game 版内容",
+      "spanish": "Contenido de EA SPORTS FC™ 26 The World's Game Edition",
+      "swedish": "EA SPORTS FC™ 26 The World's Game Edition-innehåll",
+      "tchinese": "《EA SPORTS FC™ 26》The World’s Game 版內容",
+      "thai": "เนื้อหา EA SPORTS FC™ 26 The World's Game Edition",
+      "turkish": "EA SPORTS FC™ 26 Dünyanın Oyunu Sürümü içerikleri",
+      "ukrainian": "Вміст видання The World's Game EA SPORTS FC™ 26"
+    },
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3405690",
+    "primary_genre": "28",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "8c7e5fb1d3c674f26b69f2e3e55c50163ab481ff/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1778882710",
+    "store_tags": {
+      "0": "599",
+      "1": "701"
+    },
+    "supported_languages": {
+      "arabic": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "danish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "norwegian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "developer": "EA Canada",
+    "dlcforappid": "3405690",
+    "homepage": "https://store.steampowered.com/app/3405690",
+    "mustownapptopurchase": "3405690"
+  }
+}

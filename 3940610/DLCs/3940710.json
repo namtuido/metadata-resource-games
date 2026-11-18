@@ -1,0 +1,23 @@
+{
+  "_change_number": 38135326,
+  "_missing_token": false,
+  "_sha": "d35d711237a6da249dc858e679d44637cd25cd42",
+  "_size": 359,
+  "appid": "3940710",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3940710",
+    "name": "EA SPORTS™ Madden NFL 27",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3940610",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3940610",
+    "mustownapptopurchase": "3940610"
+  }
+}

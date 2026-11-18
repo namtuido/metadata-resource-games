@@ -1,0 +1,22 @@
+{
+  "_change_number": 36124568,
+  "_missing_token": false,
+  "_sha": "d93d601dbcc6c92474b54dfcdfeb8f96c31ca067",
+  "_size": 367,
+  "appid": "3954250",
+  "common": {
+    "gameid": "3954250",
+    "name": "007 First Light - Obsidian Suit (Exclusive Outfit)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3768760",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3768760",
+    "mustownapptopurchase": "3768760"
+  }
+}

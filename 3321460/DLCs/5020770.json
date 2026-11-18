@@ -1,0 +1,45 @@
+{
+  "_change_number": 40401938,
+  "_missing_token": false,
+  "_sha": "802ebe74a629a315f1a6c5221c8c556b95a8163c",
+  "_size": 760,
+  "appid": "5020770",
+  "common": {
+    "gameid": "5020770",
+    "name": "Crimson Desert Enhanced: Charting the Unknown Pre-order Pack",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "macosapplesilicon,macosnotarized",
+    "oslist": "windows,macos",
+    "parent": "3321460",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "1695",
+      "1": "4182",
+      "10": "1697",
+      "11": "4046",
+      "12": "4486",
+      "13": "1742",
+      "14": "6041",
+      "15": "6730",
+      "16": "4191",
+      "17": "7926",
+      "18": "4345",
+      "19": "29482",
+      "2": "19",
+      "3": "3834",
+      "4": "21",
+      "5": "3993",
+      "6": "1684",
+      "7": "4172",
+      "8": "122",
+      "9": "4106"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3321460",
+    "mustownapptopurchase": "3321460"
+  }
+}

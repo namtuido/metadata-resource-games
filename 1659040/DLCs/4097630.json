@@ -1,0 +1,181 @@
+{
+  "_change_number": 39223540,
+  "_missing_token": false,
+  "_sha": "f0d99eef4bcf184246c415ca8e12ccd48db3d50e",
+  "_size": 3726,
+  "appid": "4097630",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "IO Interactive A/S",
+        "type": "developer"
+      },
+      "1": {
+        "name": "IO Interactive A/S",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "HITMAN",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_52": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_65": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "gameid": "4097630",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "92be67797bd4ae69e01575f9cb769c9554d6393b/header.jpg"
+    },
+    "library_assets": {
+      "library_capsule": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en"
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "603a74fb20a597872f1c304be817e196ae4bbda9/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "603a74fb20a597872f1c304be817e196ae4bbda9/library_capsule_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "e86b22f2f4c2097af57e12612a0b27df20eed86a/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "e86b22f2f4c2097af57e12612a0b27df20eed86a/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "e86b22f2f4c2097af57e12612a0b27df20eed86a/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "70af7d18bf1b21087ca24d5af4c1cb9b39a3de59/logo.png"
+        },
+        "image2x": {
+          "english": "70af7d18bf1b21087ca24d5af4c1cb9b39a3de59/logo_2x.png"
+        }
+      }
+    },
+    "name": "HITMAN WOA - The Eminem vs. Slim Shady Pack",
+    "osarch": "64",
+    "osextended": "macosapplesilicon",
+    "oslist": "windows,macos",
+    "parent": "1659040",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "79",
+    "review_score": "6",
+    "small_capsule": {
+      "english": "d07e252becf676c1f8fed7076a50bd8b18de9719/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1764583134",
+    "store_asset_mtime": "1785853016",
+    "store_tags": {
+      "0": "1687",
+      "1": "97070",
+      "10": "3814",
+      "11": "21",
+      "12": "4175",
+      "13": "1695",
+      "14": "1664",
+      "15": "4145",
+      "16": "4345",
+      "17": "4136",
+      "18": "9204",
+      "19": "4845",
+      "2": "19",
+      "3": "4182",
+      "4": "21978",
+      "5": "3810",
+      "6": "4667",
+      "7": "1774",
+      "8": "3859",
+      "9": "1697"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "IO Interactive A/S",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "1659040",
+    "homepage": "https://hitman.com/",
+    "mustownapptopurchase": "1659040",
+    "publisher": "IO Interactive A/S"
+  }
+}

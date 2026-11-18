@@ -1,0 +1,23 @@
+{
+  "_change_number": 37230442,
+  "_missing_token": false,
+  "_sha": "23dd683d5908cd60bb8fae1c8848aef9997188fa",
+  "_size": 490,
+  "appid": "4496630",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4496630",
+    "name": "Assassin's Creed Black Flag Resynced - Dragon Storm Character Pack - Ubisoft Activation",
+    "parent": "3751950",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3751950",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3751950",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

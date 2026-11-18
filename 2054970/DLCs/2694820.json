@@ -1,0 +1,147 @@
+{
+  "_change_number": 36818094,
+  "_missing_token": false,
+  "_sha": "cf258bbe55fbe7abb5c6b4fa7d6fe19a165bba9a",
+  "_size": 4117,
+  "appid": "2694820",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "CAPCOM Co., Ltd.",
+        "type": "developer"
+      },
+      "1": {
+        "name": "CAPCOM Co., Ltd.",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_18": "1",
+      "category_2": "1"
+    },
+    "content_descriptors": {
+      "0": "1",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "1",
+      "1": "5"
+    },
+    "controller_support": "partial",
+    "exfgls": "7",
+    "gameid": "2694820",
+    "genres": {
+      "0": "1",
+      "1": "3"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (B)",
+    "name_localized": {
+      "brazilian": "Dragon's Dogma 2: Vitalita: traz mortos de volta à vida (B)",
+      "danish": "Dragon's Dogma 2: Wakestone - Væk de døde til live (B)",
+      "dutch": "Dragon's Dogma 2: Wakestone - Breng de doden weer tot leven (B)",
+      "english": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (B)",
+      "finnish": "Dragon's Dogma 2: Wakestone – herätä kuolleet henkiin (B)",
+      "french": "Dragon's Dogma 2: Pierre de Réveil - Rappelle les morts à la vie (B)",
+      "german": "Dragon's Dogma 2: Lazarusstein – Erwecke die Toten wieder zum Leben (B)",
+      "italian": "Dragon's Dogma 2: Cuore di Drago - Riporta in vita i caduti (B)",
+      "japanese": "Dragon's Dogma 2 蘇生アイテム「竜の鼓動」 (B)",
+      "koreana": "Dragon's Dogma 2 부활 아이템 '용의 고동' (B)",
+      "latam": "Dragon's Dogma 2: Piedra del despertar - Devuelve la vida a los muertos (B)",
+      "norwegian": "Dragon's Dogma 2: Wakestone – Gi de døde livet tilbake (B)",
+      "polish": "Dragon’s Dogma 2: Kamień przebudzenia — przywracanie życia umarłym (B)",
+      "portuguese": "Dragon's Dogma 2: Wakestone - Ressuscita os mortos (B)",
+      "russian": "Dragon's dogma 2: Камень пробуждения (возвращает павшего к жизни) (B)",
+      "schinese": "Dragon's Dogma 2 复活道具“龙之脉动” (B)",
+      "spanish": "Dragon's Dogma 2: Piedra del despertar - Devuelve la vida a los muertos (B)",
+      "swedish": "Dragon's Dogma 2: Wakestone – Återuppliva de döda (B)",
+      "tchinese": "Dragon's Dogma 2 復活道具「龍之鼓動」 (B)",
+      "turkish": "Dragon's Dogma 2: Uyandırma Taşı - Ölüleri Hayata Döndür (B)",
+      "ukrainian": "Dragon's Dogma 2: «Камінь пробудження» (повертає померлих до життя) (B)"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2054970",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1711066080",
+    "store_asset_mtime": "1709011972",
+    "store_screenshot": "ss_5a86ae7d2a2731cf2e5b6332134cad31fac56ee9.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "122"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "CAPCOM Co., Ltd.",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2054970",
+    "homepage": "https://www.dragonsdogma.com/2/",
+    "mustownapptopurchase": "2054970",
+    "publisher": "CAPCOM Co., Ltd."
+  }
+}

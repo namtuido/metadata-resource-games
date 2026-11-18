@@ -1,0 +1,19 @@
+{
+  "_change_number": 31324137,
+  "_missing_token": false,
+  "_sha": "34c74a582e095f2ab7bb5a28a3d2851b0fd662fa",
+  "_size": 286,
+  "appid": "3282170",
+  "common": {
+    "gameid": "3282170",
+    "name": "SILENT HILL f - Item Pack",
+    "parent": "2947440",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2947440",
+    "mustownapptopurchase": "2947440"
+  }
+}

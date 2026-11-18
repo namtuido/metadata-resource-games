@@ -1,0 +1,30 @@
+{
+  "_change_number": 40136800,
+  "_missing_token": false,
+  "_sha": "b7ea2dd0afc2eec00d516020b99fa317be4b7515",
+  "_size": 790,
+  "appid": "3635880",
+  "common": {
+    "gameid": "3635880",
+    "name": "ACE COMBAT ZERO: THE BELKAN WAR (Steam Version)",
+    "name_localized": {
+      "brazilian": "ACE COMBAT ZERO: THE BELKAN WAR (Versão de Steam)",
+      "japanese": "ACE COMBAT ZERO: THE BELKAN WAR(Steam移植版)",
+      "koreana": "ACE COMBAT ZERO: THE BELKAN WAR(Steam 이식판)",
+      "latam": "ACE COMBAT ZERO: THE BELKAN WAR (versión para Steam)",
+      "schinese": "ACE COMBAT ZERO: THE BELKAN WAR(Steam移植版)",
+      "tchinese": "ACE COMBAT ZERO: THE BELKAN WAR(Steam移植版)"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2288340",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2288340",
+    "mustownapptopurchase": "2288340"
+  }
+}

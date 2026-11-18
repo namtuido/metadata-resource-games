@@ -1,0 +1,19 @@
+{
+  "_change_number": 31324137,
+  "_missing_token": false,
+  "_sha": "5fa2ffb048766442b4453ef416a624b3b1deb678",
+  "_size": 291,
+  "appid": "3282190",
+  "common": {
+    "gameid": "3282190",
+    "name": "SILENT HILL f - Omamori: Peony",
+    "parent": "2947440",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2947440",
+    "mustownapptopurchase": "2947440"
+  }
+}

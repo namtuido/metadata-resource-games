@@ -1,0 +1,27 @@
+{
+  "_change_number": 32203073,
+  "_missing_token": false,
+  "_sha": "e6875e4b89cfc27611c84ab143b039724ee1f760",
+  "_size": 567,
+  "appid": "3362610",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3362610",
+    "name": "Assassin's Creed Shadows - Standard Edition - WW Prepurchase - Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3159330",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3159330",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3159330",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

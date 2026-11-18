@@ -1,0 +1,28 @@
+{
+  "_change_number": 29701803,
+  "_missing_token": false,
+  "_sha": "fc91683bde1720bef808c70b8bf0649f315dd0d7",
+  "_size": 795,
+  "appid": "3279950",
+  "common": {
+    "gameid": "3279950",
+    "name": "DRAGON BALL Z: KAKAROT - DAIMA - Adventure Through The Demon Realm Pack Bonus",
+    "name_localized": {
+      "japanese": "ドラゴンボールZ KAKAROT　-DAIMA- 魔界の大冒険！ パック購入特典",
+      "koreana": "드래곤볼 Z 카카로트: -DAIMA- 마계 대모험! 팩 구매 특전",
+      "schinese": "七龙珠Z 卡卡洛特 –DAIMA–魔界大冒险！组合包购买特典",
+      "tchinese": "七龍珠Z 卡卡洛特 –DAIMA–魔界大冒險！組合包購買特典"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "851850",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "851850",
+    "mustownapptopurchase": "851850"
+  }
+}

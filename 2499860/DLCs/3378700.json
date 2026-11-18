@@ -1,0 +1,36 @@
+{
+  "_change_number": 33772144,
+  "_missing_token": false,
+  "_sha": "7a00a5e360d97de6ba09b10f421ba7bdba8bffda",
+  "_size": 1688,
+  "appid": "3378700",
+  "common": {
+    "gameid": "3378700",
+    "name": "DRAGON QUEST VII Reimagined: Early Bird Bonus: Trodain Togs, Seed of Proficiency x3",
+    "name_localized": {
+      "brazilian": "DRAGON QUEST VII Reimagined: Bônus de compra antecipada: Trodain Togs, Seed of Proficiency x3",
+      "english": "DRAGON QUEST VII Reimagined: Early Bird Bonus: Trodain Togs, Seed of Proficiency x3",
+      "french": "DRAGON QUEST VII Reimagined: Bonus premiers acheteurs : tenue de Trodain, graine de Pratique x3",
+      "german": "DRAGON QUEST VII Reimagined: Early Bird Bonus: Trodain-Tracht, Kompetenzsamen x3",
+      "italian": "DRAGON QUEST VII Reimagined: Bonus per i primi acquirenti: abito di Trodain, 3 semi della competenza",
+      "japanese": "ドラゴンクエストVII Reimagined - トロデーンの服、熟練のたね×3",
+      "koreana": "드래곤 퀘스트 VII Reimagined - 트로덴의 옷, 숙련의 씨앗×3",
+      "latam": "DRAGON QUEST VII Reimagined: Bono por compra anticipada: Traje de Trodain, simientes de desempeño x 3",
+      "russian": "DRAGON QUEST VII Reimagined: Премия ранним пташкам: Trodain Togs, Seed of Proficiency x3",
+      "schinese": "勇者斗恶龙 VII Reimagined - 托罗丹衣服、熟练种子×3",
+      "spanish": "DRAGON QUEST VII Reimagined: Bonificación de anticipación: ropajes trodianos, simientes de dominio x3",
+      "tchinese": "勇者鬥惡龍 VII Reimagined - 托羅丹衣服、熟練種子×3"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2499860",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2499860",
+    "mustownapptopurchase": "2499860"
+  }
+}

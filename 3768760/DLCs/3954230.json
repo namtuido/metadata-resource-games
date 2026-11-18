@@ -1,0 +1,22 @@
+{
+  "_change_number": 36124568,
+  "_missing_token": false,
+  "_sha": "31239a0094f36bc1a1835e8d5ffae7ac119e7e8f",
+  "_size": 359,
+  "appid": "3954230",
+  "common": {
+    "gameid": "3954230",
+    "name": "007 First Light - Golden Gun (Weapon Skin)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3768760",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3768760",
+    "mustownapptopurchase": "3768760"
+  }
+}

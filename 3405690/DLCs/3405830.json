@@ -1,0 +1,21 @@
+{
+  "_change_number": 36790854,
+  "_missing_token": false,
+  "_sha": "66aa0d4bb9263ee3a3e38319ec19ab6b78aace01",
+  "_size": 354,
+  "appid": "3405830",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3405830",
+    "mastersubs_granting_app": "1289670",
+    "name": "EA SPORTS FC 26 - Standard Edition Key",
+    "parent": "3405690",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3405690",
+    "mustownapptopurchase": "3405690"
+  }
+}
