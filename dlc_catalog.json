@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794979065,
+  "updated_at": 1794979719,
   "total_games": 65,
   "total_dlcs": 817,
   "games": {
@@ -978,24 +978,24 @@
     },
     "336880": {
       "appid": "336880",
-      "name": "",
-      "image": "",
+      "name": "AppID 336880",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/336880/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
     },
     "344610": {
       "appid": "344610",
-      "name": "",
-      "image": "",
+      "name": "AppID 344610",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/344610/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
     },
     "350170": {
       "appid": "350170",
-      "name": "",
-      "image": "",
+      "name": "AppID 350170",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/350170/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1034,24 +1034,24 @@
     },
     "356471": {
       "appid": "356471",
-      "name": "",
-      "image": "",
+      "name": "AppID 356471",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/356471/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
     },
     "356472": {
       "appid": "356472",
-      "name": "",
-      "image": "",
+      "name": "AppID 356472",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/356472/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
     },
     "356473": {
       "appid": "356473",
-      "name": "",
-      "image": "",
+      "name": "AppID 356473",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/356473/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1066,8 +1066,8 @@
     },
     "356620": {
       "appid": "356620",
-      "name": "",
-      "image": "",
+      "name": "AppID 356620",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/356620/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1075,7 +1075,7 @@
     "362000": {
       "appid": "362000",
       "name": "Grand Theft Auto V – Bonus $1,500,000 + GTA: San Andreas",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362000/header.jpg",
       "parent": "271590",
       "store_visible": false,
       "metadata_file": "271590/DLCs/362000.json"
@@ -1083,7 +1083,7 @@
     "362001": {
       "appid": "362001",
       "name": "Grand Theft Auto V – Bonus $1,500,000",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362001/header.jpg",
       "parent": "271590",
       "store_visible": false,
       "metadata_file": "271590/DLCs/362001.json"
@@ -1091,7 +1091,7 @@
     "362002": {
       "appid": "362002",
       "name": "Grand Theft Auto V – Bonus $1,350,000",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362002/header.jpg",
       "parent": "271590",
       "store_visible": false,
       "metadata_file": "271590/DLCs/362002.json"
@@ -1099,7 +1099,7 @@
     "362003": {
       "appid": "362003",
       "name": "Grand Theft Auto V",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362003/header.jpg",
       "parent": "271590",
       "store_visible": false,
       "metadata_file": "271590/DLCs/362003.json"
@@ -1114,8 +1114,8 @@
     },
     "368100": {
       "appid": "368100",
-      "name": "",
-      "image": "",
+      "name": "AppID 368100",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368100/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1322,8 +1322,8 @@
     },
     "401627": {
       "appid": "401627",
-      "name": "",
-      "image": "",
+      "name": "AppID 401627",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401627/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1378,8 +1378,8 @@
     },
     "401634": {
       "appid": "401634",
-      "name": "",
-      "image": "",
+      "name": "AppID 401634",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401634/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1394,24 +1394,24 @@
     },
     "401636": {
       "appid": "401636",
-      "name": "",
-      "image": "",
+      "name": "AppID 401636",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401636/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
     },
     "401637": {
       "appid": "401637",
-      "name": "",
-      "image": "",
+      "name": "AppID 401637",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401637/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
     },
     "401638": {
       "appid": "401638",
-      "name": "",
-      "image": "",
+      "name": "AppID 401638",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401638/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1442,8 +1442,8 @@
     },
     "405033": {
       "appid": "405033",
-      "name": "",
-      "image": "",
+      "name": "AppID 405033",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/405033/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1451,23 +1451,23 @@
     "413180": {
       "appid": "413180",
       "name": "Grand Theft Auto V – Bonus $500,000",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413180/header.jpg",
       "parent": "271590",
       "store_visible": false,
       "metadata_file": "271590/DLCs/413180.json"
     },
     "415650": {
       "appid": "415650",
-      "name": "",
-      "image": "",
+      "name": "AppID 415650",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/415650/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
     },
     "418930": {
       "appid": "418930",
-      "name": "",
-      "image": "",
+      "name": "AppID 418930",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418930/header.jpg",
       "parent": "208650",
       "store_visible": false,
       "metadata_file": ""
@@ -1475,7 +1475,7 @@
     "489980": {
       "appid": "489980",
       "name": "Dead by Daylight: Deluxe Edition",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489980/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": "381210/DLCs/489980.json"
@@ -1483,7 +1483,7 @@
     "492360": {
       "appid": "492360",
       "name": "Dead by Daylight: Digital Art Book",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/492360/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": "381210/DLCs/492360.json"
@@ -1499,7 +1499,7 @@
     "509061": {
       "appid": "509061",
       "name": "Dead by Daylight: Dweard + Sharp Mustache Jake",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/509061/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": "381210/DLCs/509061.json"
@@ -1507,47 +1507,47 @@
     "516780": {
       "appid": "516780",
       "name": "Dead by Daylight: The Trapper's Mask - Chuckles",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516780/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": "381210/DLCs/516780.json"
     },
     "528320": {
       "appid": "528320",
-      "name": "",
-      "image": "",
+      "name": "AppID 528320",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/528320/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "528321": {
       "appid": "528321",
-      "name": "",
-      "image": "",
+      "name": "AppID 528321",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/528321/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "528322": {
       "appid": "528322",
-      "name": "",
-      "image": "",
+      "name": "AppID 528322",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/528322/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "528323": {
       "appid": "528323",
-      "name": "",
-      "image": "",
+      "name": "AppID 528323",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/528323/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "528324": {
       "appid": "528324",
-      "name": "",
-      "image": "",
+      "name": "AppID 528324",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/528324/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -1570,80 +1570,80 @@
     },
     "534130": {
       "appid": "534130",
-      "name": "",
-      "image": "",
+      "name": "AppID 534130",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534130/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "534131": {
       "appid": "534131",
-      "name": "",
-      "image": "",
+      "name": "AppID 534131",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534131/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "554380": {
       "appid": "554380",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - The Bloodstained Sack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/554380/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "554381": {
       "appid": "554381",
-      "name": "",
-      "image": "",
+      "name": "AppID 554381",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/554381/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "556360": {
       "appid": "556360",
-      "name": "",
-      "image": "",
+      "name": "AppID 556360",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/556360/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "556370": {
       "appid": "556370",
-      "name": "",
-      "image": "",
+      "name": "AppID 556370",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/556370/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "556371": {
       "appid": "556371",
-      "name": "",
-      "image": "",
+      "name": "AppID 556371",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/556371/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "562130": {
       "appid": "562130",
-      "name": "",
-      "image": "",
+      "name": "AppID 562130",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/562130/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "566500": {
       "appid": "566500",
-      "name": "",
-      "image": "",
+      "name": "AppID 566500",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/566500/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "573240": {
       "appid": "573240",
-      "name": "",
-      "image": "",
+      "name": "AppID 573240",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/573240/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -1658,8 +1658,8 @@
     },
     "577900": {
       "appid": "577900",
-      "name": "",
-      "image": "",
+      "name": "AppID 577900",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/577900/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -1674,16 +1674,16 @@
     },
     "582600": {
       "appid": "582600",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - Spark of Madness",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582600/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "620230": {
       "appid": "620230",
-      "name": "",
-      "image": "",
+      "name": "AppID 620230",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620230/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -1698,8 +1698,8 @@
     },
     "639710": {
       "appid": "639710",
-      "name": "",
-      "image": "",
+      "name": "AppID 639710",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/639710/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -1739,7 +1739,7 @@
     "724650": {
       "appid": "724650",
       "name": "Dead by Daylight - Feng Golden Exclusive",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/724650/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": "381210/DLCs/724650.json"
@@ -1747,7 +1747,7 @@
     "750380": {
       "appid": "750380",
       "name": "Dead by Daylight - David's Donkey Jacket",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750380/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": "381210/DLCs/750380.json"
@@ -1778,16 +1778,16 @@
     },
     "787600": {
       "appid": "787600",
-      "name": "",
-      "image": "",
+      "name": "AppID 787600",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/787600/header.jpg",
       "parent": "637650",
       "store_visible": false,
       "metadata_file": ""
     },
     "787610": {
       "appid": "787610",
-      "name": "",
-      "image": "",
+      "name": "AppID 787610",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/787610/header.jpg",
       "parent": "637650",
       "store_visible": false,
       "metadata_file": ""
@@ -1818,8 +1818,8 @@
     },
     "884870": {
       "appid": "884870",
-      "name": "",
-      "image": "",
+      "name": "AppID 884870",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/884870/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
@@ -1922,80 +1922,80 @@
     },
     "922570": {
       "appid": "922570",
-      "name": "",
-      "image": "",
+      "name": "AppID 922570",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/922570/header.jpg",
       "parent": "637650",
       "store_visible": false,
       "metadata_file": ""
     },
     "925750": {
       "appid": "925750",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - Shattered Bloodline",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/925750/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "943830": {
       "appid": "943830",
-      "name": "",
-      "image": "",
+      "name": "AppID 943830",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943830/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
     },
     "943831": {
       "appid": "943831",
-      "name": "",
-      "image": "",
+      "name": "AppID 943831",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943831/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
     },
     "943840": {
       "appid": "943840",
-      "name": "",
-      "image": "",
+      "name": "AppID 943840",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943840/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
     },
     "943841": {
       "appid": "943841",
-      "name": "",
-      "image": "",
+      "name": "AppID 943841",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943841/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
     },
     "943842": {
       "appid": "943842",
-      "name": "",
-      "image": "",
+      "name": "AppID 943842",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943842/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
     },
     "943843": {
       "appid": "943843",
-      "name": "",
-      "image": "",
+      "name": "AppID 943843",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943843/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
     },
     "943844": {
       "appid": "943844",
-      "name": "",
-      "image": "",
+      "name": "AppID 943844",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/943844/header.jpg",
       "parent": "817130",
       "store_visible": false,
       "metadata_file": ""
     },
     "971790": {
       "appid": "971790",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - Darkness Among Us",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/971790/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -2010,8 +2010,8 @@
     },
     "1009820": {
       "appid": "1009820",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - Demise of the Faithful chapter",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1009820/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -2026,8 +2026,8 @@
     },
     "1044400": {
       "appid": "1044400",
-      "name": "",
-      "image": "",
+      "name": "AppID 1044400",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1044400/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": ""
@@ -2035,7 +2035,7 @@
     "1075450": {
       "appid": "1075450",
       "name": "Starlink: Battle for Atlas - Standard Edition - Uplay Activation (DO NOT USE)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1075450/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": "950050/DLCs/1075450.json"
@@ -2043,7 +2043,7 @@
     "1075451": {
       "appid": "1075451",
       "name": "Starlink: Battle for Atlas - Deluxe Edition - Uplay Activation (DO NOT USE)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1075451/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": "950050/DLCs/1075451.json"
@@ -2051,7 +2051,7 @@
     "1075452": {
       "appid": "1075452",
       "name": "Starlink: Battle for Atlas - Collection pack 1 - Uplay Activation (DO NOT USE)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1075452/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": "950050/DLCs/1075452.json"
@@ -2059,7 +2059,7 @@
     "1075453": {
       "appid": "1075453",
       "name": "Starlink: Battle for Atlas - Collection pack 2 - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1075453/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": "950050/DLCs/1075453.json"
@@ -2083,7 +2083,7 @@
     "1079220": {
       "appid": "1079220",
       "name": "Starlink: Battle for Atlas - Standard Edition - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1079220/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": "950050/DLCs/1079220.json"
@@ -2091,7 +2091,7 @@
     "1079221": {
       "appid": "1079221",
       "name": "Starlink: Battle for Atlas - Deluxe Edition - Uplay Activation 2",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1079221/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": "950050/DLCs/1079221.json"
@@ -2099,7 +2099,7 @@
     "1079240": {
       "appid": "1079240",
       "name": "Starlink: Battle for Atlas - Collection pack 1 - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1079240/header.jpg",
       "parent": "950050",
       "store_visible": false,
       "metadata_file": "950050/DLCs/1079240.json"
@@ -2139,7 +2139,7 @@
     "1144581": {
       "appid": "1144581",
       "name": "DRAGON BALL Z: KAKAROT - A NEW POWER AWAKENS Part 2",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144581/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": "851850/DLCs/1144581.json"
@@ -2163,7 +2163,7 @@
     "1144641": {
       "appid": "1144641",
       "name": "DRAGON BALL Z: KAKAROT Aged Wild Steak",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144641/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": "851850/DLCs/1144641.json"
@@ -2171,7 +2171,7 @@
     "1144642": {
       "appid": "1144642",
       "name": "DRAGON BALL Z: KAKAROT Dragon Palace Bowl",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144642/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": "851850/DLCs/1144642.json"
@@ -2187,7 +2187,7 @@
     "1144644": {
       "appid": "1144644",
       "name": "DRAGON BALL Z: KAKAROT Steaming-Hot Grilled Fish",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144644/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": "851850/DLCs/1144644.json"
@@ -2210,8 +2210,8 @@
     },
     "1144647": {
       "appid": "1144647",
-      "name": "",
-      "image": "",
+      "name": "AppID 1144647",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144647/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": ""
@@ -2267,7 +2267,7 @@
     "1251050": {
       "appid": "1251050",
       "name": "Need for Speed™ Heat Deluxe Edition Upgrade",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1251050/header.jpg",
       "parent": "1222680",
       "store_visible": false,
       "metadata_file": "1222680/DLCs/1251050.json"
@@ -2307,7 +2307,7 @@
     "1290400": {
       "appid": "1290400",
       "name": "Need for Speed™ Heat Deluxe Edition - Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1290400/header.jpg",
       "parent": "1222680",
       "store_visible": false,
       "metadata_file": "1222680/DLCs/1290400.json"
@@ -2315,7 +2315,7 @@
     "1290401": {
       "appid": "1290401",
       "name": "Need for Speed™ Heat Deluxe Edition Upgrade Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1290401/header.jpg",
       "parent": "1222680",
       "store_visible": false,
       "metadata_file": "1222680/DLCs/1290401.json"
@@ -2323,7 +2323,7 @@
     "1290402": {
       "appid": "1290402",
       "name": "Need for Speed™ Heat K.S Edition Mitsubishi Lancer Evolution X",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1290402/header.jpg",
       "parent": "1222680",
       "store_visible": false,
       "metadata_file": "1222680/DLCs/1290402.json"
@@ -2371,7 +2371,7 @@
     "1332680": {
       "appid": "1332680",
       "name": "FIFA 21 STANDARD EDITION PRE-ORDER INCENTIVE",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332680/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1332680.json"
@@ -2379,7 +2379,7 @@
     "1332681": {
       "appid": "1332681",
       "name": "FIFA 21 CHAMPINS EDITION PRE-ORDER INCENTIVE",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332681/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1332681.json"
@@ -2387,7 +2387,7 @@
     "1332682": {
       "appid": "1332682",
       "name": "FIFA 21 ULTIMATE(EARLY)EDITION PRE-ORDER INCENTIVE",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332682/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1332682.json"
@@ -2395,7 +2395,7 @@
     "1332683": {
       "appid": "1332683",
       "name": "FIFA 21 ULTIMATE EDITION PRE-ORDER INCENTIVE",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332683/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1332683.json"
@@ -2403,7 +2403,7 @@
     "1332684": {
       "appid": "1332684",
       "name": "FIFA 21 LAUNCH CHAMPIONS EDITION INCENTIVE (WATERFALL)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332684/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1332684.json"
@@ -2411,23 +2411,23 @@
     "1332685": {
       "appid": "1332685",
       "name": "FIFA 21 LAUNCH ULTIMATE EDITION INCENTIVE (WATERFALL)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332685/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1332685.json"
     },
     "1332686": {
       "appid": "1332686",
-      "name": "",
-      "image": "",
+      "name": "AppID 1332686",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332686/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": ""
     },
     "1332687": {
       "appid": "1332687",
-      "name": "",
-      "image": "",
+      "name": "AppID 1332687",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332687/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": ""
@@ -2443,7 +2443,7 @@
     "1342711": {
       "appid": "1342711",
       "name": "EA SPORTS™ FIFA 21 Champions Edition Pre-Order - Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1342711/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1342711.json"
@@ -2459,39 +2459,39 @@
     "1342713": {
       "appid": "1342713",
       "name": "EA SPORTS™ FIFA 21 Ultimate Edition Pre-Order - Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1342713/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1342713.json"
     },
     "1377040": {
       "appid": "1377040",
-      "name": "",
-      "image": "",
+      "name": "AppID 1377040",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1377040/header.jpg",
       "parent": "990080",
       "store_visible": false,
       "metadata_file": ""
     },
     "1378950": {
       "appid": "1378950",
-      "name": "",
-      "image": "",
+      "name": "AppID 1378950",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1378950/header.jpg",
       "parent": "1328660",
       "store_visible": false,
       "metadata_file": ""
     },
     "1383800": {
       "appid": "1383800",
-      "name": "",
-      "image": "",
+      "name": "AppID 1383800",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383800/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": ""
     },
     "1383801": {
       "appid": "1383801",
-      "name": "",
-      "image": "",
+      "name": "AppID 1383801",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383801/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": ""
@@ -2499,7 +2499,7 @@
     "1383802": {
       "appid": "1383802",
       "name": "EA SPORTS™ FIFA 21 Ultimate Edition (Waterfall) - Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383802/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1383802.json"
@@ -2507,7 +2507,7 @@
     "1383803": {
       "appid": "1383803",
       "name": "EA SPORTS™ FIFA 21 Champions Edition (Waterfall) - Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383803/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1383803.json"
@@ -2515,47 +2515,47 @@
     "1383804": {
       "appid": "1383804",
       "name": "EA SPORTS™ FIFA 21 Standard Edition - Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383804/header.jpg",
       "parent": "1313860",
       "store_visible": false,
       "metadata_file": "1313860/DLCs/1383804.json"
     },
     "1386970": {
       "appid": "1386970",
-      "name": "",
-      "image": "",
+      "name": "AppID 1386970",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1386970/header.jpg",
       "parent": "990080",
       "store_visible": false,
       "metadata_file": ""
     },
     "1408020": {
       "appid": "1408020",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - Descend Beyond chapter",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1408020/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
     },
     "1435920": {
       "appid": "1435920",
-      "name": "",
-      "image": "",
+      "name": "AppID 1435920",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1435920/header.jpg",
       "parent": "1263850",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443010": {
       "appid": "1443010",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: 1979 Talbot Sunbeam Lotus",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443010/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443011": {
       "appid": "1443011",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: 1967 Sunbeam Tiger",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443011/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
@@ -2906,16 +2906,16 @@
     },
     "1443081": {
       "appid": "1443081",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: Formula Drift Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443081/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443082": {
       "appid": "1443082",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: Mitsubishi Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443082/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
@@ -2938,48 +2938,48 @@
     },
     "1443085": {
       "appid": "1443085",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: Icons Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443085/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443086": {
       "appid": "1443086",
-      "name": "",
-      "image": "",
+      "name": "AppID 1443086",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443086/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443087": {
       "appid": "1443087",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: Any Terrain Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443087/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443088": {
       "appid": "1443088",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: British Sports Car Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443088/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443089": {
       "appid": "1443089",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: Welcome Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443089/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1443090": {
       "appid": "1443090",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: VIP",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443090/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
@@ -3002,8 +3002,8 @@
     },
     "1443093": {
       "appid": "1443093",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: Car Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1443093/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
@@ -3098,32 +3098,32 @@
     },
     "1530010": {
       "appid": "1530010",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4 Japanese Heroes Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530010/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1530011": {
       "appid": "1530011",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4 Open Top Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530011/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1530012": {
       "appid": "1530012",
-      "name": "",
-      "image": "",
+      "name": "Forza Horizon 4: Hot Wheels™ Legends Car Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530012/header.jpg",
       "parent": "1293830",
       "store_visible": false,
       "metadata_file": ""
     },
     "1557310": {
       "appid": "1557310",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - All-Kill Chapter",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1557310/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -3211,7 +3211,7 @@
     "1669200": {
       "appid": "1669200",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Kimetsu Academy Tanjiro Early Unlock",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669200/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1669200.json"
@@ -3219,7 +3219,7 @@
     "1669201": {
       "appid": "1669201",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Kimetsu Academy Nezuko, Zenitsu, Inosuke Early Unlock",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669201/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1669201.json"
@@ -3227,7 +3227,7 @@
     "1669202": {
       "appid": "1669202",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Kimetsu Academy Giyu, Shinobu Early Unlock",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669202/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1669202.json"
@@ -3235,7 +3235,7 @@
     "1669203": {
       "appid": "1669203",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Butterfly Mansion Patient Wear for Tanjiro, Zenitsu & Inosuke",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669203/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1669203.json"
@@ -3243,7 +3243,7 @@
     "1669204": {
       "appid": "1669204",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: 8,000 Kimetsu Points",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669204/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1669204.json"
@@ -3330,8 +3330,8 @@
     },
     "1734080": {
       "appid": "1734080",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - Hellraiser chapter",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1734080/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -3339,7 +3339,7 @@
     "1760470": {
       "appid": "1760470",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles:  Character Avatar (Final Selection Tanjiro)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1760470/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1760470.json"
@@ -3347,7 +3347,7 @@
     "1760480": {
       "appid": "1760480",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Character avatars x 12 (full roster)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1760480/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1760480.json"
@@ -3355,7 +3355,7 @@
     "1760490": {
       "appid": "1760490",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles:  High-res PC Wallpaper (Previously Steam profile background)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1760490/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1760490.json"
@@ -3363,7 +3363,7 @@
     "1760500": {
       "appid": "1760500",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Character avatars x 10 (full roster)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1760500/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1760500.json"
@@ -3419,7 +3419,7 @@
     "1769971": {
       "appid": "1769971",
       "name": "Demon Slayer -Kimetsu No Yaiba- The Hinokami Chronicles: Costume Bundle",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1769971/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1769971.json"
@@ -3435,23 +3435,23 @@
     "1777140": {
       "appid": "1777140",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Avatar 2 Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1777140/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": "1490890/DLCs/1777140.json"
     },
     "1798680": {
       "appid": "1798680",
-      "name": "",
-      "image": "",
+      "name": "AppID 1798680",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1798680/header.jpg",
       "parent": "1551360",
       "store_visible": false,
       "metadata_file": ""
     },
     "1804690": {
       "appid": "1804690",
-      "name": "",
-      "image": "",
+      "name": "Dead by Daylight - Portrait of a Murder",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1804690/header.jpg",
       "parent": "381210",
       "store_visible": false,
       "metadata_file": ""
@@ -3690,16 +3690,16 @@
     },
     "1830680": {
       "appid": "1830680",
-      "name": "",
-      "image": "",
+      "name": "AppID 1830680",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1830680/header.jpg",
       "parent": "1817070",
       "store_visible": false,
       "metadata_file": ""
     },
     "1830690": {
       "appid": "1830690",
-      "name": "",
-      "image": "",
+      "name": "AppID 1830690",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1830690/header.jpg",
       "parent": "1817190",
       "store_visible": false,
       "metadata_file": ""
@@ -3994,8 +3994,8 @@
     },
     "1981882": {
       "appid": "1981882",
-      "name": "",
-      "image": "",
+      "name": "AppID 1981882",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1981882/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": ""
@@ -4018,8 +4018,8 @@
     },
     "1981930": {
       "appid": "1981930",
-      "name": "",
-      "image": "",
+      "name": "AppID 1981930",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1981930/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": ""
@@ -4034,8 +4034,8 @@
     },
     "1996370": {
       "appid": "1996370",
-      "name": "",
-      "image": "",
+      "name": "AppID 1996370",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1996370/header.jpg",
       "parent": "1490890",
       "store_visible": false,
       "metadata_file": ""
@@ -4075,7 +4075,7 @@
     "2083110": {
       "appid": "2083110",
       "name": "Marvel's Spider-Man Remastered - Pre-purchase Entitlements",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2083110/header.jpg",
       "parent": "1817070",
       "store_visible": false,
       "metadata_file": "1817070/DLCs/2083110.json"
@@ -4083,7 +4083,7 @@
     "2089200": {
       "appid": "2089200",
       "name": "Call of Duty®: Vanguard - Campaign",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2089200/header.jpg",
       "parent": "1985820",
       "store_visible": false,
       "metadata_file": "1985820/DLCs/2089200.json"
@@ -4114,8 +4114,8 @@
     },
     "2109302": {
       "appid": "2109302",
-      "name": "",
-      "image": "",
+      "name": "AppID 2109302",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2109302/header.jpg",
       "parent": "2050650",
       "store_visible": false,
       "metadata_file": ""
@@ -4243,23 +4243,23 @@
     "2111240": {
       "appid": "2111240",
       "name": "Forza Horizon 5 D DLC",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2111240/header.jpg",
       "parent": "1551360",
       "store_visible": false,
       "metadata_file": "1551360/DLCs/2111240.json"
     },
     "2122730": {
       "appid": "2122730",
-      "name": "",
-      "image": "",
+      "name": "AppID 2122730",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2122730/header.jpg",
       "parent": "1659420",
       "store_visible": false,
       "metadata_file": ""
     },
     "2125060": {
       "appid": "2125060",
-      "name": "",
-      "image": "",
+      "name": "AppID 2125060",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2125060/header.jpg",
       "parent": "1659420",
       "store_visible": false,
       "metadata_file": ""
@@ -4267,7 +4267,7 @@
     "2133610": {
       "appid": "2133610",
       "name": "Marvel's Spider-Man: Miles Morales - Pre-purchase Entitlements",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2133610/header.jpg",
       "parent": "1817190",
       "store_visible": false,
       "metadata_file": "1817190/DLCs/2133610.json"
@@ -4395,7 +4395,7 @@
     "2199880": {
       "appid": "2199880",
       "name": "DRAGON BALL Z: KAKAROT - Sea Monster Soup",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2199880/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": "851850/DLCs/2199880.json"
@@ -4467,7 +4467,7 @@
     "2221240": {
       "appid": "2221240",
       "name": "Scott Pilgrim vs The World Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2221240/header.jpg",
       "parent": "2215260",
       "store_visible": false,
       "metadata_file": "2215260/DLCs/2221240.json"
@@ -4579,7 +4579,7 @@
     "2305250": {
       "appid": "2305250",
       "name": "Call of Duty®️: Vanguard - Frontline Weapons Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2305250/header.jpg",
       "parent": "1985820",
       "store_visible": false,
       "metadata_file": "1985820/DLCs/2305250.json"
@@ -4731,7 +4731,7 @@
     "2581000": {
       "appid": "2581000",
       "name": "Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2581000/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": "2054970/DLCs/2581000.json"
@@ -4739,7 +4739,7 @@
     "2593170": {
       "appid": "2593170",
       "name": "Dragon's Dogma 2: Ring of Assurance - Adventurer's Safeguard",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2593170/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": "2054970/DLCs/2593170.json"
@@ -4827,7 +4827,7 @@
     "2593280": {
       "appid": "2593280",
       "name": "Dragon's Dogma 2: Dark Arisen: Norgan Fashion Set - Northern Attire",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2593280/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": "2054970/DLCs/2593280.json"
@@ -4962,16 +4962,16 @@
     },
     "2757100": {
       "appid": "2757100",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757100",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757100/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
     },
     "2757110": {
       "appid": "2757110",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757110",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757110/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
@@ -5002,16 +5002,16 @@
     },
     "2757150": {
       "appid": "2757150",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757150",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757150/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
     },
     "2757160": {
       "appid": "2757160",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757160",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757160/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
@@ -5026,32 +5026,32 @@
     },
     "2757180": {
       "appid": "2757180",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757180",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757180/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
     },
     "2757190": {
       "appid": "2757190",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757190",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757190/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
     },
     "2757200": {
       "appid": "2757200",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757200",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757200/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
     },
     "2757210": {
       "appid": "2757210",
-      "name": "",
-      "image": "",
+      "name": "AppID 2757210",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2757210/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
@@ -5091,7 +5091,7 @@
     "2951540": {
       "appid": "2951540",
       "name": "SILENT HILL 2 - Artbook",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2951540/header.jpg",
       "parent": "2124490",
       "store_visible": false,
       "metadata_file": "2124490/DLCs/2951540.json"
@@ -5107,7 +5107,7 @@
     "2974320": {
       "appid": "2974320",
       "name": "God of War Ragnarök - Pre-purchase Entitlement",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2974320/header.jpg",
       "parent": "2322010",
       "store_visible": false,
       "metadata_file": "2322010/DLCs/2974320.json"
@@ -5147,7 +5147,7 @@
     "3097490": {
       "appid": "3097490",
       "name": "SILENT HILL 2 - Mira Mask",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3097490/header.jpg",
       "parent": "2124490",
       "store_visible": false,
       "metadata_file": "2124490/DLCs/3097490.json"
@@ -5155,7 +5155,7 @@
     "3097500": {
       "appid": "3097500",
       "name": "SILENT HILL 2 - Pyramid Head Mask",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3097500/header.jpg",
       "parent": "2124490",
       "store_visible": false,
       "metadata_file": "2124490/DLCs/3097500.json"
@@ -5171,7 +5171,7 @@
     "3159340": {
       "appid": "3159340",
       "name": "Assassin's Creed Shadows - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159340/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3159340.json"
@@ -5267,7 +5267,7 @@
     "3279950": {
       "appid": "3279950",
       "name": "DRAGON BALL Z: KAKAROT - DAIMA - Adventure Through The Demon Realm Pack Bonus",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3279950/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": "851850/DLCs/3279950.json"
@@ -5275,7 +5275,7 @@
     "3279960": {
       "appid": "3279960",
       "name": "HD - DRAGON BALL Z: KAKAROT",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3279960/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": "851850/DLCs/3279960.json"
@@ -5291,7 +5291,7 @@
     "3282160": {
       "appid": "3282160",
       "name": "SILENT HILL f - White Sailor School Uniform",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3282160/header.jpg",
       "parent": "2947440",
       "store_visible": false,
       "metadata_file": "2947440/DLCs/3282160.json"
@@ -5299,7 +5299,7 @@
     "3282170": {
       "appid": "3282170",
       "name": "SILENT HILL f - Item Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3282170/header.jpg",
       "parent": "2947440",
       "store_visible": false,
       "metadata_file": "2947440/DLCs/3282170.json"
@@ -5307,7 +5307,7 @@
     "3282180": {
       "appid": "3282180",
       "name": "SILENT HILL f - Pink Rabbit Costume",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3282180/header.jpg",
       "parent": "2947440",
       "store_visible": false,
       "metadata_file": "2947440/DLCs/3282180.json"
@@ -5315,7 +5315,7 @@
     "3282190": {
       "appid": "3282190",
       "name": "SILENT HILL f - Omamori: Peony",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3282190/header.jpg",
       "parent": "2947440",
       "store_visible": false,
       "metadata_file": "2947440/DLCs/3282190.json"
@@ -5323,7 +5323,7 @@
     "3282720": {
       "appid": "3282720",
       "name": "SILENT HILL f - Bonus Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3282720/header.jpg",
       "parent": "2947440",
       "store_visible": false,
       "metadata_file": "2947440/DLCs/3282720.json"
@@ -5331,7 +5331,7 @@
     "3319490": {
       "appid": "3319490",
       "name": "ELDEN RING NIGHTREIGN Bonus Gesture",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3319490/header.jpg",
       "parent": "2622380",
       "store_visible": false,
       "metadata_file": "2622380/DLCs/3319490.json"
@@ -5347,7 +5347,7 @@
     "3362520": {
       "appid": "3362520",
       "name": "Assassin's Creed Shadows - Standard Edition - JP (Ubisoft Activation)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362520/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362520.json"
@@ -5355,7 +5355,7 @@
     "3362530": {
       "appid": "3362530",
       "name": "Assassin's Creed Shadows - Digital Deluxe Edition - WW (Ubisoft Activation)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362530/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362530.json"
@@ -5363,7 +5363,7 @@
     "3362540": {
       "appid": "3362540",
       "name": "Assassin's Creed Shadows - Digital Deluxe Edition - JP (Ubisoft Activation)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362540/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362540.json"
@@ -5379,7 +5379,7 @@
     "3362560": {
       "appid": "3362560",
       "name": "Assassin's Creed Shadows - Claws of Awaji - DLC - (Ubisoft Activation)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362560/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362560.json"
@@ -5395,7 +5395,7 @@
     "3362580": {
       "appid": "3362580",
       "name": "Assassin's Creed Shadows - Premium Starter Pack (Ubisoft Activation)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362580/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362580.json"
@@ -5403,7 +5403,7 @@
     "3362610": {
       "appid": "3362610",
       "name": "Assassin's Creed Shadows - Standard Edition - WW Prepurchase - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362610/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362610.json"
@@ -5411,7 +5411,7 @@
     "3362620": {
       "appid": "3362620",
       "name": "Assassin's Creed Shadows - Digital Deluxe Edition - WW  Prepurchase - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362620/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362620.json"
@@ -5419,7 +5419,7 @@
     "3362630": {
       "appid": "3362630",
       "name": "Assassin's Creed Shadows - Standard Edition - JP Prepurchase - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362630/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362630.json"
@@ -5427,7 +5427,7 @@
     "3362640": {
       "appid": "3362640",
       "name": "Assassin's Creed Shadows - Digital Deluxe Edition - JP Prepurchase - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3362640/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3362640.json"
@@ -5451,7 +5451,7 @@
     "3378700": {
       "appid": "3378700",
       "name": "DRAGON QUEST VII Reimagined: Early Bird Bonus: Trodain Togs, Seed of Proficiency x3",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3378700/header.jpg",
       "parent": "2499860",
       "store_visible": false,
       "metadata_file": "2499860/DLCs/3378700.json"
@@ -5459,15 +5459,15 @@
     "3378720": {
       "appid": "3378720",
       "name": "DRAGON QUEST VII Reimagined: Silver Slime Shield",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3378720/header.jpg",
       "parent": "2499860",
       "store_visible": false,
       "metadata_file": "2499860/DLCs/3378720.json"
     },
     "3378750": {
       "appid": "3378750",
-      "name": "",
-      "image": "",
+      "name": "AppID 3378750",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3378750/header.jpg",
       "parent": "2499860",
       "store_visible": false,
       "metadata_file": ""
@@ -5475,7 +5475,7 @@
     "3378760": {
       "appid": "3378760",
       "name": "DRAGON QUEST VII Reimagined: Item Set: Gold Bracer, Seed of Magic",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3378760/header.jpg",
       "parent": "2499860",
       "store_visible": false,
       "metadata_file": "2499860/DLCs/3378760.json"
@@ -5483,7 +5483,7 @@
     "3405710": {
       "appid": "3405710",
       "name": "EA SPORTS FC 26 - EA Play Trial Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405710/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/3405710.json"
@@ -5491,7 +5491,7 @@
     "3405720": {
       "appid": "3405720",
       "name": "EA SPORTS FC 26 - Press Offer Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405720/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/3405720.json"
@@ -5499,7 +5499,7 @@
     "3405830": {
       "appid": "3405830",
       "name": "EA SPORTS FC 26 - Standard Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405830/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/3405830.json"
@@ -5531,7 +5531,7 @@
     "3515600": {
       "appid": "3515600",
       "name": "ELDEN RING NIGHTREIGN Digital Artbook & Mini Soundtrack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3515600/header.jpg",
       "parent": "2622380",
       "store_visible": false,
       "metadata_file": "2622380/DLCs/3515600.json"
@@ -5563,15 +5563,15 @@
     "3543080": {
       "appid": "3543080",
       "name": "DRAGON QUEST VII Reimagined: White Wolf Costume",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3543080/header.jpg",
       "parent": "2499860",
       "store_visible": false,
       "metadata_file": "2499860/DLCs/3543080.json"
     },
     "3594180": {
       "appid": "3594180",
-      "name": "",
-      "image": "",
+      "name": "AppID 3594180",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3594180/header.jpg",
       "parent": "2288340",
       "store_visible": false,
       "metadata_file": ""
@@ -5691,7 +5691,7 @@
     "3635880": {
       "appid": "3635880",
       "name": "ACE COMBAT ZERO: THE BELKAN WAR (Steam Version)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3635880/header.jpg",
       "parent": "2288340",
       "store_visible": false,
       "metadata_file": "2288340/DLCs/3635880.json"
@@ -5699,7 +5699,7 @@
     "3637850": {
       "appid": "3637850",
       "name": "ELDEN RING NIGHTREIGN CE Content (Retail)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3637850/header.jpg",
       "parent": "2622380",
       "store_visible": false,
       "metadata_file": "2622380/DLCs/3637850.json"
@@ -5739,7 +5739,7 @@
     "3749060": {
       "appid": "3749060",
       "name": "Anno 117: Pax Romana – Year 1 Pass - Ubisoft activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3749060/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3749060.json"
@@ -5747,7 +5747,7 @@
     "3749080": {
       "appid": "3749080",
       "name": "Anno 117: Pax Romana Standard Edition - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3749080/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3749080.json"
@@ -5755,7 +5755,7 @@
     "3749090": {
       "appid": "3749090",
       "name": "Anno 117: Pax Romana Gold Edition - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3749090/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3749090.json"
@@ -5763,7 +5763,7 @@
     "3765110": {
       "appid": "3765110",
       "name": "EA SPORTS FC™ 25 Football Ultimate Team™ rewards",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3765110/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/3765110.json"
@@ -5778,8 +5778,8 @@
     },
     "3841290": {
       "appid": "3841290",
-      "name": "",
-      "image": "",
+      "name": "AppID 3841290",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3841290/header.jpg",
       "parent": "851850",
       "store_visible": false,
       "metadata_file": ""
@@ -5795,7 +5795,7 @@
     "3858760": {
       "appid": "3858760",
       "name": "Anno 117: Pax Romana – Prophecies of Ash Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3858760/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3858760.json"
@@ -5811,7 +5811,7 @@
     "3858780": {
       "appid": "3858780",
       "name": "Anno 117: Pax Romana – The Hippodrome Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3858780/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3858780.json"
@@ -5827,7 +5827,7 @@
     "3874240": {
       "appid": "3874240",
       "name": "Anno 117 - CDLC 01 Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3874240/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3874240.json"
@@ -5843,7 +5843,7 @@
     "3874270": {
       "appid": "3874270",
       "name": "Anno 117: Pax Romana – Blooming Cities Pack Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3874270/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3874270.json"
@@ -5859,7 +5859,7 @@
     "3874290": {
       "appid": "3874290",
       "name": "Anno 117: Pax Romana - Echoes of Kassandra Pack Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3874290/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3874290.json"
@@ -5867,7 +5867,7 @@
     "3875910": {
       "appid": "3875910",
       "name": "Anno 117 - Closed Beta Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3875910/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/3875910.json"
@@ -5875,7 +5875,7 @@
     "3922840": {
       "appid": "3922840",
       "name": "EA SPORTS FC™ 26",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3922840/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/3922840.json"
@@ -5883,7 +5883,7 @@
     "3931580": {
       "appid": "3931580",
       "name": "Assassin's Creed Shadows - Premium Edition - JP (Ubisoft Activation)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3931580/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3931580.json"
@@ -5891,7 +5891,7 @@
     "3931590": {
       "appid": "3931590",
       "name": "Assassin's Creed Shadows - Premium Edition - WW (Ubisoft Activation)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3931590/header.jpg",
       "parent": "3159330",
       "store_visible": false,
       "metadata_file": "3159330/DLCs/3931590.json"
@@ -5899,7 +5899,7 @@
     "3932690": {
       "appid": "3932690",
       "name": "Onimusha: WotS - Charm: Lion Dog",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932690/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3932690.json"
@@ -5907,15 +5907,15 @@
     "3935590": {
       "appid": "3935590",
       "name": "Onimusha: WotS - Charm: White Monkey",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935590/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935590.json"
     },
     "3935600": {
       "appid": "3935600",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935600",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935600/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
@@ -5947,7 +5947,7 @@
     "3935640": {
       "appid": "3935640",
       "name": "Onimusha: WotS - Sword Appearance: Sealed Curse",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935640/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935640.json"
@@ -5955,7 +5955,7 @@
     "3935650": {
       "appid": "3935650",
       "name": "Onimusha: WotS - Sword Appearance: White Lion",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935650/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935650.json"
@@ -6018,8 +6018,8 @@
     },
     "3935750": {
       "appid": "3935750",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935750",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935750/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
@@ -6099,15 +6099,15 @@
     "3935860": {
       "appid": "3935860",
       "name": "Onimusha: WotS - Materials Pack: Personal Effects I",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935860/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935860.json"
     },
     "3935870": {
       "appid": "3935870",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935870",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935870/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
@@ -6123,7 +6123,7 @@
     "3935890": {
       "appid": "3935890",
       "name": "Onimusha: WotS - Materials Pack: Red Souls II",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935890/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935890.json"
@@ -6131,23 +6131,23 @@
     "3935900": {
       "appid": "3935900",
       "name": "Onimusha: WotS - Materials Pack: Red Souls III",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935900/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935900.json"
     },
     "3935910": {
       "appid": "3935910",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935910",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935910/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
     },
     "3935920": {
       "appid": "3935920",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935920",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935920/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
@@ -6155,39 +6155,39 @@
     "3935930": {
       "appid": "3935930",
       "name": "Onimusha: WotS - Materials Pack: Offerings II",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935930/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935930.json"
     },
     "3935940": {
       "appid": "3935940",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935940",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935940/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
     },
     "3935950": {
       "appid": "3935950",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935950",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935950/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
     },
     "3935970": {
       "appid": "3935970",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935970",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935970/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
     },
     "3935980": {
       "appid": "3935980",
-      "name": "",
-      "image": "",
+      "name": "AppID 3935980",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935980/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
@@ -6195,23 +6195,23 @@
     "3935990": {
       "appid": "3935990",
       "name": "Onimusha: WotS - Materials Pack: Enhancements III",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935990/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": "2638890/DLCs/3935990.json"
     },
     "3936000": {
       "appid": "3936000",
-      "name": "",
-      "image": "",
+      "name": "AppID 3936000",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3936000/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
     },
     "3936010": {
       "appid": "3936010",
-      "name": "",
-      "image": "",
+      "name": "AppID 3936010",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3936010/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
@@ -6227,7 +6227,7 @@
     "3940710": {
       "appid": "3940710",
       "name": "EA SPORTS™ Madden NFL 27",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3940710/header.jpg",
       "parent": "3940610",
       "store_visible": false,
       "metadata_file": "3940610/DLCs/3940710.json"
@@ -6307,7 +6307,7 @@
     "3954230": {
       "appid": "3954230",
       "name": "007 First Light - Golden Gun (Weapon Skin)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3954230/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/3954230.json"
@@ -6315,7 +6315,7 @@
     "3954250": {
       "appid": "3954250",
       "name": "007 First Light - Obsidian Suit (Exclusive Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3954250/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/3954250.json"
@@ -6323,7 +6323,7 @@
     "3954260": {
       "appid": "3954260",
       "name": "007 First Light - Classic Tuxedo (Exclusive Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3954260/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/3954260.json"
@@ -6379,7 +6379,7 @@
     "4024630": {
       "appid": "4024630",
       "name": "Crimson Desert - Pre Order Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4024630/header.jpg",
       "parent": "3321460",
       "store_visible": false,
       "metadata_file": "3321460/DLCs/4024630.json"
@@ -6395,7 +6395,7 @@
     "4080260": {
       "appid": "4080260",
       "name": "EA SPORTS FC™ 27",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080260/header.jpg",
       "parent": "4080220",
       "store_visible": false,
       "metadata_file": "4080220/DLCs/4080260.json"
@@ -6411,7 +6411,7 @@
     "4113730": {
       "appid": "4113730",
       "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition Pre-purchase Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113730/header.jpg",
       "parent": "3940610",
       "store_visible": false,
       "metadata_file": "3940610/DLCs/4113730.json"
@@ -6419,7 +6419,7 @@
     "4113740": {
       "appid": "4113740",
       "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition Pre-order Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113740/header.jpg",
       "parent": "3940610",
       "store_visible": false,
       "metadata_file": "3940610/DLCs/4113740.json"
@@ -6427,7 +6427,7 @@
     "4113750": {
       "appid": "4113750",
       "name": "EA SPORTS™ Madden NFL 27 Standard Edition Pre-purchase Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113750/header.jpg",
       "parent": "3940610",
       "store_visible": false,
       "metadata_file": "3940610/DLCs/4113750.json"
@@ -6443,7 +6443,7 @@
     "4115160": {
       "appid": "4115160",
       "name": "Madden NFL 27 - EA Play Trial Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115160/header.jpg",
       "parent": "3940610",
       "store_visible": false,
       "metadata_file": "3940610/DLCs/4115160.json"
@@ -6451,7 +6451,7 @@
     "4126670": {
       "appid": "4126670",
       "name": "SILENT HILL: Townfall – CRTV Style: Rusted",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126670/header.jpg",
       "parent": "1636440",
       "store_visible": false,
       "metadata_file": "1636440/DLCs/4126670.json"
@@ -6475,7 +6475,7 @@
     "4168120": {
       "appid": "4168120",
       "name": "Anno 117: Pax Romana Standard Edition Launch - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4168120/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/4168120.json"
@@ -6483,7 +6483,7 @@
     "4168130": {
       "appid": "4168130",
       "name": "Anno 117: Pax Romana Gold Edition Launch - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4168130/header.jpg",
       "parent": "3274580",
       "store_visible": false,
       "metadata_file": "3274580/DLCs/4168130.json"
@@ -6491,7 +6491,7 @@
     "4193060": {
       "appid": "4193060",
       "name": "Crimson Desert - Ultimate Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4193060/header.jpg",
       "parent": "3321460",
       "store_visible": false,
       "metadata_file": "3321460/DLCs/4193060.json"
@@ -6507,7 +6507,7 @@
     "4235620": {
       "appid": "4235620",
       "name": "SILENT HILL: Townfall – Simon's Outfit: Alternate",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4235620/header.jpg",
       "parent": "1636440",
       "store_visible": false,
       "metadata_file": "1636440/DLCs/4235620.json"
@@ -6531,7 +6531,7 @@
     "4249290": {
       "appid": "4249290",
       "name": "ACE COMBAT 8 - PREMIUM ACE PASS PLUS Voucher",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249290/header.jpg",
       "parent": "2288340",
       "store_visible": false,
       "metadata_file": "2288340/DLCs/4249290.json"
@@ -6571,7 +6571,7 @@
     "4330330": {
       "appid": "4330330",
       "name": "DYNASTY WARRIORS 3: Complete Edition Remastered - Retro-Style Red Hare Saddle",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4330330/header.jpg",
       "parent": "3841510",
       "store_visible": false,
       "metadata_file": "3841510/DLCs/4330330.json"
@@ -6587,7 +6587,7 @@
     "4340010": {
       "appid": "4340010",
       "name": "Minecraft Dungeons II Soul Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4340010/header.jpg",
       "parent": "1912410",
       "store_visible": false,
       "metadata_file": "1912410/DLCs/4340010.json"
@@ -6595,7 +6595,7 @@
     "4340020": {
       "appid": "4340020",
       "name": "Minecraft Dungeons II Hero Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4340020/header.jpg",
       "parent": "1912410",
       "store_visible": false,
       "metadata_file": "1912410/DLCs/4340020.json"
@@ -6627,7 +6627,7 @@
     "4439270": {
       "appid": "4439270",
       "name": "Forza Horizon 6 Premium VIP",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4439270/header.jpg",
       "parent": "2483190",
       "store_visible": false,
       "metadata_file": "2483190/DLCs/4439270.json"
@@ -6650,8 +6650,8 @@
     },
     "4439300": {
       "appid": "4439300",
-      "name": "",
-      "image": "",
+      "name": "AppID 4439300",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4439300/header.jpg",
       "parent": "2483190",
       "store_visible": false,
       "metadata_file": ""
@@ -6739,7 +6739,7 @@
     "4444140": {
       "appid": "4444140",
       "name": "Forza Horizon 6 TBDS2",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4444140/header.jpg",
       "parent": "2483190",
       "store_visible": false,
       "metadata_file": "2483190/DLCs/4444140.json"
@@ -6747,7 +6747,7 @@
     "4444150": {
       "appid": "4444150",
       "name": "Forza Horizon 6 1962 Peel P50 Trolli Edition",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4444150/header.jpg",
       "parent": "2483190",
       "store_visible": false,
       "metadata_file": "2483190/DLCs/4444150.json"
@@ -6755,7 +6755,7 @@
     "4458650": {
       "appid": "4458650",
       "name": "EA SPORTS FC™ 27",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458650/header.jpg",
       "parent": "4080220",
       "store_visible": false,
       "metadata_file": "4080220/DLCs/4458650.json"
@@ -6763,7 +6763,7 @@
     "4458660": {
       "appid": "4458660",
       "name": "EA SPORTS FC™ 27 Standard Edition Pre-Purchase content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458660/header.jpg",
       "parent": "4080220",
       "store_visible": false,
       "metadata_file": "4080220/DLCs/4458660.json"
@@ -6787,7 +6787,7 @@
     "4458700": {
       "appid": "4458700",
       "name": "EA SPORTS FC 27 - Press Offer Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458700/header.jpg",
       "parent": "4080220",
       "store_visible": false,
       "metadata_file": "4080220/DLCs/4458700.json"
@@ -6811,7 +6811,7 @@
     "4496500": {
       "appid": "4496500",
       "name": "Assassin's Creed Black Flag Resynced - Master Assassin Character Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496500/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496500.json"
@@ -6827,7 +6827,7 @@
     "4496520": {
       "appid": "4496520",
       "name": "Assassin's Creed Black Flag Resynced - Master Assassin Naval Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496520/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496520.json"
@@ -6843,7 +6843,7 @@
     "4496540": {
       "appid": "4496540",
       "name": "Assassin's Creed Black Flag Resynced - Hellfire Character Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496540/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496540.json"
@@ -6859,7 +6859,7 @@
     "4496560": {
       "appid": "4496560",
       "name": "Assassin's Creed Black Flag Resynced - Hellfire Naval Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496560/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496560.json"
@@ -6875,7 +6875,7 @@
     "4496590": {
       "appid": "4496590",
       "name": "Assassin's Creed Black Flag Resynced - Sea Serpent Character Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496590/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496590.json"
@@ -6891,7 +6891,7 @@
     "4496610": {
       "appid": "4496610",
       "name": "Assassin's Creed Black Flag Resynced - Sea Serpent Naval Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496610/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496610.json"
@@ -6907,7 +6907,7 @@
     "4496630": {
       "appid": "4496630",
       "name": "Assassin's Creed Black Flag Resynced - Dragon Storm Character Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496630/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496630.json"
@@ -6923,7 +6923,7 @@
     "4496650": {
       "appid": "4496650",
       "name": "Assassin's Creed Black Flag Resynced - Dragon Storm Naval Pack - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496650/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496650.json"
@@ -6939,7 +6939,7 @@
     "4496670": {
       "appid": "4496670",
       "name": "Assassin's Creed Black Flag Resynced - MAP PACK - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496670/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496670.json"
@@ -6947,7 +6947,7 @@
     "4496720": {
       "appid": "4496720",
       "name": "Assassin's Creed Black Flag Resynced - Standard Edition - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496720/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496720.json"
@@ -6955,7 +6955,7 @@
     "4496730": {
       "appid": "4496730",
       "name": "Assassin's Creed Black Flag Resynced - Deluxe Edition - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496730/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4496730.json"
@@ -6979,7 +6979,7 @@
     "4519940": {
       "appid": "4519940",
       "name": "Assassin's Creed Black Flag Resynced - Standard Edition - Prepurchase - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519940/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4519940.json"
@@ -6987,7 +6987,7 @@
     "4519950": {
       "appid": "4519950",
       "name": "Assassin's Creed Black Flag Resynced - Deluxe Edition - Prepurchase - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519950/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4519950.json"
@@ -7011,7 +7011,7 @@
     "4521800": {
       "appid": "4521800",
       "name": "007 First Light - First Class (Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521800/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4521800.json"
@@ -7019,7 +7019,7 @@
     "4521810": {
       "appid": "4521810",
       "name": "007 First Light - Forest Operative (Exclusive Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521810/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4521810.json"
@@ -7027,7 +7027,7 @@
     "4521820": {
       "appid": "4521820",
       "name": "007 First Light - Observant Spy (Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521820/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4521820.json"
@@ -7035,7 +7035,7 @@
     "4521830": {
       "appid": "4521830",
       "name": "007 First Light - Leisure Beam (Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521830/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4521830.json"
@@ -7043,7 +7043,7 @@
     "4521840": {
       "appid": "4521840",
       "name": "007 First Light - One More (Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521840/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4521840.json"
@@ -7074,8 +7074,8 @@
     },
     "4562050": {
       "appid": "4562050",
-      "name": "",
-      "image": "",
+      "name": "AppID 4562050",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4562050/header.jpg",
       "parent": "2483190",
       "store_visible": false,
       "metadata_file": ""
@@ -7091,7 +7091,7 @@
     "4601250": {
       "appid": "4601250",
       "name": "007 First Light - Diamond in the Rough (Outfit)",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601250/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4601250.json"
@@ -7115,7 +7115,7 @@
     "4626160": {
       "appid": "4626160",
       "name": "007 First Light - Standard",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626160/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4626160.json"
@@ -7131,7 +7131,7 @@
     "4637600": {
       "appid": "4637600",
       "name": "EA SPORTS FC™ 26 Football Ultimate Team™ 92+ OVR ICON Player Item",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637600/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/4637600.json"
@@ -7139,7 +7139,7 @@
     "4637610": {
       "appid": "4637610",
       "name": "EA SPORTS FC™ 26 Football Ultimate Team™ rewards",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637610/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/4637610.json"
@@ -7147,7 +7147,7 @@
     "4637620": {
       "appid": "4637620",
       "name": "EA SPORTS FC™ 26 Football Ultimate Team™ rewards",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637620/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/4637620.json"
@@ -7155,7 +7155,7 @@
     "4637630": {
       "appid": "4637630",
       "name": "EA SPORTS FC™ 26 Football Ultimate Team™ rewards",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637630/header.jpg",
       "parent": "3405690",
       "store_visible": false,
       "metadata_file": "3405690/DLCs/4637630.json"
@@ -7163,7 +7163,7 @@
     "4663210": {
       "appid": "4663210",
       "name": "SILENT HILL: Townfall - Bonus Application",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4663210/header.jpg",
       "parent": "1636440",
       "store_visible": false,
       "metadata_file": "1636440/DLCs/4663210.json"
@@ -7179,7 +7179,7 @@
     "4707780": {
       "appid": "4707780",
       "name": "007 First Light - 00 Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707780/header.jpg",
       "parent": "3768760",
       "store_visible": false,
       "metadata_file": "3768760/DLCs/4707780.json"
@@ -7218,8 +7218,8 @@
     },
     "4783050": {
       "appid": "4783050",
-      "name": "",
-      "image": "",
+      "name": "AppID 4783050",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4783050/header.jpg",
       "parent": "3321460",
       "store_visible": false,
       "metadata_file": ""
@@ -7267,7 +7267,7 @@
     "4872930": {
       "appid": "4872930",
       "name": "Assassin's Creed Black Flag Resynced - Standard Edition - PREVIEW - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872930/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4872930.json"
@@ -7275,7 +7275,7 @@
     "4892480": {
       "appid": "4892480",
       "name": "Assassin's Creed Black Flag Resynced - Deluxe Edition - PREVIEW - Ubisoft Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4892480/header.jpg",
       "parent": "3751950",
       "store_visible": false,
       "metadata_file": "3751950/DLCs/4892480.json"
@@ -7323,7 +7323,7 @@
     "4917970": {
       "appid": "4917970",
       "name": "EA SPORTS FC™ 27",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4917970/header.jpg",
       "parent": "4080220",
       "store_visible": false,
       "metadata_file": "4080220/DLCs/4917970.json"
@@ -7371,7 +7371,7 @@
     "4973150": {
       "appid": "4973150",
       "name": "Madden NFL 27 Press Offer Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4973150/header.jpg",
       "parent": "3940610",
       "store_visible": false,
       "metadata_file": "3940610/DLCs/4973150.json"
@@ -7387,7 +7387,7 @@
     "5004270": {
       "appid": "5004270",
       "name": "Forza Horizon 6 2020 Toyota GR Supra 7-Eleven Livery",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5004270/header.jpg",
       "parent": "2483190",
       "store_visible": false,
       "metadata_file": "2483190/DLCs/5004270.json"
@@ -7403,15 +7403,15 @@
     "5020770": {
       "appid": "5020770",
       "name": "Crimson Desert Enhanced: Charting the Unknown Pre-order Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5020770/header.jpg",
       "parent": "3321460",
       "store_visible": false,
       "metadata_file": "3321460/DLCs/5020770.json"
     },
     "5040270": {
       "appid": "5040270",
-      "name": "",
-      "image": "",
+      "name": "AppID 5040270",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5040270/header.jpg",
       "parent": "2638890",
       "store_visible": false,
       "metadata_file": ""
@@ -7451,7 +7451,7 @@
     "5068070": {
       "appid": "5068070",
       "name": "Phantom Blade Zero Pre-Purchase Bonus",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068070/header.jpg",
       "parent": "4115450",
       "store_visible": false,
       "metadata_file": "4115450/DLCs/5068070.json"
@@ -7474,8 +7474,8 @@
     },
     "5184170": {
       "appid": "5184170",
-      "name": "",
-      "image": "",
+      "name": "AppID 5184170",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5184170/header.jpg",
       "parent": "2054970",
       "store_visible": false,
       "metadata_file": ""
