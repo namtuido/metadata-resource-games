@@ -7188,7 +7188,7 @@
     ],
     "launch_exe": "Bin\\Win64\\Anno117.exe",
     "launch_exe_after_fix": "",
-    "build_id": "24988830",
+    "build_id": "26607411",
     "has_metadata": true,
     "depot_base": 3274581,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3274580/1f132300f5a3f394f34ced6ca0cb017d1f1abe14/library_capsule.jpg",
@@ -7198,9 +7198,9 @@
     ],
     "versions": [
       {
-        "id": "24988830",
-        "branch": "public",
-        "label": "Public - Build 24988830 (08/28/2026)",
+        "id": "26607411",
+        "branch": "public Anno 117: Pax Romana – Patch 3.0.1",
+        "label": "Public - Build 26607411 (11/12/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -7223,9 +7223,59 @@
         ]
       },
       {
+        "id": "26043928",
+        "branch": "public 🔥Anno 117: Pax Romana – Update 3.0",
+        "label": "Build 26043928 (10/19/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1716751",
+          "3274581",
+          "3274582",
+          "3274583",
+          "3274584",
+          "3274585"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "24988830",
+        "branch": "public No title",
+        "label": "Build 24988830 (08/28/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1716751",
+          "3274581",
+          "3274582",
+          "3274583",
+          "3274584",
+          "3274585"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "24632735",
-        "branch": "public",
-        "label": "Public - Build 24632735 (08/09/2026)",
+        "branch": "public 🔥Anno 117: Pax Romana – Update 2.0",
+        "label": "Build 24632735 (08/09/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
