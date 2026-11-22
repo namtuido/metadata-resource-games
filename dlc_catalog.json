@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795063784,
+  "updated_at": 1795354349,
   "total_games": 65,
   "total_dlcs": 817,
   "games": {
@@ -6395,10 +6395,11 @@
     "4080260": {
       "appid": "4080260",
       "name": "EA SPORTS FC™ 27",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080260/header.jpg",
+      "image": "",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4080260.json"
+      "metadata_file": "4080220/DLCs/4080260.json",
+      "metadata_status": "appinfo"
     },
     "4097630": {
       "appid": "4097630",
@@ -6550,7 +6551,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4314910/3cd310a64661bac3d23b275820475ab5f3065e71/header.jpg",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4314910.json"
+      "metadata_file": "4080220/DLCs/4314910.json",
+      "metadata_status": "appinfo"
     },
     "4328110": {
       "appid": "4328110",
@@ -6755,18 +6757,20 @@
     "4458650": {
       "appid": "4458650",
       "name": "EA SPORTS FC™ 27",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458650/header.jpg",
+      "image": "",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4458650.json"
+      "metadata_file": "4080220/DLCs/4458650.json",
+      "metadata_status": "appinfo"
     },
     "4458660": {
       "appid": "4458660",
       "name": "EA SPORTS FC™ 27 Standard Edition Pre-Purchase content",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458660/header.jpg",
+      "image": "",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4458660.json"
+      "metadata_file": "4080220/DLCs/4458660.json",
+      "metadata_status": "appinfo"
     },
     "4458680": {
       "appid": "4458680",
@@ -6774,7 +6778,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458680/b5ad7f1221cd4757b530c600ddfa7324fceb3e37/header.jpg",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4458680.json"
+      "metadata_file": "4080220/DLCs/4458680.json",
+      "metadata_status": "appinfo"
     },
     "4458690": {
       "appid": "4458690",
@@ -6782,15 +6787,17 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458690/2b4ca4b732afb6afdcbe68f2038efb5c9583070c/header.jpg",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4458690.json"
+      "metadata_file": "4080220/DLCs/4458690.json",
+      "metadata_status": "appinfo"
     },
     "4458700": {
       "appid": "4458700",
       "name": "EA SPORTS FC 27 - Press Offer Key",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458700/header.jpg",
+      "image": "",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4458700.json"
+      "metadata_file": "4080220/DLCs/4458700.json",
+      "metadata_status": "appinfo"
     },
     "4488060": {
       "appid": "4488060",
@@ -7086,7 +7093,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574040/0de85e9210e4c763f660e845c0fa956dfea0b9f6/header.jpg",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4574040.json"
+      "metadata_file": "4080220/DLCs/4574040.json",
+      "metadata_status": "appinfo"
     },
     "4601250": {
       "appid": "4601250",
@@ -7126,7 +7134,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4636910/2b4ca4b732afb6afdcbe68f2038efb5c9583070c/header.jpg",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4636910.json"
+      "metadata_file": "4080220/DLCs/4636910.json",
+      "metadata_status": "appinfo"
     },
     "4637600": {
       "appid": "4637600",
@@ -7323,10 +7332,11 @@
     "4917970": {
       "appid": "4917970",
       "name": "EA SPORTS FC™ 27",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4917970/header.jpg",
+      "image": "",
       "parent": "4080220",
       "store_visible": false,
-      "metadata_file": "4080220/DLCs/4917970.json"
+      "metadata_file": "4080220/DLCs/4917970.json",
+      "metadata_status": "appinfo"
     },
     "4944070": {
       "appid": "4944070",
@@ -7487,6 +7497,16 @@
       "parent": "2828710",
       "store_visible": false,
       "metadata_file": "2828710/DLCs/5250300.json"
+    }
+  },
+  "coverage": {
+    "4080220": {
+      "discovered": 10,
+      "stored": 10,
+      "full_appinfo": 10,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
     }
   }
 }
