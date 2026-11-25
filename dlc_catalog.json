@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795354349,
+  "updated_at": 1795623697,
   "total_games": 65,
   "total_dlcs": 817,
   "games": {
@@ -5582,7 +5582,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3596810/a5b113ee64c4678afceabd57814aecbb646712f4/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3596810.json"
+      "metadata_file": "1172710/DLCs/3596810.json",
+      "metadata_status": "appinfo"
     },
     "3596890": {
       "appid": "3596890",
@@ -5590,7 +5591,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3596890/9d7b9d12d96cccab0c4629fc603b1732aab33517/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3596890.json"
+      "metadata_file": "1172710/DLCs/3596890.json",
+      "metadata_status": "appinfo"
     },
     "3596900": {
       "appid": "3596900",
@@ -5598,7 +5600,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3596900/388ef1b919d4093a06c34aa22f1cc79604ab4e81/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3596900.json"
+      "metadata_file": "1172710/DLCs/3596900.json",
+      "metadata_status": "appinfo"
     },
     "3596920": {
       "appid": "3596920",
@@ -5606,7 +5609,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3596920/e8a3da55758d40109a358b30c5f8b71d082e74af/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3596920.json"
+      "metadata_file": "1172710/DLCs/3596920.json",
+      "metadata_status": "appinfo"
     },
     "3596930": {
       "appid": "3596930",
@@ -5614,7 +5618,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3596930/d8786ce097552f4a2f580426a7d94a522aabaeb9/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3596930.json"
+      "metadata_file": "1172710/DLCs/3596930.json",
+      "metadata_status": "appinfo"
     },
     "3604150": {
       "appid": "3604150",
@@ -5622,7 +5627,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604150/8c92f3bf58836dc8e74b3b66d58c0c43b31efc3b/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604150.json"
+      "metadata_file": "1172710/DLCs/3604150.json",
+      "metadata_status": "appinfo"
     },
     "3604160": {
       "appid": "3604160",
@@ -5630,7 +5636,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604160/876be0004674b32f03a973894e14391cb9cfbcab/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604160.json"
+      "metadata_file": "1172710/DLCs/3604160.json",
+      "metadata_status": "appinfo"
     },
     "3604170": {
       "appid": "3604170",
@@ -5638,7 +5645,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604170/661e6b9208cf809a38cdc863e29b4154093e8fc6/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604170.json"
+      "metadata_file": "1172710/DLCs/3604170.json",
+      "metadata_status": "appinfo"
     },
     "3604180": {
       "appid": "3604180",
@@ -5646,7 +5654,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604180/86c59fcf111603b9e872ebad31a049154fc28d79/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604180.json"
+      "metadata_file": "1172710/DLCs/3604180.json",
+      "metadata_status": "appinfo"
     },
     "3604190": {
       "appid": "3604190",
@@ -5654,7 +5663,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604190/4f1cd62c6672d1886cc2ff42bfc979cf848a7673/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604190.json"
+      "metadata_file": "1172710/DLCs/3604190.json",
+      "metadata_status": "appinfo"
     },
     "3604200": {
       "appid": "3604200",
@@ -5662,7 +5672,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604200/f42ac9ca66f4373cb1a64f50e9522268a1fe652e/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604200.json"
+      "metadata_file": "1172710/DLCs/3604200.json",
+      "metadata_status": "appinfo"
     },
     "3604210": {
       "appid": "3604210",
@@ -5670,7 +5681,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604210/73501a692f5caffa60dd50f49bc32f808ea3bdd3/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604210.json"
+      "metadata_file": "1172710/DLCs/3604210.json",
+      "metadata_status": "appinfo"
     },
     "3604270": {
       "appid": "3604270",
@@ -5678,7 +5690,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604270/f7394dc6643453c0c55f0dd5c228a26993dbd7bf/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604270.json"
+      "metadata_file": "1172710/DLCs/3604270.json",
+      "metadata_status": "appinfo"
     },
     "3604280": {
       "appid": "3604280",
@@ -5686,7 +5699,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3604280/c15c29d4aeefe96db96ff657cfb642e36539f7bc/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3604280.json"
+      "metadata_file": "1172710/DLCs/3604280.json",
+      "metadata_status": "appinfo"
     },
     "3635880": {
       "appid": "3635880",
@@ -5774,7 +5788,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3796170/a31173b3cf9330a34b94a6d3f7b08db70214d6ad/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/3796170.json"
+      "metadata_file": "1172710/DLCs/3796170.json",
+      "metadata_status": "appinfo"
     },
     "3841290": {
       "appid": "3841290",
@@ -6471,7 +6486,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4156640/5f773a50afd5e4a44dce6053d54c2f5fa2e1f0e4/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/4156640.json"
+      "metadata_file": "1172710/DLCs/4156640.json",
+      "metadata_status": "appinfo"
     },
     "4168120": {
       "appid": "4168120",
@@ -7271,7 +7287,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4857580/0b8e032a438a8ae2f75329b8c3510bf65ceb7f20/header.jpg",
       "parent": "1172710",
       "store_visible": false,
-      "metadata_file": "1172710/DLCs/4857580.json"
+      "metadata_file": "1172710/DLCs/4857580.json",
+      "metadata_status": "appinfo"
     },
     "4872930": {
       "appid": "4872930",
@@ -7504,6 +7521,14 @@
       "discovered": 10,
       "stored": 10,
       "full_appinfo": 10,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
+    },
+    "1172710": {
+      "discovered": 17,
+      "stored": 17,
+      "full_appinfo": 17,
       "steam_store": 0,
       "parent_appinfo": 0,
       "missing_files": []

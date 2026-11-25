@@ -13,7 +13,7 @@
     ],
     "launch_exe": "DuneSandbox.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26083551",
+    "build_id": "26592269",
     "has_metadata": true,
     "depot_base": 1172711,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172710/a831468f7e9c5ff7cd83b154257947d1190a4138/library_capsule.jpg",
@@ -23,9 +23,9 @@
     ],
     "versions": [
       {
-        "id": "26083551",
-        "branch": "public",
-        "label": "Public - Build 26083551 (10/20/2026)",
+        "id": "26592269",
+        "branch": "public Dune: Awakening - Hotfix 1.5.20.2 Patch Notes",
+        "label": "Public - Build 26592269 (11/11/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -46,9 +46,32 @@
         ]
       },
       {
+        "id": "26083551",
+        "branch": "public Dune: Awakening - 1.5.15.2 Hotfix Patch Notes",
+        "label": "Build 26083551 (10/20/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1172711",
+          "3604191"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25789117",
-        "branch": "public",
-        "label": "Public - Build 25789117 (10/08/2026)",
+        "branch": "public Dune: Awakening - 1.5.3.7 Hotfix Patch Notes",
+        "label": "Build 25789117 (10/08/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -70,8 +93,8 @@
       },
       {
         "id": "25328929",
-        "branch": "public",
-        "label": "Public - Build 25328929 (09/16/2026)",
+        "branch": "public 🔥THE NEW DUNE: AWAKENING IS HERE",
+        "label": "Build 25328929 (09/16/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [

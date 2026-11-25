@@ -2,8 +2,36 @@
   "_lastChecked": 1792112018,
   "_history": [
     {
+      "buildId": "26592269",
+      "branch": "public Dune: Awakening - Hotfix 1.5.20.2 Patch Notes",
+      "timeUpdated": 1794403577,
+      "firstSeen": 1795623593,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "1172711": {
+          "gid": "2886118799278994797",
+          "size": 43512188515,
+          "download": 36279798768
+        },
+        "3604191": {
+          "gid": "1970619944737853826",
+          "size": 41752552,
+          "download": 40527760
+        }
+      }
+    },
+    {
       "buildId": "26083551",
-      "branch": "public",
+      "branch": "public Dune: Awakening - 1.5.15.2 Hotfix Patch Notes",
       "timeUpdated": 1792511676,
       "firstSeen": 1792954540,
       "manifests": {
@@ -31,7 +59,7 @@
     },
     {
       "buildId": "25789117",
-      "branch": "public",
+      "branch": "public Dune: Awakening - 1.5.3.7 Hotfix Patch Notes",
       "timeUpdated": 1791409479,
       "firstSeen": 1792955157,
       "manifests": {
@@ -59,7 +87,7 @@
     },
     {
       "buildId": "25328929",
-      "branch": "public",
+      "branch": "public 🔥THE NEW DUNE: AWAKENING IS HERE",
       "timeUpdated": 1789494208,
       "firstSeen": 1792955019,
       "manifests": {
