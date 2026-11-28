@@ -2,8 +2,31 @@
   "_lastChecked": 1793240470,
   "_history": [
     {
+      "buildId": "26936481",
+      "branch": "public Phantom Blade Zero — Patch Notes (Version 1.0304629)",
+      "timeUpdated": 1795657628,
+      "firstSeen": 1795862514,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "4115451": {
+          "gid": "8647769604535472556",
+          "size": 150630799723,
+          "download": 148092331040
+        }
+      }
+    },
+    {
       "buildId": "26367565",
-      "branch": "public",
+      "branch": "public Phantom Blade Zero — Patch Notes (Version 1.0302256)",
       "timeUpdated": 1793572060,
       "firstSeen": 1793794909,
       "manifests": {
@@ -26,7 +49,7 @@
     },
     {
       "buildId": "26266538",
-      "branch": "public",
+      "branch": "public Reason and Madness",
       "timeUpdated": 1793179570,
       "firstSeen": 1793240601,
       "manifests": {

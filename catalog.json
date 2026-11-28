@@ -12523,7 +12523,7 @@
     ],
     "launch_exe": "steam\\PBZ.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26367565",
+    "build_id": "26936481",
     "has_metadata": true,
     "depot_base": 4115451,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4115450/471e77854910665c03eb9a53ad06f2ac12903acd/library_capsule.jpg",
@@ -12533,9 +12533,9 @@
     ],
     "versions": [
       {
-        "id": "26367565",
-        "branch": "public",
-        "label": "Public - Build 26367565 (11/02/2026)",
+        "id": "26936481",
+        "branch": "public Phantom Blade Zero — Patch Notes (Version 1.0304629)",
+        "label": "Public - Build 26936481 (11/26/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -12555,9 +12555,31 @@
         ]
       },
       {
+        "id": "26367565",
+        "branch": "public Phantom Blade Zero — Patch Notes (Version 1.0302256)",
+        "label": "Build 26367565 (11/02/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "4115451"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "26266538",
-        "branch": "public",
-        "label": "Public - Build 26266538 (10/28/2026)",
+        "branch": "public Reason and Madness",
+        "label": "Build 26266538 (10/28/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795623697,
+  "updated_at": 1795862591,
   "total_games": 65,
   "total_dlcs": 817,
   "games": {
@@ -7449,7 +7449,8 @@
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041150/8558cd3a188a5dfb5e9a8f51919aba6c0be95b29/header.jpg",
       "parent": "4115450",
       "store_visible": false,
-      "metadata_file": "4115450/DLCs/5041150.json"
+      "metadata_file": "4115450/DLCs/5041150.json",
+      "metadata_status": "appinfo"
     },
     "5067170": {
       "appid": "5067170",
@@ -7478,10 +7479,11 @@
     "5068070": {
       "appid": "5068070",
       "name": "Phantom Blade Zero Pre-Purchase Bonus",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068070/header.jpg",
+      "image": "",
       "parent": "4115450",
       "store_visible": false,
-      "metadata_file": "4115450/DLCs/5068070.json"
+      "metadata_file": "4115450/DLCs/5068070.json",
+      "metadata_status": "appinfo"
     },
     "5134010": {
       "appid": "5134010",
@@ -7529,6 +7531,14 @@
       "discovered": 17,
       "stored": 17,
       "full_appinfo": 17,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
+    },
+    "4115450": {
+      "discovered": 2,
+      "stored": 2,
+      "full_appinfo": 2,
       "steam_store": 0,
       "parent_appinfo": 0,
       "missing_files": []
